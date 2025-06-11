@@ -1,115 +1,187 @@
 {
   "titulo": "Gestión del riesgo en la escena",
   "preguntas": [
-    {
-      "question": "¿Cuál es la definición de \"riesgo\" según el Instituto de Salud Pública (ISP) de Chile?",
-      "options": [
-        "Cualquier evento que cause daño estructural a un vehículo.",
-        "La suma de los daños potenciales más la dificultad de mitigarlos.",
-        "La combinación de la probabilidad de ocurrencia de un evento peligroso y la gravedad del daño que pueda causar.",
-        "La amenaza directa a los rescatistas provocada por la manipulación de herramientas."
-      ],
-      "answer": "La combinación de la probabilidad de ocurrencia de un evento peligroso y la gravedad del daño que pueda causar.",
-      "explanation": "El ISP define el riesgo como la combinación entre la probabilidad de un evento peligroso y la gravedad del daño resultante. Las otras opciones distorsionan la definición técnica."
-    },
-    {
-      "question": "¿Cuál es el objetivo principal de la gestión de riesgos en la escena de una emergencia?",
-      "options": [
-        "Acelerar la maniobra de extricación.",
-        "Coordinar la intervención de medios policiales.",
-        "Garantizar la seguridad del paciente y de los rescatistas en todas las fases del rescate.",
-        "Reducir el tiempo de tránsito vehicular."
-      ],
-      "answer": "Garantizar la seguridad del paciente y de los rescatistas en todas las fases del rescate.",
-      "explanation": "Toda gestión de riesgos busca preservar la seguridad del equipo y del paciente desde el inicio hasta la finalización del rescate."
-    },
-    {
-      "question": "¿Cuáles son las tres etapas fundamentales del proceso de gestión del riesgo en la escena?",
-      "options": [
-        "Diagnóstico, intervención, evaluación.",
-        "Prevención, contención, evacuación.",
-        "Preparación, respuesta y finalización del trabajo.",
-        "Estabilización, extracción, transporte."
-      ],
-      "answer": "Preparación, respuesta y finalización del trabajo.",
-      "explanation": "La gestión del riesgo se estructura en preparación (prevención), respuesta (evaluación y control) y finalización (cierre seguro de la operación). Las otras opciones no reflejan la sistemática enseñada en el manual."
-    },
-    {
-      "question": "¿Qué medidas debe mantener el equipo de rescate durante la etapa de finalización del trabajo para evitar lesiones?",
-      "options": [
-        "Utilizar solo guantes para guardar herramientas.",
-        "Permitir el ingreso de nuevos rescatistas para agilizar el retiro.",
-        "Mantener todas las medidas de protección y señalización hasta que el material esté completamente replegado.",
-        "Desconectar los equipos eléctricos apenas se extrae al paciente."
-      ],
-      "answer": "Mantener todas las medidas de protección y señalización hasta que el material esté completamente replegado.",
-      "explanation": "Muchos accidentes ocurren en la fase final, por lo que la protección debe mantenerse hasta la total desconexión y repliegue del material."
-    },
-    {
-      "question": "¿Qué representa el riesgo psicológico en el contexto del rescate vehicular?",
-      "options": [
-        "Una evaluación subjetiva sin relevancia práctica.",
-        "El nivel de tensión muscular generado por el uso de herramientas.",
-        "Un riesgo latente asociado al impacto emocional del rescate, que debe ser monitoreado y tratado si es necesario.",
-        "Un tipo de riesgo que solo aplica a los pacientes y no al personal de rescate."
-      ],
-      "answer": "Un riesgo latente asociado al impacto emocional del rescate, que debe ser monitoreado y tratado si es necesario.",
-      "explanation": "El estrés postraumático puede afectar gravemente al rescatista y debe considerarse parte de la seguridad integral."
-    },
-    {
-      "question": "¿Cuál de las siguientes medidas corresponde a una mitigación de riesgo y no a su eliminación?",
-      "options": [
-        "Cortar la batería del vehículo.",
-        "Desconectar el sistema de airbags.",
-        "Aplicar espuma sobre un derrame de combustible.",
-        "Retirar un poste caído de la zona de trabajo."
-      ],
-      "answer": "Aplicar espuma sobre un derrame de combustible.",
-      "explanation": "La mitigación reduce el impacto del riesgo sin eliminar su causa, como en el caso de cubrir un derrame. El corte de batería o retiro de objetos elimina directamente el riesgo."
-    },
-    {
-      "question": "¿Cuál es la principal responsabilidad del Jefe de Seguridad durante un rescate vehicular?",
-      "options": [
-        "Decidir las maniobras de extricación.",
-        "Controlar el uso de herramientas hidráulicas.",
-        "Proponer y supervisar el plan de control de riesgos al Jefe de Operaciones.",
-        "Coordinar la restitución del tránsito con Carabineros."
-      ],
-      "answer": "Proponer y supervisar el plan de control de riesgos al Jefe de Operaciones.",
-      "explanation": "El Jefe de Seguridad es el encargado de analizar y proponer estrategias de control de riesgos durante toda la operación."
-    },
-    {
-      "question": "¿Cuáles son los dos tipos principales de riesgos clasificados durante la fase de respuesta?",
-      "options": [
-        "Riesgos visibles y riesgos ocultos.",
-        "Riesgos internos y externos.",
-        "Riesgos de la escena y riesgos de la zona de trabajo.",
-        "Riesgos médicos y riesgos mecánicos."
-      ],
-      "answer": "Riesgos de la escena y riesgos de la zona de trabajo.",
-      "explanation": "El manual clasifica los riesgos en aquellos que afectan el entorno general (escena) y los propios del área donde se realiza la intervención directa (zona de trabajo)."
-    },
-    {
-      "question": "¿Qué riesgo estructural puede persistir oculto tras un impacto vehicular y ser liberado por las maniobras del rescatista?",
-      "options": [
-        "La energía cinética residual acumulada en la estructura.",
-        "El sobrecalentamiento del motor.",
-        "La fuga de refrigerante.",
-        "La tensión de los cinturones de seguridad."
-      ],
-      "answer": "La energía cinética residual acumulada en la estructura.",
-      "explanation": "La energía del impacto puede quedar almacenada en componentes del vehículo y liberarse de forma peligrosa durante la extricación si no se detecta a tiempo."
-    },
-    {
-      "question": "¿Qué acción inicial se recomienda para detectar riesgos eléctricos en la escena?",
-      "options": [
-        "Utilizar una sierra manual sobre el capó del vehículo.",
-        "Inspeccionar visualmente el tablero de control.",
-        "Evaluar la escena con un bastón detector de voltaje.",
-        "Confirmar verbalmente con Carabineros si hay cables expuestos."
-      ],
-      "answer": "Evaluar la escena con un bastón detector de voltaje.",
-      "explanation": "La detección de riesgos eléctricos debe realizarse con instrumentos especializados, como el bastón detector de voltaje, para garantizar la seguridad del equipo."
-    }
+     {
+    "question": "En relación al reconocimiento de riesgos en la escena, es correcto afirmar que:",
+    "options": [
+      "Es de exclusiva responsabilidad del Jefe de Seguridad.",
+      "La escena solo será evaluada antes de iniciar las maniobras de extricación.",
+      "Las maniobras de rescate NO modifican la condición de seguridad de la escena.",
+      "Las maniobras de extricación se iniciarán sólo una vez manejados los riesgos de la escena.",
+      "Ninguna de las alternativas es correcta."
+    ],
+    "answer": "Las maniobras de extricación se iniciarán sólo una vez manejados los riesgos de la escena.",
+    "explanation": "El inicio de las maniobras de extricación debe realizarse únicamente cuando los riesgos en la escena han sido reconocidos, evaluados y controlados, a fin de garantizar la seguridad del personal y de la víctima."
+  },
+  {
+    "question": "¿Qué condición debe cumplirse antes de iniciar las maniobras de extricación según principios básicos?",
+    "options": [
+      "Tener confirmación médica de lesiones internas.",
+      "Contar con una ambulancia en el lugar.",
+      "Haber manejado adecuadamente los riesgos en la escena.",
+      "Verificar el nivel de combustible del vehículo."
+    ],
+    "answer": "Haber manejado adecuadamente los riesgos en la escena.",
+    "explanation": "La intervención técnica no debe comenzar hasta que la seguridad esté controlada para evitar lesiones al personal o víctima."
+  },
+  {
+    "question": "¿Cuál es una de las razones fundamentales para realizar una evaluación constante de la escena durante todo el rescate?",
+    "options": [
+      "La evaluación se hace una sola vez, al inicio de la operación.",
+      "Las condiciones de seguridad pueden cambiar por efecto de las maniobras.",
+      "Es parte del protocolo legal del Ministerio de Salud.",
+      "Permite enfocar los esfuerzos solo en la víctima atrapada."
+    ],
+    "answer": "Las condiciones de seguridad pueden cambiar por efecto de las maniobras.",
+    "explanation": "Toda intervención (corte, extracción, movimiento de estructuras) puede generar nuevos riesgos, por lo que la evaluación debe ser continua."
+  },
+  {
+    "question": "¿Cuál de las siguientes es una forma reconocida de manejar los riesgos en la escena según la Lección 2?",
+    "options": [
+      "Evitar toda intervención hasta que llegue personal especializado.",
+      "Esperar que desaparezcan los riesgos con el tiempo.",
+      "Identificar, mitigar o eliminar los riesgos cuando sea posible.",
+      "Ignorar los riesgos menores para ganar tiempo en el rescate."
+    ],
+    "answer": "Identificar, mitigar o eliminar los riesgos cuando sea posible.",
+    "explanation": "Manejar riesgos implica reconocerlos, reducir su impacto y, cuando es factible, eliminarlos completamente."
+  },
+  {
+    "question": "Los riesgos en la escena de un accidente vehicular pueden ser manejados de varias formas, entre las que se cuentan:",
+    "options": [
+      "Eliminado",
+      "Identificado",
+      "Mitigado",
+      "Solo a) y b) son correctas.",
+      "Solo a), b) y c) son correctas."
+    ],
+    "answer": "Solo a), b) y c) son correctas.",
+    "explanation": "El manejo de riesgos implica su identificación, eliminación cuando es posible y, en caso contrario, su mitigación para reducir su impacto durante las operaciones."
+  },
+  {
+    "question": "Los riesgos en la zona de trabajo corresponden a:",
+    "options": [
+      "Las estructuras (vehículos) a intervenir.",
+      "Los equipos utilizados para dicha intervención.",
+      "Los resultados (deformaciones, superficies cortantes) de dichas intervenciones.",
+      "Solo a) y c) son correctas.",
+      "Solo a), b) y c) son correctas."
+    ],
+    "answer": "Solo a), b) y c) son correctas.",
+    "explanation": "Todos los elementos mencionados representan riesgos potenciales en la zona de trabajo y deben ser gestionados adecuadamente para proteger al personal de rescate."
+  },
+  {
+    "question": "¿Qué tipo de riesgo puede surgir como resultado directo de las maniobras de extricación?",
+    "options": [
+      "Lesión auditiva por exposición a alarmas",
+      "Generación de puntos de atrapamiento por colapso estructural",
+      "Fatiga del personal por turnos prolongados",
+      "Confusión entre personal y civiles en el perímetro"
+    ],
+    "answer": "Generación de puntos de atrapamiento por colapso estructural",
+    "explanation": "Las maniobras de corte o desplazamiento de piezas pueden debilitar zonas del vehículo y crear nuevos riesgos mecánicos."
+  },
+  {
+    "question": "¿Qué afirmación es correcta sobre los riesgos generados por el uso de herramientas de extricación?",
+    "options": [
+      "Son inevitables y no pueden preverse.",
+      "No representan riesgo si el vehículo está estabilizado.",
+      "Generan riesgos adicionales como bordes cortantes o inestabilidad.",
+      "Solo afectan al paciente, no al personal interviniente."
+    ],
+    "answer": "Generan riesgos adicionales como bordes cortantes o inestabilidad.",
+    "explanation": "Las herramientas modifican la estructura del vehículo, generando superficies filosas o puntos de colapso inesperado."
+  },
+  {
+    "question": "Con respecto al manejo de riesgos en rescate vehicular, es correcto afirmar que:",
+    "options": [
+      "La preparación para enfrentar riesgos empieza con el entrenamiento.",
+      "El uso completo de EPP NO elimina los riesgos al personal.",
+      "La implementación de un POE disminuye la ocurrencia de accidentes y lesiones al personal.",
+      "Cada rescatista es responsable de su seguridad.",
+      "Todas las alternativas son correctas."
+    ],
+    "answer": "Todas las alternativas son correctas.",
+    "explanation": "El entrenamiento, el uso de EPP, la implementación de POE y la responsabilidad individual son pilares fundamentales e interdependientes en la gestión de riesgos durante el rescate vehicular."
+  },
+  {
+    "question": "Con respecto al uso de EPP en operaciones de extricación, ¿cuál es la afirmación más precisa?",
+    "options": [
+      "El uso de EPP elimina completamente el riesgo.",
+      "Solo es obligatorio para quienes operan herramientas.",
+      "Disminuye el riesgo, pero no lo elimina totalmente.",
+      "Puede ser opcional en condiciones controladas."
+    ],
+    "answer": "Disminuye el riesgo, pero no lo elimina totalmente.",
+    "explanation": "El EPP reduce la probabilidad y severidad de lesiones, pero no garantiza protección total si no se gestiona el entorno."
+  },
+  {
+    "question": "¿Cuál de las siguientes afirmaciones refleja una conducta responsable frente a los riesgos en la escena?",
+    "options": [
+      "Confiar en que el conductor del vehículo apagó el motor.",
+      "Retirar EPP si se percibe baja peligrosidad.",
+      "Usar EPP y seguir el POE sin excepción.",
+      "Priorizar la rapidez del rescate sobre la seguridad."
+    ],
+    "answer": "Usar EPP y seguir el POE sin excepción.",
+    "explanation": "El uso correcto de EPP y el cumplimiento del POE son medidas mínimas de autoprotección profesional."
+  },
+  {
+    "question": "Los Procedimientos de Operación Estándar (POE) deben ser:",
+    "options": [
+      "Definidos a nivel nacional en reunión del consejo ejecutivo.",
+      "Definidos por los equipos médicos locales.",
+      "Definidos por cada Cuerpo de Bomberos de acuerdo a su realidad.",
+      "Aplicados solo en condiciones de entrenamiento.",
+      "Ninguna de las alternativas es correcta."
+    ],
+    "answer": "Definidos por cada Cuerpo de Bomberos de acuerdo a su realidad.",
+    "explanation": "Los POE deben adaptarse a los recursos, entorno operativo y estructura organizacional de cada Cuerpo de Bomberos, permitiendo una implementación eficaz y realista según sus capacidades."
+  },
+  {
+    "question": "Respecto a los Procedimientos de Operación Estándar (POE), ¿cuál es su propósito principal en el contexto del rescate vehicular?",
+    "options": [
+      "Permitir que cada rescatista actúe según su criterio técnico.",
+      "Establecer una estructura improvisada para enfrentar emergencias.",
+      "Estandarizar acciones y minimizar riesgos durante la intervención.",
+      "Limitar la autonomía de los equipos operativos en terreno."
+    ],
+    "answer": "Estandarizar acciones y minimizar riesgos durante la intervención.",
+    "explanation": "Los POE son guías predefinidas que permiten actuar con seguridad, coherencia y eficacia ante escenarios críticos."
+  },
+  {
+    "question": "¿Por qué es fundamental que todos los integrantes de un equipo conozcan el POE institucional?",
+    "options": [
+      "Porque el POE reemplaza la formación técnica individual.",
+      "Para que cada uno actúe según su propio criterio.",
+      "Para asegurar respuestas coordinadas y seguras durante el rescate.",
+      "Para evitar sanciones en caso de inspecciones externas."
+    ],
+    "answer": "Para asegurar respuestas coordinadas y seguras durante el rescate.",
+    "explanation": "El conocimiento compartido del POE permite que las acciones del equipo sean complementarias y sincrónicas ante una emergencia."
+  },
+  {
+    "question": "Con respecto a la finalización de un trabajo de rescate vehicular, es correcto afirmar que:",
+    "options": [
+      "Una vez finalizada la extricación deben retirarse todos los elementos de señalización.",
+      "Deben sancionarse las conductas que se desvíen del procedimiento.",
+      "Pueden retirarse los EPP de acuerdo a las condiciones ambientales.",
+      "Deberá evaluarse en forma crítica el trabajo realizado en busca de mejorar la labor del equipo completo.",
+      "Ninguna de las alternativas es correcta."
+    ],
+    "answer": "Deberá evaluarse en forma crítica el trabajo realizado en busca de mejorar la labor del equipo completo.",
+    "explanation": "La revisión crítica posterior al rescate permite identificar oportunidades de mejora, reforzar buenas prácticas y fortalecer la efectividad del equipo en futuras intervenciones."
+  },
+  {
+    "question": "¿Qué rol cumple la evaluación crítica posterior al rescate vehicular según la Lección 2?",
+    "options": [
+      "Identificar errores para sancionar a los responsables.",
+      "Determinar si el rescate fue exitoso desde el punto de vista legal.",
+      "Mejorar el desempeño futuro mediante retroalimentación del equipo.",
+      "Justificar la demora en el traslado del paciente."
+    ],
+    "answer": "Mejorar el desempeño futuro mediante retroalimentación del equipo.",
+    "explanation": "La evaluación crítica busca revisar lo hecho para aprender y perfeccionar procedimientos en próximas intervenciones."
+  }
   ]
 }
