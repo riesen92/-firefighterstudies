@@ -1,0 +1,115 @@
+{
+  "titulo": "Errores comunes",
+  "preguntas": [
+    {
+      "question": "¿Cuál es uno de los errores más críticos y recurrentes al intervenir en una escena de rescate vehicular?",
+      "options": [
+        "Utilizar camillas rígidas en extricaciones prolongadas.",
+        "Ingresar al habitáculo sin haber estabilizado el vehículo.",
+        "Aplicar la técnica de extricación antes del PATER.",
+        "Retirar el vidrio trasero sin protección ocular."
+      ],
+      "answer": "Ingresar al habitáculo sin haber estabilizado el vehículo.",
+      "explanation": "El ingreso sin estabilización pone en grave riesgo tanto al paciente como al rescatista por posibles movimientos o colapsos estructurales."
+    },
+    {
+      "question": "¿Qué consecuencia puede tener un mal uso del EPP durante una operación de extricación?",
+      "options": [
+        "Retraso en la activación del protocolo PATER.",
+        "Aumento en el tiempo de respuesta del SAMU.",
+        "Exposición directa a cortes, impactos o contaminantes biológicos.",
+        "Mal funcionamiento de herramientas hidráulicas."
+      ],
+      "answer": "Exposición directa a cortes, impactos o contaminantes biológicos.",
+      "explanation": "El EPP protege frente a múltiples riesgos. Usarlo incorrectamente o no usarlo genera exposición directa a lesiones graves."
+    },
+    {
+      "question": "¿Por qué es un error aplicar una técnica de extricación sin haber realizado la reunión tripartita?",
+      "options": [
+        "Porque impide aplicar el sistema de comando de incidentes.",
+        "Porque no permite cargar correctamente las herramientas.",
+        "Porque se omite el análisis clínico y técnico conjunto, afectando la seguridad y efectividad.",
+        "Porque no se define el tipo de vehículo involucrado."
+      ],
+      "answer": "Porque se omite el análisis clínico y técnico conjunto, afectando la seguridad y efectividad.",
+      "explanation": "La reunión tripartita garantiza una planificación integrada entre trauma, extricación y seguridad. Omitirla lleva a intervenciones improvisadas o desalineadas."
+    },
+    {
+      "question": "¿Qué error frecuente se observa al administrar los vidrios del vehículo?",
+      "options": [
+        "Realizar la administración en seco con guantes.",
+        "Retirar el parabrisas antes de los laterales.",
+        "Retirar los vidrios sin protección del paciente ni equipo.",
+        "Romper el vidrio lateral con herramienta neumática."
+      ],
+      "answer": "Retirar los vidrios sin protección del paciente ni equipo.",
+      "explanation": "La falta de protección genera riesgo de lesiones por fragmentos. Siempre debe haber protección blanda o dura previa a la rotura."
+    },
+    {
+      "question": "¿Qué tipo de error se comete al improvisar una técnica sin conocer su procedimiento ni haberla practicado en instrucción?",
+      "options": [
+        "Táctico.",
+        "Operativo.",
+        "Ético.",
+        "Administrativo."
+      ],
+      "answer": "Operativo.",
+      "explanation": "Un error operativo ocurre cuando se ejecuta incorrectamente una acción por falta de técnica, formación o coordinación."
+    },
+    {
+      "question": "¿Qué acción representa un error al momento de elegir la vía de extracción del paciente?",
+      "options": [
+        "Elegir la vía con menor deformación estructural.",
+        "Escoger una vía que favorezca la extracción en 0°.",
+        "Optar por la vía más rápida sin considerar la condición clínica del paciente.",
+        "Ampliar la vía elegida en caso de necesidad."
+      ],
+      "answer": "Optar por la vía más rápida sin considerar la condición clínica del paciente.",
+      "explanation": "Priorizar velocidad sobre condición clínica puede agravar lesiones, contradiciendo el principio de rescate centrado en la víctima."
+    },
+    {
+      "question": "¿Por qué se considera un error continuar usando una herramienta que presenta fallas o resistencia mecánica durante la operación?",
+      "options": [
+        "Porque puede sobrecalentar el sistema hidráulico.",
+        "Porque incrementa la presión interna del motor.",
+        "Porque puede fallar inesperadamente, lesionando al operador o afectando la estabilidad de la maniobra.",
+        "Porque retrasa el acceso al paciente."
+      ],
+      "answer": "Porque puede fallar inesperadamente, lesionando al operador o afectando la estabilidad de la maniobra.",
+      "explanation": "Las herramientas defectuosas son un riesgo directo. Su uso debe ser suspendido y el equipo reemplazado inmediatamente."
+    },
+    {
+      "question": "¿Cuál es una señal clara de un error táctico en la intervención?",
+      "options": [
+        "Aplicar PATER después de iniciar la maniobra.",
+        "Usar equipo de extricación con motor a combustión.",
+        "No informar al paciente antes de iniciar el procedimiento.",
+        "Evaluar al paciente por fuera del vehículo."
+      ],
+      "answer": "Aplicar PATER después de iniciar la maniobra.",
+      "explanation": "El error táctico se refiere a una falla en la secuencia lógica de las operaciones. Aplicar PATER tarde afecta toda la planificación del rescate."
+    },
+    {
+      "question": "¿Qué error relacionado con la comunicación puede impactar negativamente en el desarrollo de una operación de extricación?",
+      "options": [
+        "Repetir las instrucciones en voz alta.",
+        "Utilizar señalética visual en zonas ruidosas.",
+        "Omitir información clínica relevante al Jefe de Operaciones.",
+        "Confirmar verbalmente la finalización del trabajo."
+      ],
+      "answer": "Omitir información clínica relevante al Jefe de Operaciones.",
+      "explanation": "La omisión de información interunidades rompe la coordinación táctica, lo que puede resultar en decisiones inadecuadas o inseguras."
+    },
+    {
+      "question": "¿Cuál es el riesgo principal de no considerar la energía latente acumulada en un vehículo colisionado?",
+      "options": [
+        "Fugas de aceite por presión del motor.",
+        "Apertura espontánea de puertas bloqueadas.",
+        "Liberación repentina de partes estructurales comprimidas, provocando lesiones.",
+        "Aumento del consumo de combustible del vehículo."
+      ],
+      "answer": "Liberación repentina de partes estructurales comprimidas, provocando lesiones.",
+      "explanation": "La energía acumulada en estructuras deformadas puede liberarse al ser manipuladas, afectando a rescatistas o pacientes si no se anticipa ni controla."
+    }
+  ]
+}

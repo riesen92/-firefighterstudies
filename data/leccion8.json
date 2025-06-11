@@ -1,0 +1,115 @@
+{
+  "titulo": "Maniobras accesorias",
+  "preguntas": [
+    {
+      "question": "¿Cuál es el objetivo principal de las maniobras accesorias en un rescate vehicular?",
+      "options": [
+        "Evaluar las condiciones climáticas en la escena.",
+        "Ejecutar la extracción final del paciente.",
+        "Facilitar la aplicación segura de técnicas principales de extricación.",
+        "Dirigir el tránsito vehicular alrededor del accidente."
+      ],
+      "answer": "Facilitar la aplicación segura de técnicas principales de extricación.",
+      "explanation": "Las maniobras accesorias permiten preparar el entorno del vehículo y al paciente para una extricación eficiente y segura, sin sustituir a las técnicas principales."
+    },
+    {
+      "question": "¿Qué se entiende por administración de vidrios en la escena de un rescate vehicular?",
+      "options": [
+        "Determinar si los vidrios pueden ser reutilizados.",
+        "Evaluar el color y el tipo de polarizado.",
+        "Controlar y remover intencionadamente los vidrios para evitar lesiones y facilitar el acceso.",
+        "Lubricar vidrios trabados para abrir puertas."
+      ],
+      "answer": "Controlar y remover intencionadamente los vidrios para evitar lesiones y facilitar el acceso.",
+      "explanation": "La administración de vidrios implica su remoción o control deliberado, protegiendo tanto al paciente como al personal interviniente."
+    },
+    {
+      "question": "¿Cuál es el orden recomendado para remover los vidrios de un vehículo?",
+      "options": [
+        "Parabrisas → Vidrios laterales → Vidrio trasero.",
+        "Vidrios laterales → Vidrio trasero → Parabrisas.",
+        "Parabrisas → Vidrio trasero → Vidrios laterales.",
+        "Vidrio trasero → Parabrisas → Vidrios laterales."
+      ],
+      "answer": "Vidrios laterales → Vidrio trasero → Parabrisas.",
+      "explanation": "Primero se remueven los vidrios laterales para acceder al paciente, luego el vidrio trasero si es necesario, y el parabrisas al final si la maniobra lo requiere."
+    },
+    {
+      "question": "¿Qué tipo de vidrio presenta mayor riesgo al momento de ser removido por su forma de fractura?",
+      "options": [
+        "Vidrio blindado.",
+        "Vidrio laminado.",
+        "Vidrio templado.",
+        "Vidrio acrílico."
+      ],
+      "answer": "Vidrio templado.",
+      "explanation": "El vidrio templado se fragmenta en múltiples partes pequeñas al romperse, lo que puede provocar lesiones por proyección si no se maneja adecuadamente."
+    },
+    {
+      "question": "¿Qué herramienta se recomienda para realizar una administración segura del vidrio templado?",
+      "options": [
+        "Cortavidrios circular.",
+        "Hacha de punta.",
+        "Herramienta de centro de impacto (punch).",
+        "Disco de corte."
+      ],
+      "answer": "Herramienta de centro de impacto (punch).",
+      "explanation": "El punch permite fracturar de forma controlada el vidrio templado, usualmente en una esquina inferior, minimizando riesgos."
+    },
+    {
+      "question": "¿Cuál de las siguientes acciones corresponde a una maniobra accesoria de generación de espacio interior?",
+      "options": [
+        "Uso de tracción en tablero espinal.",
+        "Reclinar el asiento del paciente hacia atrás.",
+        "Retiro inmediato del cinturón de seguridad.",
+        "Rotación de cabeza manual sin collar cervical."
+      ],
+      "answer": "Reclinar el asiento del paciente hacia atrás.",
+      "explanation": "Reclinar el asiento es una maniobra no invasiva que puede generar espacio para maniobras posteriores o estabilizar al paciente."
+    },
+    {
+      "question": "¿Cuál es el objetivo del acceso forzado para expansor en una operación de extricación?",
+      "options": [
+        "Aplicar presión directa sobre el paciente.",
+        "Ingresar al habitáculo por el suelo del vehículo.",
+        "Crear un punto de apoyo inicial para la herramienta hidráulica.",
+        "Romper el sistema de anclaje de la batería."
+      ],
+      "answer": "Crear un punto de apoyo inicial para la herramienta hidráulica.",
+      "explanation": "Se fuerza una pequeña abertura que permita introducir el expansor hidráulico de manera segura para iniciar una maniobra mayor."
+    },
+    {
+      "question": "¿Qué debe hacerse antes de romper cualquier vidrio durante una maniobra accesoria?",
+      "options": [
+        "Consultar a Carabineros.",
+        "Proteger completamente al paciente con protección blanda o dura.",
+        "Confirmar la marca del vidrio.",
+        "Activar el airbag del pasajero."
+      ],
+      "answer": "Proteger completamente al paciente con protección blanda o dura.",
+      "explanation": "Es fundamental proteger al paciente con elementos adecuados antes de romper vidrios para evitar cortes o lesiones por proyecciones."
+    },
+    {
+      "question": "¿Qué elemento no debe usarse para remover un parabrisas laminado?",
+      "options": [
+        "Cuchillo tipo “L” o de corte.",
+        "Sierra de cable tipo “manivela”.",
+        "Rompevidrios para vidrio templado.",
+        "Cortavidrios neumático."
+      ],
+      "answer": "Rompevidrios para vidrio templado.",
+      "explanation": "El rompevidrios es adecuado para vidrios templados, pero no para vidrios laminados que requieren corte continuo de ambas capas del laminado."
+    },
+    {
+      "question": "¿Por qué es importante ejecutar maniobras accesorias de forma ordenada y controlada?",
+      "options": [
+        "Para garantizar la evaluación psicológica del paciente.",
+        "Para no interferir con las comunicaciones radiales.",
+        "Para evitar generar nuevos riesgos o lesiones al paciente durante el proceso.",
+        "Para reducir el uso de combustible en herramientas."
+      ],
+      "answer": "Para evitar generar nuevos riesgos o lesiones al paciente durante el proceso.",
+      "explanation": "Las maniobras accesorias mal ejecutadas pueden provocar nuevos daños o complicaciones clínicas, por lo que deben ser cuidadosamente planificadas y aplicadas."
+    }
+  ]
+}

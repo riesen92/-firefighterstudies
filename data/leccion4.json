@@ -1,0 +1,115 @@
+{
+  "titulo": "Equipos de Protección Personal (EPP) y herramientas para la extricación",
+  "preguntas": [
+    {
+      "question": "¿Cuál es el objetivo principal del uso de Equipos de Protección Personal (EPP) en operaciones de extricación vehicular?",
+      "options": [
+        "Proteger exclusivamente al paciente durante la extracción.",
+        "Disminuir la cantidad de herramientas necesarias para el rescate.",
+        "Minimizar el riesgo de lesiones mecánicas, térmicas y biológicas del rescatista.",
+        "Aumentar la velocidad de las maniobras de extricación."
+      ],
+      "answer": "Minimizar el riesgo de lesiones mecánicas, térmicas y biológicas del rescatista.",
+      "explanation": "El EPP protege al rescatista de múltiples riesgos físicos y biológicos durante las maniobras de rescate. Las otras opciones malinterpretan su función."
+    },
+    {
+      "question": "¿Cuál de los siguientes elementos no forma parte del EPP mínimo obligatorio en rescate vehicular?",
+      "options": [
+        "Casco estructural con protección facial.",
+        "Guantes estructurales o de extricación.",
+        "Máscara de respiración autónoma.",
+        "Calzado de seguridad con puntera reforzada."
+      ],
+      "answer": "Máscara de respiración autónoma.",
+      "explanation": "El equipo de respiración autónoma no forma parte del EPP mínimo obligatorio para rescate vehicular, salvo condiciones excepcionales como presencia de gases tóxicos o fuego."
+    },
+    {
+      "question": "¿Qué tipo de protección entregan los guantes de extricación en comparación con los estructurales?",
+      "options": [
+        "Mayor protección térmica y menor sensibilidad al tacto.",
+        "Menor protección química y mayor absorción de impactos.",
+        "Mayor sensibilidad táctil y adecuada protección mecánica.",
+        "Exclusiva protección contra líquidos corrosivos."
+      ],
+      "answer": "Mayor sensibilidad táctil y adecuada protección mecánica.",
+      "explanation": "Los guantes de extricación están diseñados para ofrecer protección contra riesgos mecánicos, manteniendo la destreza manual necesaria para operaciones precisas."
+    },
+    {
+      "question": "¿Por qué es fundamental el uso de protección ocular durante las maniobras de extricación?",
+      "options": [
+        "Porque evita el cansancio visual en maniobras prolongadas.",
+        "Porque protege de impactos, esquirlas y proyecciones de líquidos o partículas.",
+        "Porque mejora la visibilidad nocturna en zonas rurales.",
+        "Porque sirve para comunicar señales ópticas al equipo."
+      ],
+      "answer": "Porque protege de impactos, esquirlas y proyecciones de líquidos o partículas.",
+      "explanation": "El principal objetivo es proteger los ojos de fragmentos proyectados por corte de vidrios, metal, o exposición a fluidos."
+    },
+    {
+      "question": "¿Cuál de las siguientes herramientas se clasifica como hidráulica y es común en extricación vehicular?",
+      "options": [
+        "Cizalla de brazo largo.",
+        "Amoladora angular.",
+        "Expansor tipo \"combi\".",
+        "Palanca Halligan."
+      ],
+      "answer": "Expansor tipo \"combi\".",
+      "explanation": "El expansor \"combi\" es una herramienta hidráulica multifunción muy utilizada en rescate. Las demás pertenecen a otras categorías (manuales o eléctricas)."
+    },
+    {
+      "question": "¿Cuál es una característica fundamental que debe cumplir una herramienta de extricación para su uso seguro en escena?",
+      "options": [
+        "Ser preferentemente de fabricación nacional.",
+        "Poseer homologación, mantenimiento periódico y estar capacitado su operador.",
+        "Requiere ser operada por al menos tres bomberos simultáneamente.",
+        "No necesitar conexión energética para evitar riesgos."
+      ],
+      "answer": "Poseer homologación, mantenimiento periódico y estar capacitado su operador.",
+      "explanation": "Toda herramienta debe cumplir con normas, estar en buen estado y ser manipulada por personal entrenado para prevenir accidentes y asegurar eficacia."
+    },
+    {
+      "question": "¿Qué riesgo puede provocar una herramienta hidráulica mal posicionada durante una maniobra?",
+      "options": [
+        "Fugas de refrigerante del vehículo.",
+        "Descarga térmica repentina.",
+        "Proyección de fragmentos metálicos o compresión del operador.",
+        "Generación de chispas eléctricas espontáneas."
+      ],
+      "answer": "Proyección de fragmentos metálicos o compresión del operador.",
+      "explanation": "Una mala posición puede provocar inestabilidad en la herramienta, resultando en proyecciones o atrapamientos peligrosos."
+    },
+    {
+      "question": "¿Por qué no se deben pisar las mangueras hidráulicas durante una operación de rescate?",
+      "options": [
+        "Porque el contacto directo con la bota contamina la escena.",
+        "Porque disminuye la presión del sistema y puede comprometer la funcionalidad de la herramienta.",
+        "Porque aumentan su temperatura y se vuelven frágiles.",
+        "Porque genera ruido que interfiere en las comunicaciones."
+      ],
+      "answer": "Porque disminuye la presión del sistema y puede comprometer la funcionalidad de la herramienta.",
+      "explanation": "Pisar o doblar las mangueras puede generar una baja de presión y riesgo de falla hidráulica, afectando directamente el desempeño y seguridad."
+    },
+    {
+      "question": "¿Cuál de los siguientes elementos se considera un accesorio de protección para la víctima durante la extricación?",
+      "options": [
+        "Batefuegos de caucho.",
+        "Pantalla térmica.",
+        "Protección blanda y protección dura.",
+        "Chaleco reflectante."
+      ],
+      "answer": "Protección blanda y protección dura.",
+      "explanation": "La protección blanda (lona o plásticos) y dura (placas de polipropileno) protegen a la víctima de cortes, golpes o fragmentos proyectados."
+    },
+    {
+      "question": "¿Qué debe hacer un operador ante una herramienta eléctrica con falla de aislamiento o mal funcionamiento?",
+      "options": [
+        "Continuar la operación con mayor precaución.",
+        "Detener su uso inmediatamente y reportarla para su retiro y mantenimiento.",
+        "Cambiar el uso por una herramienta hidráulica sin reportar.",
+        "Limpiarla con agua y volver a intentar su operación."
+      ],
+      "answer": "Detener su uso inmediatamente y reportarla para su retiro y mantenimiento.",
+      "explanation": "El uso de herramientas defectuosas está estrictamente prohibido. Deben retirarse y reportarse inmediatamente para evitar riesgos eléctricos o mecánicos."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "titulo": "Mecánica y seguridad",
+  "preguntas": [
+    {
+      "question": "¿Cuál de las siguientes afirmaciones describe correctamente una carrocería del tipo \"monocasco\"?",
+      "options": [
+        "Es una estructura reforzada sobre un chasis independiente para mayor estabilidad.",
+        "Consiste en dos vigas longitudinales unidas por travesaños metálicos.",
+        "Es una estructura única soldada donde todas las partes cumplen una función estructural.",
+        "Se utiliza principalmente en vehículos de carga como camiones y camionetas."
+      ],
+      "answer": "Es una estructura única soldada donde todas las partes cumplen una función estructural.",
+      "explanation": "La carrocería tipo monocasco está formada por chapas soldadas que integran una sola estructura rígida. Las otras opciones describen chasis independientes o usos distintos."
+    },
+    {
+      "question": "¿Cuál es el objetivo de las zonas de deformación programada en la estructura de un vehículo?",
+      "options": [
+        "Facilitar la extracción del motor tras una colisión.",
+        "Incrementar la velocidad de desplazamiento en caminos urbanos.",
+        "Absorber la energía del impacto y proteger a los ocupantes.",
+        "Reducir la necesidad de herramientas hidráulicas durante el rescate."
+      ],
+      "answer": "Absorber la energía del impacto y proteger a los ocupantes.",
+      "explanation": "Estas zonas están diseñadas para deformarse controladamente en una colisión, minimizando el impacto sobre los ocupantes."
+    },
+    {
+      "question": "¿Cuáles son los nombres de los pilares estructurales según su ubicación desde el frontal hacia la parte posterior del vehículo?",
+      "options": [
+        "Alfa, Beta, Gamma.",
+        "A, B, C.",
+        "Primario, Medio, Posterior.",
+        "X, Y, Z."
+      ],
+      "answer": "A, B, C.",
+      "explanation": "Los pilares se nombran alfabéticamente desde adelante hacia atrás: A (delantero), B (central), y C (trasero)."
+    },
+    {
+      "question": "¿Qué estructura del vehículo está especialmente diseñada para proteger a los ocupantes durante un accidente?",
+      "options": [
+        "El zócalo.",
+        "El compartimiento del motor.",
+        "El módulo de deformación lateral.",
+        "El habitáculo."
+      ],
+      "answer": "El habitáculo.",
+      "explanation": "El habitáculo o célula de seguridad es la estructura reforzada destinada a proteger a los ocupantes durante una colisión."
+    },
+    {
+      "question": "¿Qué precaución debe tener un rescatista al desconectar una batería de automóvil en una escena de rescate?",
+      "options": [
+        "Cortar primero el cable positivo sin desconectar el contacto.",
+        "Cortar ambos cables simultáneamente para ahorrar tiempo.",
+        "Cortar primero el cable negativo y luego el positivo, aislando este último.",
+        "Cortar el cable positivo con el motor en marcha."
+      ],
+      "answer": "Cortar primero el cable negativo y luego el positivo, aislando este último.",
+      "explanation": "Para evitar arcos eléctricos, debe cortarse primero el cable negativo y luego el positivo, el cual debe aislarse para prevenir contactos metálicos."
+    },
+    {
+      "question": "¿Qué característica tienen los vehículos híbridos que representa un riesgo adicional para el personal de rescate?",
+      "options": [
+        "Uso de estructuras de refuerzo ultrarresistentes.",
+        "Sistema de propulsión diésel de alta presión.",
+        "Presencia de sistemas eléctricos de alta tensión.",
+        "Tanques de gas subterráneos."
+      ],
+      "answer": "Presencia de sistemas eléctricos de alta tensión.",
+      "explanation": "Los vehículos híbridos poseen sistemas de alta tensión en sus baterías y cableado, representando un riesgo eléctrico importante."
+    },
+    {
+      "question": "¿Cuál es el propósito del panel frontal en la estructura de un vehículo?",
+      "options": [
+        "Canalizar el flujo del motor hacia el maletero.",
+        "Evitar la activación de airbags durante el rescate.",
+        "Unir el compartimiento del motor con el habitáculo, permitiendo paso de elementos mecánicos y eléctricos.",
+        "Servir como base del sistema de frenos."
+      ],
+      "answer": "Unir el compartimiento del motor con el habitáculo, permitiendo paso de elementos mecánicos y eléctricos.",
+      "explanation": "El panel frontal conecta el compartimiento motor con el habitáculo, facilitando el paso de sistemas como dirección, frenos y cableado."
+    },
+    {
+      "question": "¿Qué acción debe realizarse antes de cortar la corriente eléctrica de un vehículo con batería deformada o de difícil acceso?",
+      "options": [
+        "Romper el parabrisas para observar el tablero.",
+        "Presionar el botón STOP o retirar la llave del contacto.",
+        "Cortar cualquier cable visible.",
+        "Vaciar el sistema de combustible."
+      ],
+      "answer": "Presionar el botón STOP o retirar la llave del contacto.",
+      "explanation": "Si no se puede acceder a la batería, debe retirarse la llave o presionar el botón STOP para detener el suministro eléctrico de forma segura."
+    },
+    {
+      "question": "¿Cuál es una medida adecuada para mitigar los riesgos asociados al uso de herramientas durante una extricación?",
+      "options": [
+        "Usar herramientas sin conexión a tierra para evitar cortocircuitos.",
+        "Posicionarse entre la herramienta y la estructura del vehículo.",
+        "Utilizar protección mecánica completa y evitar contacto directo con zonas de corte.",
+        "Utilizar herramientas eléctricas cerca del derrame de combustible para acelerar el proceso."
+      ],
+      "answer": "Utilizar protección mecánica completa y evitar contacto directo con zonas de corte.",
+      "explanation": "El uso correcto de EPP y la ubicación segura del operador son claves para evitar lesiones durante el uso de herramientas."
+    },
+    {
+      "question": "¿Qué función cumple el sistema de dirección y frenado, y por qué debe considerarse durante el corte de energía?",
+      "options": [
+        "Se activa solo en maniobras de tránsito y no afecta el rescate.",
+        "Permite activar las luces de emergencia en caso de necesidad.",
+        "Su desconexión prematura podría afectar maniobras que requieran mover el vehículo o controlarlo.",
+        "Disminuye la velocidad del motor en modo de emergencia."
+      ],
+      "answer": "Su desconexión prematura podría afectar maniobras que requieran mover el vehículo o controlarlo.",
+      "explanation": "En vehículos modernos, la dirección y frenos pueden ser eléctricos, por lo que un corte prematuro de energía podría dificultar su uso durante maniobras tácticas."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "titulo": "Acceso al paciente",
+  "preguntas": [
+    {
+      "question": "¿Cuál es el objetivo principal de la etapa de acceso al paciente en un rescate vehicular?",
+      "options": [
+        "Evaluar los daños estructurales del vehículo.",
+        "Establecer contacto inicial con el paciente para informar y evaluar su condición.",
+        "Desplegar herramientas para comenzar la extricación.",
+        "Ejecutar el traslado del paciente hacia el puesto médico avanzado."
+      ],
+      "answer": "Establecer contacto inicial con el paciente para informar y evaluar su condición.",
+      "explanation": "El objetivo es establecer contacto desde el exterior, evaluar estado de consciencia e informar al paciente del procedimiento. Es clave para un rescate centrado en la víctima."
+    },
+    {
+      "question": "¿Quién es el responsable de realizar el primer contacto con el paciente desde el exterior del vehículo?",
+      "options": [
+        "Jefe de Seguridad.",
+        "Jefe de Operaciones.",
+        "Jefe de Trauma.",
+        "Operador de Extricación."
+      ],
+      "answer": "Jefe de Trauma.",
+      "explanation": "El Jefe de Trauma establece el primer contacto, evalúa al paciente y coordina las acciones clínicas iniciales."
+    },
+    {
+      "question": "En caso de encontrar un paciente inconsciente, ¿qué acción debe tomarse inmediatamente desde el exterior?",
+      "options": [
+        "Retirar al paciente sin evaluación adicional.",
+        "Iniciar evaluación ABC del trauma y priorizar acceso inmediato por la Unidad de Trauma.",
+        "Esperar a estabilizar el vehículo antes de intervenir.",
+        "Aplicar PATER sin evaluación previa."
+      ],
+      "answer": "Iniciar evaluación ABC del trauma y priorizar acceso inmediato por la Unidad de Trauma.",
+      "explanation": "Se debe aplicar el ABC del trauma desde el exterior y priorizar el ingreso inmediato de la Unidad de Trauma."
+    },
+    {
+      "question": "¿Qué criterio clínico define el tipo de acceso y técnica de extricación más adecuada para el paciente?",
+      "options": [
+        "Tipo de accidente vehicular.",
+        "Nivel de atrapamiento y condición clínica del paciente.",
+        "Condición del tráfico en la zona.",
+        "Cantidad de operadores disponibles."
+      ],
+      "answer": "Nivel de atrapamiento y condición clínica del paciente.",
+      "explanation": "La combinación de la condición clínica y atrapamiento orienta toda la planificación centrada en el paciente."
+    },
+    {
+      "question": "¿Cuál es el momento adecuado para aplicar el acrónimo PATER durante el acceso?",
+      "options": [
+        "Antes de estabilizar el vehículo.",
+        "Después de la extracción del paciente.",
+        "Tras el contacto inicial y evaluación ABC, previo a la reunión tripartita.",
+        "Luego del debriefing operativo."
+      ],
+      "answer": "Tras el contacto inicial y evaluación ABC, previo a la reunión tripartita.",
+      "explanation": "El Jefe de Trauma reporta el PATER tras el contacto inicial, evaluando la situación del paciente antes de definir el plan operativo."
+    },
+    {
+      "question": "¿Qué representa la “P” en el acrónimo PATER?",
+      "options": [
+        "Plan de evacuación.",
+        "Parámetros vitales.",
+        "Posición del paciente en el vehículo.",
+        "Estado del paciente basado en la evaluación del ABC del trauma."
+      ],
+      "answer": "Estado del paciente basado en la evaluación del ABC del trauma.",
+      "explanation": "La \"P\" indica el estado clínico del paciente luego del ABC, fundamental para decidir la estrategia de rescate."
+    },
+    {
+      "question": "¿Cuál es la acción más adecuada si el acceso por puertas está obstruido y el paciente presenta dificultad respiratoria?",
+      "options": [
+        "Esperar a que llegue personal médico avanzado.",
+        "Aplicar técnica de extracción sin contacto previo.",
+        "Buscar vía de acceso alternativa priorizando rapidez y mínimo trauma.",
+        "Romper parabrisas sin protección previa."
+      ],
+      "answer": "Buscar vía de acceso alternativa priorizando rapidez y mínimo trauma.",
+      "explanation": "Se debe encontrar una vía rápida y segura para ingresar al paciente con mínima invasividad, acorde al principio de rescate centrado en la víctima."
+    },
+    {
+      "question": "¿Cuál es el criterio para que el Jefe de Trauma solicite el ingreso físico de la Unidad de Trauma al interior del vehículo?",
+      "options": [
+        "Si el paciente tiene lesiones en extremidades.",
+        "Si el paciente está consciente pero con dolor.",
+        "Si el paciente está inconsciente o presenta deterioro clínico significativo.",
+        "Si no hay personal de extricación disponible."
+      ],
+      "answer": "Si el paciente está inconsciente o presenta deterioro clínico significativo.",
+      "explanation": "El ingreso físico ocurre cuando el paciente está clínicamente comprometido y requiere atención directa inmediata."
+    },
+    {
+      "question": "¿Qué consideraciones debe tener el rescatista para garantizar un acceso seguro al paciente?",
+      "options": [
+        "Evaluar presencia de airbags no activados, riesgos eléctricos y de combustible.",
+        "Acceder rápidamente sin estabilizar para acortar tiempos.",
+        "Priorizar el retiro de los vidrios para ventilar el habitáculo.",
+        "Interrumpir el tráfico vehicular manualmente antes de ingresar."
+      ],
+      "answer": "Evaluar presencia de airbags no activados, riesgos eléctricos y de combustible.",
+      "explanation": "La seguridad del acceso depende de la eliminación previa de riesgos estructurales y funcionales en el vehículo."
+    },
+    {
+      "question": "¿Qué elemento permite integrar la evaluación clínica y técnica en una planificación conjunta para el acceso al paciente?",
+      "options": [
+        "La selección del equipo hidráulico adecuado.",
+        "El análisis del tipo de impacto vehicular.",
+        "El reporte del PATER y la reunión tripartita.",
+        "La revisión de la ficha del paciente."
+      ],
+      "answer": "El reporte del PATER y la reunión tripartita.",
+      "explanation": "La combinación del PATER con la reunión tripartita garantiza que el plan de acceso se fundamente en las condiciones clínicas y técnicas del caso."
+    }
+  ]
+}

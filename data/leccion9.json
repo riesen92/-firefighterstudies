@@ -1,0 +1,115 @@
+{
+  "titulo": "Técnicas de extricación",
+  "preguntas": [
+    {
+      "question": "¿Cuál es el objetivo principal de una técnica de extricación en el contexto de rescate vehicular?",
+      "options": [
+        "Liberar el vehículo de la vía pública.",
+        "Permitir el acceso del personal médico a la escena.",
+        "Crear condiciones seguras para liberar al paciente atrapado sin agravar sus lesiones.",
+        "Determinar el tipo de herramientas hidráulicas a utilizar."
+      ],
+      "answer": "Crear condiciones seguras para liberar al paciente atrapado sin agravar sus lesiones.",
+      "explanation": "Las técnicas de extricación permiten intervenir sobre la estructura del vehículo para liberar al paciente, cuidando su estado clínico."
+    },
+    {
+      "question": "¿Cuando se considera que una técnica de extricación está correctamente ejecutada?",
+      "options": [
+        "Cuando se completa en menos de 10 minutos.",
+        "Cuando se utiliza el mayor número de herramientas disponibles.",
+        "Cuando cumple los criterios de lógica, rapidez, seguridad, calidad e inmejorabilidad.",
+        "Cuando permite extraer al paciente sin romper vidrios."
+      ],
+      "answer": "Cuando cumple los criterios de lógica, rapidez, seguridad, calidad e inmejorabilidad.",
+      "explanation": "Estos cinco criterios son fundamentales para validar la calidad técnica y operativa de una maniobra de extricación."
+    },
+    {
+      "question": "¿Quién es el responsable de ejecutar la técnica de extricación en la escena?",
+      "options": [
+        "Unidad de Seguridad.",
+        "Unidad de Extricación.",
+        "Unidad de Trauma.",
+        "Jefe de Transporte."
+      ],
+      "answer": "Unidad de Extricación.",
+      "explanation": "La Unidad de Extricación ejecuta la técnica siguiendo el plan definido tras la reunión tripartita, en coordinación con las demás unidades."
+    },
+    {
+      "question": "¿Cuál es el criterio determinante para definir qué técnica de extricación aplicar?",
+      "options": [
+        "Nivel de entrenamiento de la Unidad de Extricación.",
+        "Disponibilidad de herramientas.",
+        "Tipo de vehículo involucrado.",
+        "Estado clínico del paciente y nivel de atrapamiento."
+      ],
+      "answer": "Estado clínico del paciente y nivel de atrapamiento.",
+      "explanation": "El paciente y su condición guían la selección de la técnica, bajo el principio de rescate centrado en la víctima."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una técnica de extricación considerada de tipo “convencional”?",
+      "options": [
+        "Rebatimiento del tablero.",
+        "Acceso a través de piso.",
+        "Levantamiento vertical por cabina.",
+        "Extracción mediante camilla espinal."
+      ],
+      "answer": "Rebatimiento del tablero.",
+      "explanation": "El rebatimiento del tablero es una técnica estructural convencional, útil en atrapamientos de miembros inferiores por deformación del frontal del vehículo."
+    },
+    {
+      "question": "¿Qué función cumple la reunión tripartita antes de ejecutar una técnica de extricación?",
+      "options": [
+        "Determinar qué paciente será trasladado primero.",
+        "Coordinar el uso compartido de herramientas entre unidades.",
+        "Acordar de forma conjunta (Trauma, Extricación y Seguridad) la mejor técnica según PATER.",
+        "Informar a la prensa del procedimiento."
+      ],
+      "answer": "Acordar de forma conjunta (Trauma, Extricación y Seguridad) la mejor técnica según PATER.",
+      "explanation": "La reunión tripartita permite tomar una decisión táctica coordinada entre los tres responsables operativos, priorizando la seguridad y condición clínica del paciente."
+    },
+    {
+      "question": "¿Cuál es una técnica de extricación adecuada para liberar atrapamientos severos en el lateral del vehículo?",
+      "options": [
+        "Extracción en 0°.",
+        "Corte de techo.",
+        "Apertura tipo “puerta suicida” (puerta completa).",
+        "Desplazamiento de asientos."
+      ],
+      "answer": "Apertura tipo “puerta suicida” (puerta completa).",
+      "explanation": "La apertura tipo “puerta completa” permite liberar el lateral completo del vehículo, útil ante atrapamientos laterales o para facilitar extracciones controladas."
+    },
+    {
+      "question": "¿Cuál es el principal riesgo al ejecutar una técnica de extricación sin haber completado la estabilización del vehículo?",
+      "options": [
+        "Pérdida de herramientas durante la operación.",
+        "Liberación de tensión eléctrica sin control.",
+        "Movimiento brusco del vehículo que puede causar nuevas lesiones al paciente o al personal.",
+        "Daño en el sistema de suspensión."
+      ],
+      "answer": "Movimiento brusco del vehículo que puede causar nuevas lesiones al paciente o al personal.",
+      "explanation": "Una estructura inestable puede moverse inesperadamente al aplicar fuerza, generando más daño al paciente o lesiones al rescatista."
+    },
+    {
+      "question": "¿Qué diferencia existe entre la extricación en 0° y la extricación controlada?",
+      "options": [
+        "La extricación en 0° se realiza desde el techo; la controlada desde el piso.",
+        "La extricación en 0° implica sacar al paciente en línea recta sin movimiento corporal; la controlada permite maniobras específicas según evaluación.",
+        "No hay diferencia, ambas son sinónimos.",
+        "La controlada es solo para pacientes pediátricos."
+      ],
+      "answer": "La extricación en 0° implica sacar al paciente en línea recta sin movimiento corporal; la controlada permite maniobras específicas según evaluación.",
+      "explanation": "La extricación en 0° es rectilínea y se usa en casos de trauma vertebral. La controlada permite adaptación de la técnica según condición y atrapamiento."
+    },
+    {
+      "question": "¿Qué debe hacer la Unidad de Extricación una vez finalizada su maniobra y entregado el paciente a la Unidad de Trauma?",
+      "options": [
+        "Abandonar la escena para preparar el relevo.",
+        "Ayudar con el traslado hospitalario.",
+        "Retirar herramientas y replegar material solo cuando lo indique el Jefe de Operaciones.",
+        "Realizar informe de prensa técnica."
+      ],
+      "answer": "Retirar herramientas y replegar material solo cuando lo indique el Jefe de Operaciones.",
+      "explanation": "El repliegue y desconexión de material deben realizarse bajo autorización del mando operativo para garantizar seguridad y orden."
+    }
+  ]
+}
