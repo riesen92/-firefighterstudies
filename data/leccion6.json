@@ -1,0 +1,115 @@
+{
+  "titulo": "Estabilización",
+  "preguntas": [
+    {
+      "question": "¿Cuál es el objetivo principal de la etapa de estabilización en un rescate vehicular?",
+      "options": [
+        "Preparar el terreno para el aterrizaje de unidades aéreas.",
+        "Evitar que el paciente sufra nuevas lesiones durante la extracción.",
+        "Controlar los movimientos del vehículo para generar un entorno seguro.",
+        "Acelerar el ingreso del personal de extricación."
+      ],
+      "answer": "Controlar los movimientos del vehículo para generar un entorno seguro.",
+      "explanation": "La estabilización busca controlar movimientos del vehículo o de estructuras que puedan poner en riesgo al paciente o al personal interviniente."
+    },
+    {
+      "question": "¿Quién es el responsable directo de ejecutar las maniobras de estabilización en la escena?",
+      "options": [
+        "Jefe de Trauma.",
+        "Unidad de Seguridad.",
+        "Jefe de Operaciones.",
+        "Unidad de Apoyo Médico."
+      ],
+      "answer": "Unidad de Seguridad.",
+      "explanation": "La Unidad de Seguridad es la encargada de ejecutar la estabilización, según el orden y técnica definidas, después de la evaluación de escena."
+    },
+    {
+      "question": "¿Qué regla nemotécnica resume el orden secuencial de las acciones de estabilización?",
+      "options": [
+        "ABC – PATER – EST",
+        "HO–VE–STOR–5ª–EN–MA–RATCH–EST",
+        "TRIAGE–ABC–EX–RAT",
+        "VEHÍCULO – PACIENTE – ESCENA"
+      ],
+      "answer": "HO–VE–STOR–5ª–EN–MA–RATCH–EST",
+      "explanation": "Esta regla memotécnica contiene los pasos técnicos y su secuencia lógica para una estabilización completa y segura."
+    },
+    {
+      "question": "¿Qué representa la sigla \"HO\" dentro del esquema nemotécnico de estabilización?",
+      "options": [
+        "Hombro del operador.",
+        "Horquilla de maniobra.",
+        "Horizontal: estabilización en sentido lateral.",
+        "Estabilización horizontal del vehículo."
+      ],
+      "answer": "Estabilización horizontal del vehículo.",
+      "explanation": "“HO” indica que se debe asegurar el vehículo para que no tenga desplazamientos laterales. Es la primera acción en estabilización."
+    },
+    {
+      "question": "En el contexto de estabilización, ¿qué acción representa la etapa \"EN\"?",
+      "options": [
+        "Encender luces para mejor visibilidad.",
+        "Evaluar estado neurológico del paciente.",
+        "Rellenar y limitar movimientos entre estructuras.",
+        "Encerrar el perímetro con cinta de seguridad."
+      ],
+      "answer": "Rellenar y limitar movimientos entre estructuras.",
+      "explanation": "\"EN\" implica rellenar los espacios entre obstáculos (como entre vehículos o contra barreras), neutralizando la suspensión o posibles desplazamientos."
+    },
+    {
+      "question": "¿Qué acción debe realizarse antes de instalar los estabilizadores mecánicos o ratchet?",
+      "options": [
+        "Comprobar el tipo de neumáticos del vehículo.",
+        "Confirmar el estado de los cinturones de seguridad.",
+        "Estabilización horizontal y vertical.",
+        "Activación de la extracción en 0°."
+      ],
+      "answer": "Estabilización horizontal y vertical.",
+      "explanation": "Las estabilizaciones mecánicas son una etapa avanzada que debe ser precedida por las acciones HO y VE, para evitar inestabilidad previa."
+    },
+    {
+      "question": "¿Qué representa el concepto \"5ª\" dentro de la regla nemotécnica?",
+      "options": [
+        "Aplicación de la quinta marcha del vehículo.",
+        "Revisión de cinco áreas del entorno inmediato.",
+        "Postura de cuñas bajo ruedas (quinta cuña).",
+        "Control de cinco sistemas internos del auto."
+      ],
+      "answer": "Postura de cuñas bajo ruedas (quinta cuña).",
+      "explanation": "Hace referencia a la postura específica de las cuñas para asegurar la estabilidad desde el eje de apoyo del vehículo."
+    },
+    {
+      "question": "¿Por qué es importante la acción MA (evaluación de apertura manual de accesos)?",
+      "options": [
+        "Porque determina si se debe romper el parabrisas antes de estabilizar.",
+        "Porque permite identificar rutas de extracción sin uso de herramientas invasivas.",
+        "Porque se utiliza para activar airbags manualmente.",
+        "Porque agiliza la colocación de los expansores hidráulicos."
+      ],
+      "answer": "Porque permite identificar rutas de extracción sin uso de herramientas invasivas.",
+      "explanation": "Evaluar la apertura manual de accesos puede evitar técnicas más invasivas o innecesarias si alguna puerta o ventana ya permite ingreso."
+    },
+    {
+      "question": "En una escena con múltiples vehículos inestables, ¿qué representa la acción STOR?",
+      "options": [
+        "Uso del sistema hidráulico del vehículo para estabilizarlo.",
+        "Revisión del estorbo estructural: otro vehículo, poste o barrera.",
+        "Instalación de la estructura rotativa de evacuación.",
+        "Aislamiento de los sistemas eléctricos residuales."
+      ],
+      "answer": "Revisión del estorbo estructural: otro vehículo, poste o barrera.",
+      "explanation": "STOR se refiere a la revisión y manejo de elementos cercanos que pueden convertirse en estorbos o riesgos estructurales (segundo vehículo, poste, cerco, etc.)."
+    },
+    {
+      "question": "¿Cuál es la condición mínima para considerar que una estabilización ha sido válida y operativa?",
+      "options": [
+        "Que permita liberar espacio para maniobras.",
+        "Que no requiera herramientas motorizadas.",
+        "Que sea lógica, completa, rápida, segura e inmejorable.",
+        "Que el vehículo quede inclinado hacia la zona segura."
+      ],
+      "answer": "Que sea lógica, completa, rápida, segura e inmejorable.",
+      "explanation": "Estas cinco características resumen el estándar que debe cumplir cualquier maniobra de estabilización para ser considerada efectiva."
+    }
+  ]
+}

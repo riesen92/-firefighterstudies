@@ -1,0 +1,237 @@
+{
+    "titulo": "Aproximación al rescate",
+    "preguntas": [
+  {
+    "question": "Las acciones que se planifican y desarrollan a lo largo del rescate vehicular, se regirán principalmente por:",
+    "options": [
+      "La evaluación de peligros de la escena.",
+      "La condición de el o los pacientes.",
+      "Las técnicas de extricación a desarrollar.",
+      "Las unidades de trabajo designadas.",
+      "Ninguna de las alternativas es correcta."
+    ],
+    "answer": "La condición de el o los pacientes.",
+    "explanation": "Todas las acciones del rescate vehicular se rigen por la condición del paciente, en función del tipo de trauma y nivel de atrapamiento, lo que permite priorizar maniobras según riesgo vital."
+  },
+  {
+    "question": "El Jefe de Operaciones designará en el perímetro externo las siguientes áreas de trabajo:",
+    "options": [
+      "Área de herramientas y materiales.",
+      "Área de escombros (partes removidas del vehículo).",
+      "Área de concentración de víctimas.",
+      "Todas las alternativas son correctas.",
+      "Solo a) y c) son correctas."
+    ],
+    "answer": "Todas las alternativas son correctas.",
+    "explanation": "Las tres áreas mencionadas deben ser definidas por el Jefe de Operaciones dentro del perímetro externo, conforme al POE indicado en la Lección 1."
+  },
+  {
+    "question": "Se establece como Etapa 0 del rescate vehicular a:",
+    "options": [
+      "La evaluación de la escena.",
+      "La estabilización de los vehículos involucrados.",
+      "La evaluación del ABC del Trauma.",
+      "La evaluación en 360°.",
+      "Ninguna de las alternativas es correcta."
+    ],
+    "answer": "Ninguna de las alternativas es correcta.",
+    "explanation": "La Etapa 0 corresponde a la designación anticipada de Unidades de Trabajo antes de la llegada a la emergencia, no a ninguna de las acciones listadas."
+  },
+  {
+    "question": "El Procedimiento de Operación Estándar (POE) de rescate vehicular establece distintas Unidades de Trabajo, entre las cuales se encuentra(n):",
+    "options": [
+      "Seguridad",
+      "Asistente de ABC del Trauma.",
+      "Extricación",
+      "Todas las alternativas son correctas.",
+      "Solo a) y c) son correctas."
+    ],
+    "answer": "Todas las alternativas son correctas.",
+    "explanation": "El POE contempla las unidades de Seguridad, Trauma (incluye asistente ABC), Equipos y Extricación como componentes estructurales del operativo."
+  },
+  {
+    "question": "Posterior a la evaluación de la escena en 360°, se procederá a:",
+    "options": [
+      "Estabilizar los vehículos involucrados.",
+      "Confirmar y/o reasignar las unidades de trabajo.",
+      "Acceder al paciente.",
+      "Evaluar el estado de los pacientes según el ABC del Trauma.",
+      "Definir el PATER."
+    ],
+    "answer": "Confirmar y/o reasignar las unidades de trabajo.",
+    "explanation": "Luego de la evaluación 360°, se debe confirmar o reasignar unidades de trabajo como paso previo a cualquier intervención directa sobre el paciente o vehículo."
+  },
+  {
+    "question": "La E de PATER, corresponde a:",
+    "options": [
+      "Estado del paciente.",
+      "Evaluación del ABC del Trauma.",
+      "Vía de Extracción del paciente.",
+      "Nivel de Atrapamiento del paciente.",
+      "Ninguna de las alternativas es correcta."
+    ],
+    "answer": "Vía de Extracción del paciente.",
+    "explanation": "La E de PATER representa la vía de extracción que se utilizará para remover al paciente, considerando factores como acceso y condiciones de atrapamiento."
+  },
+  {
+    "question": "La regla nemotécnica de las etapas que permiten estabilizar y controlar los movimientos de los vehículos involucrados en la emergencia durante las maniobras de rescate, en orden secuencial es:",
+    "options": [
+      "VE–HO–STOR–5ª–EN–MA–RATCH–EST",
+      "HO–VE–STOR–5ª–EN–MA–RATCH–EST",
+      "HO–VE–STOR–EN–MA–RATCH–EST–5ª",
+      "VE–HO–STOR–EN–MA–RATCH–EST–5ª",
+      "HO–VE–5ª–EN–STOR–MA–RATCH–EST"
+    ],
+    "answer": "HO–VE–STOR–5ª–EN–MA–RATCH–EST",
+    "explanation": "La secuencia correcta es HO–VE–STOR–5ª–EN–MA–RATCH–EST, lo cual representa el orden sistemático de técnicas de control de movimiento según el POE."
+  },
+  {
+    "question": "En la reunión tripartita, cuando se observe que NO hay pacientes en estado crítico se establecerá(n):",
+    "options": [
+      "Un plan de acción único al que se destinarán todos los recursos necesarios.",
+      "Dos planes de acción, plan óptimo y plan rápido, desarrollándose el plan óptimo primero.",
+      "Tres planes de acción, plan óptimo, plan rápido y plan de extracción desarrollados en dicha secuencia.",
+      "Dos planes de acción: plan óptimo y plan rápido, desarrollándose el plan rápido primero.",
+      "Dos planes de acción: plan óptimo y plan rápido, sin prioridad de desarrollo."
+    ],
+    "answer": "Dos planes de acción, plan óptimo y plan rápido, desarrollándose el plan óptimo primero.",
+    "explanation": "Cuando no hay pacientes críticos, la estrategia indicada es desarrollar primero el plan óptimo, dejando el plan rápido como respaldo ante cambios en la condición del paciente."
+  },
+  {
+    "question": "¿En qué etapa del rescate vehicular se realizan las labores y maniobras de liberación de la víctima?",
+    "options": [
+      "Extracción del paciente.",
+      "Preparación para el transporte.",
+      "Evaluación del paciente.",
+      "Extricación del paciente.",
+      "Ninguna de las alternativas es correcta."
+    ],
+    "answer": "Extricación del paciente.",
+    "explanation": "Las maniobras de liberación del paciente se ejecutan en la etapa de extricación, utilizando herramientas para remover obstrucciones o deformaciones del vehículo."
+  },
+  {
+    "question": "La definición: “Toda el área que rodea la emergencia incluyendo a todos los vehículos, lesionados involucrados y elementos externos afectados por la emergencia”, corresponde a:",
+    "options": [
+      "Perímetro interno.",
+      "Escena",
+      "Perímetro externo.",
+      "Área de concentración de víctimas.",
+      "Solo a y d son correctas."
+    ],
+    "answer": "Escena",
+    "explanation": "El concepto de 'escena' incluye todo el contexto físico y operativo del incidente, no solo zonas delimitadas internas o externas."
+  },
+
+  {
+    "question": "Las letras EST, de la regla nemotécnica de las etapas que permiten estabilizar y controlar los movimientos de los vehículos involucrados, corresponde a:",
+    "options": [
+      "Evaluación/Instalación de estabilizadores.",
+      "Estabilización entre autos, barreras, obstrucciones, etc.",
+      "Estabilización en cuatro (4) puntos.",
+      "Estabilización horizontal.",
+      "Ninguna de las alternativas es correcta."
+    ],
+    "answer": "Estabilización en cuatro (4) puntos.",
+    "explanation": "‘EST’ representa el paso final de estabilización en cuatro puntos, técnica clave para asegurar el vehículo en la fase de intervención con herramientas."
+  },
+  {
+    "question": "¿Cuál es la definición operacional del concepto de extricación según la NFPA 1670?",
+    "options": [
+      "Evaluación clínica del paciente atrapado en un vehículo",
+      "Movimiento de una víctima atrapada mediante fuerza manual",
+      "Remoción de víctimas atrapadas en un accidente vehicular usando técnicas específicas",
+      "Maniobra de estabilización del vehículo para evitar nuevos daños"
+    ],
+    "answer": "Remoción de víctimas atrapadas en un accidente vehicular usando técnicas específicas",
+    "explanation": "La extricación es definida por la NFPA 1670 como la remoción de víctimas atrapadas mediante técnicas específicas."
+  },
+  {
+    "question": "En el modelo de comando de incidentes del rescate vehicular, ¿cuál es el componente que debe guiar todas las decisiones operativas?",
+    "options": [
+      "El jefe de extricación",
+      "El estado del paciente",
+      "La logística del equipo técnico",
+      "El jefe de operaciones tácticas"
+    ],
+    "answer": "El estado del paciente",
+    "explanation": "El estado del paciente determina las decisiones operativas en todo rescate vehicular centrado en la víctima."
+  },
+  {
+    "question": "¿Cuál de las siguientes es la etapa número 5 del protocolo de rescate vehicular?",
+    "options": [
+      "Evaluación de la escena",
+      "Estabilización del vehículo",
+      "ABC del Trauma – PATER",
+      "Extracción del paciente"
+    ],
+    "answer": "ABC del Trauma – PATER",
+    "explanation": "La etapa número 5 corresponde al ABC del Trauma – PATER según el protocolo secuencial presentado."
+  },
+  {
+    "question": "Según el acrónimo PATER, la letra T corresponde a:",
+    "options": [
+      "Transporte del paciente",
+      "Tipo de técnica de extricación a emplear",
+      "Tiempo de intervención",
+      "Tracción aplicada en la zona lumbar"
+    ],
+    "answer": "Tipo de técnica de extricación a emplear",
+    "explanation": "La T en PATER representa la técnica de extricación a desarrollar, sugerida por el jefe de trauma."
+  },
+  {
+    "question": "Durante la etapa de estabilización vehicular, ¿qué representa el elemento MA del acrónimo HO-VE-STOR-5ª-EN-MA-RATCH-EST?",
+    "options": [
+      "Maniobra de extracción",
+      "Montaje de anclajes",
+      "Evaluación de apertura manual de accesos",
+      "Movimiento de ayuda técnica"
+    ],
+    "answer": "Evaluación de apertura manual de accesos",
+    "explanation": "MA representa la evaluación manual de todos los accesos posibles como parte de la estabilización."
+  },
+  {
+    "question": "¿Cuál es el objetivo de la etapa denominada Evaluación – Debriefing?",
+    "options": [
+      "Confirmar diagnóstico médico definitivo",
+      "Coordinar logística de transporte",
+      "Reflexionar sobre el procedimiento y buscar mejoras",
+      "Cerrar el área de operación y retirar el personal"
+    ],
+    "answer": "Reflexionar sobre el procedimiento y buscar mejoras",
+    "explanation": "El Debriefing busca generar aprendizaje operativo a través de la revisión del procedimiento realizado."
+  },
+  {
+    "question": "¿Cuál es el propósito de la reunión tripartita dentro del protocolo de rescate vehicular?",
+    "options": [
+      "Definir la vía aérea segura del paciente",
+      "Distribuir materiales de bioseguridad",
+      "Planificar acciones entre los jefes de trauma, operaciones y salud",
+      "Establecer el punto de evacuación de civiles"
+    ],
+    "answer": "Planificar acciones entre los jefes de trauma, operaciones y salud",
+    "explanation": "La reunión tripartita busca planificar en conjunto las acciones tácticas para la extracción eficiente del paciente."
+  },
+  {
+    "question": "Según el esquema HO-VE-STOR-5ª-EN-MA-RATCH-EST, ¿qué representa STOR?",
+    "options": [
+      "Supervisión de técnica ortopédica rápida",
+      "Evaluación del segundo vehículo o estorbo",
+      "Sistema de tracción de objetos riesgosos",
+      "Señalización técnica orientada al rescate"
+    ],
+    "answer": "Evaluación del segundo vehículo o estorbo",
+    "explanation": "STOR hace referencia al análisis de obstáculos o vehículos que interfieren con la operación."
+  },
+  {
+    "question": "Durante la etapa de Evaluación del riesgo inminente, ¿cuál es la acción más inmediata esperada?",
+    "options": [
+      "Retiro del paciente",
+      "Instalación de estabilizadores",
+      "Eliminación o mitigación de peligros activos",
+      "Solicitud de apoyo médico avanzado"
+    ],
+    "answer": "Eliminación o mitigación de peligros activos",
+    "explanation": "En la fase de evaluación de escena, la prioridad es eliminar o mitigar los riesgos que amenazan al equipo y la víctima."
+  }
+]
+}

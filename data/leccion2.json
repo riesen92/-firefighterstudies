@@ -1,0 +1,115 @@
+{
+  "titulo": "Gestión del riesgo en la escena",
+  "preguntas": [
+    {
+      "question": "¿Cuál es la definición de \"riesgo\" según el Instituto de Salud Pública (ISP) de Chile?",
+      "options": [
+        "Cualquier evento que cause daño estructural a un vehículo.",
+        "La suma de los daños potenciales más la dificultad de mitigarlos.",
+        "La combinación de la probabilidad de ocurrencia de un evento peligroso y la gravedad del daño que pueda causar.",
+        "La amenaza directa a los rescatistas provocada por la manipulación de herramientas."
+      ],
+      "answer": "La combinación de la probabilidad de ocurrencia de un evento peligroso y la gravedad del daño que pueda causar.",
+      "explanation": "El ISP define el riesgo como la combinación entre la probabilidad de un evento peligroso y la gravedad del daño resultante. Las otras opciones distorsionan la definición técnica."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de la gestión de riesgos en la escena de una emergencia?",
+      "options": [
+        "Acelerar la maniobra de extricación.",
+        "Coordinar la intervención de medios policiales.",
+        "Garantizar la seguridad del paciente y de los rescatistas en todas las fases del rescate.",
+        "Reducir el tiempo de tránsito vehicular."
+      ],
+      "answer": "Garantizar la seguridad del paciente y de los rescatistas en todas las fases del rescate.",
+      "explanation": "Toda gestión de riesgos busca preservar la seguridad del equipo y del paciente desde el inicio hasta la finalización del rescate."
+    },
+    {
+      "question": "¿Cuáles son las tres etapas fundamentales del proceso de gestión del riesgo en la escena?",
+      "options": [
+        "Diagnóstico, intervención, evaluación.",
+        "Prevención, contención, evacuación.",
+        "Preparación, respuesta y finalización del trabajo.",
+        "Estabilización, extracción, transporte."
+      ],
+      "answer": "Preparación, respuesta y finalización del trabajo.",
+      "explanation": "La gestión del riesgo se estructura en preparación (prevención), respuesta (evaluación y control) y finalización (cierre seguro de la operación). Las otras opciones no reflejan la sistemática enseñada en el manual."
+    },
+    {
+      "question": "¿Qué medidas debe mantener el equipo de rescate durante la etapa de finalización del trabajo para evitar lesiones?",
+      "options": [
+        "Utilizar solo guantes para guardar herramientas.",
+        "Permitir el ingreso de nuevos rescatistas para agilizar el retiro.",
+        "Mantener todas las medidas de protección y señalización hasta que el material esté completamente replegado.",
+        "Desconectar los equipos eléctricos apenas se extrae al paciente."
+      ],
+      "answer": "Mantener todas las medidas de protección y señalización hasta que el material esté completamente replegado.",
+      "explanation": "Muchos accidentes ocurren en la fase final, por lo que la protección debe mantenerse hasta la total desconexión y repliegue del material."
+    },
+    {
+      "question": "¿Qué representa el riesgo psicológico en el contexto del rescate vehicular?",
+      "options": [
+        "Una evaluación subjetiva sin relevancia práctica.",
+        "El nivel de tensión muscular generado por el uso de herramientas.",
+        "Un riesgo latente asociado al impacto emocional del rescate, que debe ser monitoreado y tratado si es necesario.",
+        "Un tipo de riesgo que solo aplica a los pacientes y no al personal de rescate."
+      ],
+      "answer": "Un riesgo latente asociado al impacto emocional del rescate, que debe ser monitoreado y tratado si es necesario.",
+      "explanation": "El estrés postraumático puede afectar gravemente al rescatista y debe considerarse parte de la seguridad integral."
+    },
+    {
+      "question": "¿Cuál de las siguientes medidas corresponde a una mitigación de riesgo y no a su eliminación?",
+      "options": [
+        "Cortar la batería del vehículo.",
+        "Desconectar el sistema de airbags.",
+        "Aplicar espuma sobre un derrame de combustible.",
+        "Retirar un poste caído de la zona de trabajo."
+      ],
+      "answer": "Aplicar espuma sobre un derrame de combustible.",
+      "explanation": "La mitigación reduce el impacto del riesgo sin eliminar su causa, como en el caso de cubrir un derrame. El corte de batería o retiro de objetos elimina directamente el riesgo."
+    },
+    {
+      "question": "¿Cuál es la principal responsabilidad del Jefe de Seguridad durante un rescate vehicular?",
+      "options": [
+        "Decidir las maniobras de extricación.",
+        "Controlar el uso de herramientas hidráulicas.",
+        "Proponer y supervisar el plan de control de riesgos al Jefe de Operaciones.",
+        "Coordinar la restitución del tránsito con Carabineros."
+      ],
+      "answer": "Proponer y supervisar el plan de control de riesgos al Jefe de Operaciones.",
+      "explanation": "El Jefe de Seguridad es el encargado de analizar y proponer estrategias de control de riesgos durante toda la operación."
+    },
+    {
+      "question": "¿Cuáles son los dos tipos principales de riesgos clasificados durante la fase de respuesta?",
+      "options": [
+        "Riesgos visibles y riesgos ocultos.",
+        "Riesgos internos y externos.",
+        "Riesgos de la escena y riesgos de la zona de trabajo.",
+        "Riesgos médicos y riesgos mecánicos."
+      ],
+      "answer": "Riesgos de la escena y riesgos de la zona de trabajo.",
+      "explanation": "El manual clasifica los riesgos en aquellos que afectan el entorno general (escena) y los propios del área donde se realiza la intervención directa (zona de trabajo)."
+    },
+    {
+      "question": "¿Qué riesgo estructural puede persistir oculto tras un impacto vehicular y ser liberado por las maniobras del rescatista?",
+      "options": [
+        "La energía cinética residual acumulada en la estructura.",
+        "El sobrecalentamiento del motor.",
+        "La fuga de refrigerante.",
+        "La tensión de los cinturones de seguridad."
+      ],
+      "answer": "La energía cinética residual acumulada en la estructura.",
+      "explanation": "La energía del impacto puede quedar almacenada en componentes del vehículo y liberarse de forma peligrosa durante la extricación si no se detecta a tiempo."
+    },
+    {
+      "question": "¿Qué acción inicial se recomienda para detectar riesgos eléctricos en la escena?",
+      "options": [
+        "Utilizar una sierra manual sobre el capó del vehículo.",
+        "Inspeccionar visualmente el tablero de control.",
+        "Evaluar la escena con un bastón detector de voltaje.",
+        "Confirmar verbalmente con Carabineros si hay cables expuestos."
+      ],
+      "answer": "Evaluar la escena con un bastón detector de voltaje.",
+      "explanation": "La detección de riesgos eléctricos debe realizarse con instrumentos especializados, como el bastón detector de voltaje, para garantizar la seguridad del equipo."
+    }
+  ]
+}

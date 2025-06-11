@@ -1,0 +1,115 @@
+{
+  "titulo": "Lección 5: Soporte Vital Básico del paciente atrapado",
+  "preguntas": [
+    {
+      "question": "¿Cuál es el objetivo principal de aplicar el ABC del trauma al paciente atrapado?",
+      "options": [
+        "Determinar el tipo de vehículo en el que se encontraba.",
+        "Establecer si el paciente debe ser trasladado por vía aérea.",
+        "Evaluar y asegurar las funciones vitales antes de proceder a maniobras de extricación.",
+        "Confirmar si el paciente requiere inmovilización completa."
+      ],
+      "answer": "Evaluar y asegurar las funciones vitales antes de proceder a maniobras de extricación.",
+      "explanation": "El ABC del trauma se enfoca en priorizar la vía aérea, respiración y circulación, asegurando la estabilidad vital del paciente antes de intervenir estructuralmente."
+    },
+    {
+      "question": "¿Qué representa la letra \"T\" en el acrónimo PATER, utilizado para la evaluación de pacientes atrapados?",
+      "options": [
+        "Tiempo estimado de rescate.",
+        "Tipo de trauma observado.",
+        "Técnica de extricación a aplicar.",
+        "Tipo de tracción a utilizar."
+      ],
+      "answer": "Técnica de extricación a aplicar.",
+      "explanation": "“T” corresponde a la técnica de extricación sugerida por el Jefe de Trauma y definida por el Jefe de Operaciones, según el estado del paciente y atrapamiento."
+    },
+    {
+      "question": "¿Cuál de los siguientes no es un tipo de atrapamiento según la lección?",
+      "options": [
+        "Anatómico.",
+        "Mecánico.",
+        "Químico.",
+        "Mixto."
+      ],
+      "answer": "Químico.",
+      "explanation": "El atrapamiento químico no existe en la clasificación de atrapamientos en esta lección. Los tipos definidos son anatómico, mecánico, físico y mixto."
+    },
+    {
+      "question": "¿Cuál de las siguientes situaciones representa un atrapamiento físico?",
+      "options": [
+        "Lesión muscular que impide el movimiento.",
+        "Presión estructural del vehículo sobre el cuerpo del paciente.",
+        "Fractura expuesta por caída desde el vehículo.",
+        "Herida penetrante en el abdomen."
+      ],
+      "answer": "Presión estructural del vehículo sobre el cuerpo del paciente.",
+      "explanation": "El atrapamiento físico es causado por estructuras externas que comprimen o retienen al paciente dentro del vehículo."
+    },
+    {
+      "question": "En el acrónimo PATER, ¿qué elemento define la vía de salida planificada para el paciente?",
+      "options": [
+        "P.",
+        "A.",
+        "E.",
+        "R."
+      ],
+      "answer": "E.",
+      "explanation": "“E” corresponde a la vía de extracción, es decir, por dónde se retirará físicamente al paciente del vehículo (puerta, techo, ventana, etc.)."
+    },
+    {
+      "question": "¿Qué diferencia a la extracción de emergencia de la extricación rápida?",
+      "options": [
+        "La emergencia se aplica en pacientes conscientes y la rápida en inconscientes.",
+        "La emergencia es una maniobra inmediata sin técnicas, mientras que la rápida sigue una planificación mínima.",
+        "La rápida se hace con herramientas neumáticas y la emergencia con manuales.",
+        "No existe diferencia, son sinónimos."
+      ],
+      "answer": "La emergencia es una maniobra inmediata sin técnicas, mientras que la rápida sigue una planificación mínima.",
+      "explanation": "La extracción de emergencia es una acción inmediata, en casos de peligro vital inminente, sin herramientas ni planificación. La rápida considera una técnica mínima ante deterioro clínico."
+    },
+    {
+      "question": "¿Cuál es la secuencia correcta de evaluación según el ABC del trauma?",
+      "options": [
+        "Cabeza, cuello, extremidades.",
+        "Atrapamiento, extricación, traslado.",
+        "Vía aérea, respiración, circulación.",
+        "Nivel de conciencia, vía aérea, sangrado."
+      ],
+      "answer": "Vía aérea, respiración, circulación.",
+      "explanation": "La secuencia ABC se refiere a A: Airway (vía aérea), B: Breathing (respiración), y C: Circulation (circulación). Es la base de la evaluación prehospitalaria."
+    },
+    {
+      "question": "Según el manual, ¿qué tipo de impacto vehicular suele generar mayores niveles de atrapamiento estructural severo?",
+      "options": [
+        "Colisión trasera.",
+        "Colisión frontal.",
+        "Choque leve lateral.",
+        "Vuelco estacionario."
+      ],
+      "answer": "Colisión frontal.",
+      "explanation": "Las colisiones frontales generan deformaciones mayores en la parte delantera del vehículo, donde usualmente se encuentra el conductor, aumentando el riesgo de atrapamiento estructural."
+    },
+    {
+      "question": "¿Qué indica el “R” en el acrónimo PATER?",
+      "options": [
+        "Riesgo estructural.",
+        "Rol del operador.",
+        "Recursos o elementos necesarios para la extracción.",
+        "Respiración del paciente."
+      ],
+      "answer": "Recursos o elementos necesarios para la extracción.",
+      "explanation": "El \"R\" hace referencia a los recursos materiales o equipos requeridos para ejecutar la extracción segura del paciente."
+    },
+    {
+      "question": "¿Qué condición del paciente justifica el uso inmediato del plan rápido de extricación?",
+      "options": [
+        "Dolor moderado y signos vitales estables.",
+        "Politrauma estable con atrapamiento leve.",
+        "Presencia de paro cardiorrespiratorio (PCR) o deterioro clínico severo.",
+        "Laceraciones superficiales sin atrapamiento."
+      ],
+      "answer": "Presencia de paro cardiorrespiratorio (PCR) o deterioro clínico severo.",
+      "explanation": "El plan rápido se activa ante deterioro crítico o PCR, priorizando la velocidad de extracción por sobre la calidad técnica o planificación habitual."
+    }
+  ]
+}
