@@ -2,114 +2,198 @@
   "titulo": "Mecánica y seguridad",
   "preguntas": [
     {
-      "question": "¿Cuál de las siguientes afirmaciones describe correctamente una carrocería del tipo \"monocasco\"?",
-      "options": [
-        "Es una estructura reforzada sobre un chasis independiente para mayor estabilidad.",
-        "Consiste en dos vigas longitudinales unidas por travesaños metálicos.",
-        "Es una estructura única soldada donde todas las partes cumplen una función estructural.",
-        "Se utiliza principalmente en vehículos de carga como camiones y camionetas."
-      ],
-      "answer": "Es una estructura única soldada donde todas las partes cumplen una función estructural.",
-      "explanation": "La carrocería tipo monocasco está formada por chapas soldadas que integran una sola estructura rígida. Las otras opciones describen chasis independientes o usos distintos."
-    },
-    {
-      "question": "¿Cuál es el objetivo de las zonas de deformación programada en la estructura de un vehículo?",
-      "options": [
-        "Facilitar la extracción del motor tras una colisión.",
-        "Incrementar la velocidad de desplazamiento en caminos urbanos.",
-        "Absorber la energía del impacto y proteger a los ocupantes.",
-        "Reducir la necesidad de herramientas hidráulicas durante el rescate."
-      ],
-      "answer": "Absorber la energía del impacto y proteger a los ocupantes.",
-      "explanation": "Estas zonas están diseñadas para deformarse controladamente en una colisión, minimizando el impacto sobre los ocupantes."
-    },
-    {
-      "question": "¿Cuáles son los nombres de los pilares estructurales según su ubicación desde el frontal hacia la parte posterior del vehículo?",
-      "options": [
-        "Alfa, Beta, Gamma.",
-        "A, B, C.",
-        "Primario, Medio, Posterior.",
-        "X, Y, Z."
-      ],
-      "answer": "A, B, C.",
-      "explanation": "Los pilares se nombran alfabéticamente desde adelante hacia atrás: A (delantero), B (central), y C (trasero)."
-    },
-    {
-      "question": "¿Qué estructura del vehículo está especialmente diseñada para proteger a los ocupantes durante un accidente?",
-      "options": [
-        "El zócalo.",
-        "El compartimiento del motor.",
-        "El módulo de deformación lateral.",
-        "El habitáculo."
-      ],
-      "answer": "El habitáculo.",
-      "explanation": "El habitáculo o célula de seguridad es la estructura reforzada destinada a proteger a los ocupantes durante una colisión."
-    },
-    {
-      "question": "¿Qué precaución debe tener un rescatista al desconectar una batería de automóvil en una escena de rescate?",
-      "options": [
-        "Cortar primero el cable positivo sin desconectar el contacto.",
-        "Cortar ambos cables simultáneamente para ahorrar tiempo.",
-        "Cortar primero el cable negativo y luego el positivo, aislando este último.",
-        "Cortar el cable positivo con el motor en marcha."
-      ],
-      "answer": "Cortar primero el cable negativo y luego el positivo, aislando este último.",
-      "explanation": "Para evitar arcos eléctricos, debe cortarse primero el cable negativo y luego el positivo, el cual debe aislarse para prevenir contactos metálicos."
-    },
-    {
-      "question": "¿Qué característica tienen los vehículos híbridos que representa un riesgo adicional para el personal de rescate?",
-      "options": [
-        "Uso de estructuras de refuerzo ultrarresistentes.",
-        "Sistema de propulsión diésel de alta presión.",
-        "Presencia de sistemas eléctricos de alta tensión.",
-        "Tanques de gas subterráneos."
-      ],
-      "answer": "Presencia de sistemas eléctricos de alta tensión.",
-      "explanation": "Los vehículos híbridos poseen sistemas de alta tensión en sus baterías y cableado, representando un riesgo eléctrico importante."
-    },
-    {
-      "question": "¿Cuál es el propósito del panel frontal en la estructura de un vehículo?",
-      "options": [
-        "Canalizar el flujo del motor hacia el maletero.",
-        "Evitar la activación de airbags durante el rescate.",
-        "Unir el compartimiento del motor con el habitáculo, permitiendo paso de elementos mecánicos y eléctricos.",
-        "Servir como base del sistema de frenos."
-      ],
-      "answer": "Unir el compartimiento del motor con el habitáculo, permitiendo paso de elementos mecánicos y eléctricos.",
-      "explanation": "El panel frontal conecta el compartimiento motor con el habitáculo, facilitando el paso de sistemas como dirección, frenos y cableado."
-    },
-    {
-      "question": "¿Qué acción debe realizarse antes de cortar la corriente eléctrica de un vehículo con batería deformada o de difícil acceso?",
-      "options": [
-        "Romper el parabrisas para observar el tablero.",
-        "Presionar el botón STOP o retirar la llave del contacto.",
-        "Cortar cualquier cable visible.",
-        "Vaciar el sistema de combustible."
-      ],
-      "answer": "Presionar el botón STOP o retirar la llave del contacto.",
-      "explanation": "Si no se puede acceder a la batería, debe retirarse la llave o presionar el botón STOP para detener el suministro eléctrico de forma segura."
-    },
-    {
-      "question": "¿Cuál es una medida adecuada para mitigar los riesgos asociados al uso de herramientas durante una extricación?",
-      "options": [
-        "Usar herramientas sin conexión a tierra para evitar cortocircuitos.",
-        "Posicionarse entre la herramienta y la estructura del vehículo.",
-        "Utilizar protección mecánica completa y evitar contacto directo con zonas de corte.",
-        "Utilizar herramientas eléctricas cerca del derrame de combustible para acelerar el proceso."
-      ],
-      "answer": "Utilizar protección mecánica completa y evitar contacto directo con zonas de corte.",
-      "explanation": "El uso correcto de EPP y la ubicación segura del operador son claves para evitar lesiones durante el uso de herramientas."
-    },
-    {
-      "question": "¿Qué función cumple el sistema de dirección y frenado, y por qué debe considerarse durante el corte de energía?",
-      "options": [
-        "Se activa solo en maniobras de tránsito y no afecta el rescate.",
-        "Permite activar las luces de emergencia en caso de necesidad.",
-        "Su desconexión prematura podría afectar maniobras que requieran mover el vehículo o controlarlo.",
-        "Disminuye la velocidad del motor en modo de emergencia."
-      ],
-      "answer": "Su desconexión prematura podría afectar maniobras que requieran mover el vehículo o controlarlo.",
-      "explanation": "En vehículos modernos, la dirección y frenos pueden ser eléctricos, por lo que un corte prematuro de energía podría dificultar su uso durante maniobras tácticas."
-    }
+    "question": "¿Cuál es el objetivo principal de la etapa de APERTURA en un procedimiento de extricación vehicular?",
+    "options": [
+      "Acceder a las baterías para evitar cortocircuitos",
+      "Crear una vía de entrada para los rescatistas",
+      "Liberar los sistemas de airbag para evitar activaciones accidentales",
+      "Retirar objetos sueltos en el habitáculo"
+    ],
+    "answer": "Crear una vía de entrada para los rescatistas",
+    "explanation": "La etapa de apertura tiene como propósito principal generar una vía de acceso segura y eficaz al interior del vehículo para que los rescatistas puedan evaluar y extraer al paciente."
+  },
+  {
+    "question": "¿Qué herramienta se utiliza típicamente para realizar la separación inicial en puertas atascadas?",
+    "options": [
+      "Tijeras hidráulicas",
+      "Puntal telescópico",
+      "Cizalla eléctrica",
+      "Expansor hidráulico"
+    ],
+    "answer": "Expansor hidráulico",
+    "explanation": "El expansor hidráulico permite ejercer una fuerza de separación controlada y potente, ideal para abrir puertas trabadas sin causar mayor daño al paciente."
+  },
+  {
+    "question": "¿Cuál es la función principal del ESPACIO DE SOBREVIVENCIA en una operación de extricación?",
+    "options": [
+      "Permitir al paciente respirar aire libre de humo",
+      "Evitar el colapso de la estructura sobre la víctima",
+      "Almacenar herramientas médicas básicas",
+      "Facilitar la comunicación entre rescatistas y paciente"
+    ],
+    "answer": "Evitar el colapso de la estructura sobre la víctima",
+    "explanation": "El espacio de sobrevivencia es un volumen controlado que protege físicamente al paciente de colapsos estructurales durante el procedimiento."
+  },
+  {
+    "question": "Durante la estabilización del vehículo, ¿cuál es la secuencia correcta para aplicar los apoyos?",
+    "options": [
+      "Base, laterales, parte superior",
+      "Ruedas, laterales, chasis",
+      "Chasis, parte trasera, capó",
+      "Base, puntos de contacto, refuerzo lateral"
+    ],
+    "answer": "Base, puntos de contacto, refuerzo lateral",
+    "explanation": "La estabilización debe comenzar desde la base para asegurar el soporte general, luego los puntos de contacto para fijar el vehículo y finalmente reforzar lateralmente si es necesario."
+  },
+  {
+    "question": "¿Qué etapa del proceso de extricación se enfoca en liberar totalmente al paciente atrapado?",
+    "options": [
+      "Estabilización",
+      "Acceso",
+      "Extracción",
+      "Evaluación primaria"
+    ],
+    "answer": "Extracción",
+    "explanation": "La etapa de extracción es la que implica la remoción definitiva de elementos que impiden la liberación del paciente, permitiendo su traslado seguro."
+  },
+  {
+    "question": "¿Cuál es el riesgo principal de no desconectar la batería del vehículo durante la extricación?",
+    "options": [
+      "Fugas de combustible",
+      "Activación del sistema de frenos",
+      "Descarga del extintor automático",
+      "Activación accidental de airbags"
+    ],
+    "answer": "Activación accidental de airbags",
+    "explanation": "No cortar la corriente eléctrica puede ocasionar la activación inesperada de los airbags, representando un riesgo para el paciente y los rescatistas."
+  },
+  {
+    "question": "¿Qué debe verificarse antes de iniciar cualquier corte estructural en el vehículo?",
+    "options": [
+      "Presencia de materiales combustibles",
+      "Ubicación del tanque de combustible",
+      "Estado emocional del conductor",
+      "Ubicación de refuerzos y pretensores"
+    ],
+    "answer": "Ubicación de refuerzos y pretensores",
+    "explanation": "Los refuerzos estructurales y pretensores pueden dañar herramientas o generar riesgos si se cortan sin conocimiento previo."
+  },
+  {
+    "question": "¿Qué acción debe realizarse en paralelo a la extricación para proteger al paciente?",
+    "options": [
+      "Realizar señalización vial",
+      "Cubrir al paciente con manta térmica",
+      "Aplicar medidas de protección personal y cervical",
+      "Tomar fotografías del accidente"
+    ],
+    "answer": "Aplicar medidas de protección personal y cervical",
+    "explanation": "Durante la extricación se debe mantener la protección del paciente, especialmente del cuello y cabeza, para evitar lesiones adicionales."
+  },
+  {
+    "question": "¿Cuál es el propósito del uso de plásticos duros o mantas durante la operación de corte?",
+    "options": [
+      "Reducir el ruido generado por las herramientas",
+      "Evitar el contacto de fluidos con la víctima",
+      "Proteger al paciente de fragmentos o chispas",
+      "Aislar térmicamente el área de corte"
+    ],
+    "answer": "Proteger al paciente de fragmentos o chispas",
+    "explanation": "Estos materiales actúan como barrera física para proteger al paciente de residuos, fragmentos metálicos o chispas generadas durante el corte."
+  },
+  {
+    "question": "¿Qué estructura debe evitarse al hacer cortes en los pilares del vehículo?",
+    "options": [
+      "Cables del sistema de sonido",
+      "Conductos de aire acondicionado",
+      "Pretensores del cinturón de seguridad",
+      "Tubos del sistema hidráulico"
+    ],
+    "answer": "Pretensores del cinturón de seguridad",
+    "explanation": "Los pretensores contienen mecanismos a presión que pueden activarse o dañar herramientas si se cortan accidentalmente."
+  },
+  {
+    "question": "La construcción de carrocería integrada busca:",
+    "options": [
+      "Disminuir el peso de la estructura.",
+      "Mejorar las prestaciones de seguridad del vehículo.",
+      "Evitar la absorción de energía por la estructura al momento de un impacto.",
+      "Permitir el uso de combustibles alternativos.",
+      "Solo a) y b) son correctas."
+    ],
+    "answer": "Solo a) y b) son correctas.",
+    "explanation": "La carrocería integrada se diseña para reducir peso y mejorar la seguridad estructural del vehículo mediante zonas de deformación controladas."
+  },
+  {
+    "question": "Con respecto a la estructura de un automóvil, es correcto afirmar que:",
+    "options": [
+      "El pilar B continúa, en su base, con el compartimento de motor.",
+      "El habitáculo se encuentra reforzado solamente en su base.",
+      "En vehículos modernos, el pilar B se encuentra reforzado en su estructura y posee una base más ancha.",
+      "Los vidrios modernos se refuerzan solamente en las ventanas laterales.",
+      "Los vehículos tipo hatchback tienen una considerable capacidad de absorción de energía en su parte trasera."
+    ],
+    "answer": "En vehículos modernos, el pilar B se encuentra reforzado en su estructura y posee una base más ancha.",
+    "explanation": "El pilar B actúa como refuerzo central del habitáculo, especialmente en impactos laterales, y su diseño moderno mejora la resistencia estructural."
+  },
+  {
+    "question": "Con respecto a los vehículos híbridos, es correcto afirmar que:",
+    "options": [
+      "Poseen baterías expuestas para ser identificadas rápidamente por el rescatista.",
+      "Los cables de alimentación pueden ser cortados sin problemas con cizallas hidráulicas.",
+      "Alternan un motor eléctrico y uno a combustión interna, de acuerdo a los requerimientos de conducción.",
+      "Frente a un accidente, deben desplegarse líneas de agua bajo el vehículo.",
+      "Al cortarse el contacto, las baterías quedan inactivas."
+    ],
+    "answer": "Alternan un motor eléctrico y uno a combustión interna, de acuerdo a los requerimientos de conducción.",
+    "explanation": "El sistema híbrido permite la alternancia o combinación de motor eléctrico y motor térmico para optimizar eficiencia y emisiones."
+  },
+  {
+    "question": "Con respecto al sistema de alimentación eléctrica de un vehículo, es correcto afirmar que:",
+    "options": [
+      "Siempre hay que cortar el contacto antes de desconectar la batería.",
+      "Siempre hay que desconectar primero el cable positivo.",
+      "Siempre hay que desconectar primero el cable negativo.",
+      "Solo a) y b) son correctas.",
+      "Solo a) y c) son correctas."
+    ],
+    "answer": "Solo a) y c) son correctas.",
+    "explanation": "Cortar el contacto previene riesgos eléctricos, y desconectar primero el cable negativo evita cortocircuitos accidentales."
+  },
+  {
+    "question": "De los siguientes elementos, cuál NO corresponde a la seguridad activa de un vehículo:",
+    "options": [
+      "Sistema ABS.",
+      "Sistema de control de tracción.",
+      "Sensores de ángulo muerto.",
+      "Pretensores",
+      "Solo c) y d) son correctas."
+    ],
+    "answer": "Pretensores",
+    "explanation": "Los pretensores forman parte de la seguridad pasiva, ya que se activan durante el accidente para reducir lesiones, no para prevenirlo."
+  },
+  {
+    "question": "De los siguientes elementos, cuál NO corresponde a la seguridad pasiva de un vehículo:",
+    "options": [
+      "Sistema ABS.",
+      "ROPS",
+      "Airbags",
+      "Pretensores",
+      "Cinturones de seguridad."
+    ],
+    "answer": "Sistema ABS.",
+    "explanation": "El sistema ABS evita el bloqueo de frenos y mejora el control del vehículo, por lo tanto, es parte de la seguridad activa."
+  },
+  {
+    "question": "Con respecto a los Sistemas de Retención Suplementarias (SRS), es posible afirmar que:",
+    "options": [
+      "Corresponden a los airbags y pretensores.",
+      "Comparten una misma Unidad de Procesamiento Central (UPC).",
+      "Su activación obedece a la ley del todo o nada.",
+      "Al activarse NO se elimina su riesgo en la escena.",
+      "Solo a), b) y d) son correctas."
+    ],
+    "answer": "Solo a), b) y d) son correctas.",
+    "explanation": "Los SRS incluyen airbags y pretensores, gestionados por una UPC común. Aunque se activen, aún pueden representar riesgo por residuos o carga residual."
+  }
   ]
 }
