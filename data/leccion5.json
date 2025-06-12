@@ -1,115 +1,165 @@
 {
   "titulo": "Lección 5: Soporte Vital Básico del paciente atrapado",
   "preguntas": [
-    {
-      "question": "¿Cuál es el objetivo principal de aplicar el ABC del trauma al paciente atrapado?",
-      "options": [
-        "Determinar el tipo de vehículo en el que se encontraba.",
-        "Establecer si el paciente debe ser trasladado por vía aérea.",
-        "Evaluar y asegurar las funciones vitales antes de proceder a maniobras de extricación.",
-        "Confirmar si el paciente requiere inmovilización completa."
-      ],
-      "answer": "Evaluar y asegurar las funciones vitales antes de proceder a maniobras de extricación.",
-      "explanation": "El ABC del trauma se enfoca en priorizar la vía aérea, respiración y circulación, asegurando la estabilidad vital del paciente antes de intervenir estructuralmente."
-    },
-    {
-      "question": "¿Qué representa la letra \"T\" en el acrónimo PATER, utilizado para la evaluación de pacientes atrapados?",
-      "options": [
-        "Tiempo estimado de rescate.",
-        "Tipo de trauma observado.",
-        "Técnica de extricación a aplicar.",
-        "Tipo de tracción a utilizar."
-      ],
-      "answer": "Técnica de extricación a aplicar.",
-      "explanation": "“T” corresponde a la técnica de extricación sugerida por el Jefe de Trauma y definida por el Jefe de Operaciones, según el estado del paciente y atrapamiento."
-    },
-    {
-      "question": "¿Cuál de los siguientes no es un tipo de atrapamiento según la lección?",
-      "options": [
-        "Anatómico.",
-        "Mecánico.",
-        "Químico.",
-        "Mixto."
-      ],
-      "answer": "Químico.",
-      "explanation": "El atrapamiento químico no existe en la clasificación de atrapamientos en esta lección. Los tipos definidos son anatómico, mecánico, físico y mixto."
-    },
-    {
-      "question": "¿Cuál de las siguientes situaciones representa un atrapamiento físico?",
-      "options": [
-        "Lesión muscular que impide el movimiento.",
-        "Presión estructural del vehículo sobre el cuerpo del paciente.",
-        "Fractura expuesta por caída desde el vehículo.",
-        "Herida penetrante en el abdomen."
-      ],
-      "answer": "Presión estructural del vehículo sobre el cuerpo del paciente.",
-      "explanation": "El atrapamiento físico es causado por estructuras externas que comprimen o retienen al paciente dentro del vehículo."
-    },
-    {
-      "question": "En el acrónimo PATER, ¿qué elemento define la vía de salida planificada para el paciente?",
-      "options": [
-        "P.",
-        "A.",
-        "E.",
-        "R."
-      ],
-      "answer": "E.",
-      "explanation": "“E” corresponde a la vía de extracción, es decir, por dónde se retirará físicamente al paciente del vehículo (puerta, techo, ventana, etc.)."
-    },
-    {
-      "question": "¿Qué diferencia a la extracción de emergencia de la extricación rápida?",
-      "options": [
-        "La emergencia se aplica en pacientes conscientes y la rápida en inconscientes.",
-        "La emergencia es una maniobra inmediata sin técnicas, mientras que la rápida sigue una planificación mínima.",
-        "La rápida se hace con herramientas neumáticas y la emergencia con manuales.",
-        "No existe diferencia, son sinónimos."
-      ],
-      "answer": "La emergencia es una maniobra inmediata sin técnicas, mientras que la rápida sigue una planificación mínima.",
-      "explanation": "La extracción de emergencia es una acción inmediata, en casos de peligro vital inminente, sin herramientas ni planificación. La rápida considera una técnica mínima ante deterioro clínico."
-    },
-    {
-      "question": "¿Cuál es la secuencia correcta de evaluación según el ABC del trauma?",
-      "options": [
-        "Cabeza, cuello, extremidades.",
-        "Atrapamiento, extricación, traslado.",
-        "Vía aérea, respiración, circulación.",
-        "Nivel de conciencia, vía aérea, sangrado."
-      ],
-      "answer": "Vía aérea, respiración, circulación.",
-      "explanation": "La secuencia ABC se refiere a A: Airway (vía aérea), B: Breathing (respiración), y C: Circulation (circulación). Es la base de la evaluación prehospitalaria."
-    },
-    {
-      "question": "Según el manual, ¿qué tipo de impacto vehicular suele generar mayores niveles de atrapamiento estructural severo?",
-      "options": [
-        "Colisión trasera.",
-        "Colisión frontal.",
-        "Choque leve lateral.",
-        "Vuelco estacionario."
-      ],
-      "answer": "Colisión frontal.",
-      "explanation": "Las colisiones frontales generan deformaciones mayores en la parte delantera del vehículo, donde usualmente se encuentra el conductor, aumentando el riesgo de atrapamiento estructural."
-    },
-    {
-      "question": "¿Qué indica el “R” en el acrónimo PATER?",
-      "options": [
-        "Riesgo estructural.",
-        "Rol del operador.",
-        "Recursos o elementos necesarios para la extracción.",
-        "Respiración del paciente."
-      ],
-      "answer": "Recursos o elementos necesarios para la extracción.",
-      "explanation": "El \"R\" hace referencia a los recursos materiales o equipos requeridos para ejecutar la extracción segura del paciente."
-    },
-    {
-      "question": "¿Qué condición del paciente justifica el uso inmediato del plan rápido de extricación?",
-      "options": [
-        "Dolor moderado y signos vitales estables.",
-        "Politrauma estable con atrapamiento leve.",
-        "Presencia de paro cardiorrespiratorio (PCR) o deterioro clínico severo.",
-        "Laceraciones superficiales sin atrapamiento."
-      ],
-      "answer": "Presencia de paro cardiorrespiratorio (PCR) o deterioro clínico severo.",
-      "explanation": "El plan rápido se activa ante deterioro crítico o PCR, priorizando la velocidad de extracción por sobre la calidad técnica o planificación habitual."
-    }
+     {
+    "question": "¿En qué situaciones se realiza una extricación rápida o de emergencia?",
+    "options": [
+      "Cuando el paciente presenta signos de hipovolemia severa.",
+      "Cuando se compromete la seguridad de la escena o hay deterioro súbito del paciente.",
+      "Cuando el acceso al vehículo es muy complejo y toma demasiado tiempo.",
+      "Cuando se necesita inmovilizar al paciente con férula espinal."
+    ],
+    "answer": "Cuando se compromete la seguridad de la escena o hay deterioro súbito del paciente.",
+    "explanation": "La extricación rápida se indica por empeoramiento clínico agudo, mientras que la extricación de emergencia se aplica si hay riesgo inminente en la escena; ambas requieren actuar sin completar todos los pasos de inmovilización."
+  },
+  {
+    "question": "Respecto a la letra D del ABCDE en el paciente atrapado, corresponde evaluar:",
+    "options": [
+      "Presencia de hemorragias externas.",
+      "Nivel de conciencia y signos neurológicos.",
+      "Ruidos respiratorios y simetría torácica.",
+      "Temperatura de extremidades distales."
+    ],
+    "answer": "Nivel de conciencia y signos neurológicos.",
+    "explanation": "La 'D' del ABCDE corresponde a Disability (déficit neurológico), que incluye el estado de conciencia, respuesta pupilar y signos de compromiso neurológico."
+  },
+  {
+    "question": "En un paciente atrapado, el control cervical debe realizarse:",
+    "options": [
+      "Una vez estabilizada la pelvis y extremidades.",
+      "Después de la ventilación y circulación.",
+      "Desde el primer contacto y mantenerse de forma continua.",
+      "Solo si hay signos evidentes de trauma craneal."
+    ],
+    "answer": "Desde el primer contacto y mantenerse de forma continua.",
+    "explanation": "El control cervical debe iniciarse inmediatamente al contactar al paciente y mantenerse durante todo el proceso para evitar lesiones medulares secundarias."
+  },
+  {
+    "question": "¿Qué tipo de atrapamiento se caracteriza por compresión entre estructuras sólidas sin posibilidad de liberación simple?",
+    "options": [
+      "Atrapamiento clásico.",
+      "Empalamiento.",
+      "Paciente encerrado.",
+      "Aplastamiento."
+    ],
+    "answer": "Atrapamiento clásico.",
+    "explanation": "El atrapamiento clásico se presenta cuando el cuerpo queda comprimido entre objetos sólidos, como estructuras del vehículo, y no puede ser liberado sin herramientas especializadas."
+  },
+  {
+    "question": "El objetivo principal de la extricación en cero grados es:",
+    "options": [
+      "Aumentar la visibilidad del operador durante la intervención.",
+      "Reducir el tiempo total de extracción.",
+      "Minimizar el movimiento de la columna vertebral del paciente.",
+      "Evitar la necesidad del cinturón tipo araña."
+    ],
+    "answer": "Minimizar el movimiento de la columna vertebral del paciente.",
+    "explanation": "La extracción en 0° mantiene alineados cabeza, cuello y tronco, disminuyendo el riesgo de lesión medular secundaria en pacientes traumatizados."
+  },
+  {
+    "question": "Durante la evaluación primaria en víctimas atrapadas, ¿qué incluye el paso 'C' de circulación?",
+    "options": [
+      "Control de hemorragias y valoración de pulso periférico.",
+      "Medición de presión arterial y temperatura.",
+      "Auscultación cardíaca con estetoscopio.",
+      "Colocación de vías venosas periféricas."
+    ],
+    "answer": "Control de hemorragias y valoración de pulso periférico.",
+    "explanation": "El paso C se enfoca en evaluar y controlar el sangrado, además de valorar la perfusión tisular mediante el pulso periférico."
+  },
+  {
+    "question": "En cuanto al manejo de la vía aérea en pacientes atrapados conscientes, lo correcto es:",
+    "options": [
+      "Esperar a que el paciente pierda la conciencia para intervenir.",
+      "Colocar inmediatamente una cánula orofaríngea.",
+      "Evaluar permeabilidad y mantener control cervical simultáneamente.",
+      "No intervenir hasta que se logre la extricación completa."
+    ],
+    "answer": "Evaluar permeabilidad y mantener control cervical simultáneamente.",
+    "explanation": "La vía aérea debe evaluarse desde el inicio, manteniendo control cervical incluso antes de instalar dispositivos si el paciente está consciente."
+  },
+  {
+    "question": "La cadena de sobrevida en víctimas atrapadas incluye los siguientes eslabones:",
+    "options": [
+      "Solo atención hospitalaria y traslado.",
+      "Prevención, alarma, atención prehospitalaria, extricación y traslado.",
+      "Evaluación médica especializada antes del rescate.",
+      "Activación de sistemas de trauma hospitalario."
+    ],
+    "answer": "Prevención, alarma, atención prehospitalaria, extricación y traslado.",
+    "explanation": "La cadena de sobrevida integra prevención, activación del sistema de emergencia, atención prehospitalaria efectiva, técnicas de extricación seguras y traslado oportuno."
+  },
+  {
+    "question": "La evaluación del trauma en pacientes atrapados termina en el momento que:",
+    "options": [
+      "Se ha realizado el ABC del Trauma.",
+      "La escena es segura.",
+      "Nunca termina, ya que debe ser constante y dinámico.",
+      "Se completan las maniobras de extricación.",
+      "Se termina la inmovilización del paciente dentro del vehículo."
+    ],
+    "answer": "Nunca termina, ya que debe ser constante y dinámico.",
+    "explanation": "La evaluación del trauma es un proceso continuo, adaptativo y dinámico, que se mantiene desde el primer contacto hasta el ingreso definitivo del paciente al centro asistencial."
+  },
+  {
+    "question": "¿Cuál de los siguientes puntos está incluido en la cadena de sobrevida de la víctima atrapada?",
+    "options": [
+      "Prevención y educación vial.",
+      "Alarma compartida (ABC de la emergencia).",
+      "Manejo prehospitalario del trauma y extricación.",
+      "Traslado precoz a un centro asistencial.",
+      "Todos los puntos están incluidos."
+    ],
+    "answer": "Todos los puntos están incluidos.",
+    "explanation": "La cadena de sobrevida abarca todas las etapas críticas: prevención, activación del sistema de emergencias, atención prehospitalaria, maniobras de extricación y traslado al centro asistencial."
+  },
+  {
+    "question": "Son elementos fundamentales en la evaluación y manejo de la B (ventilación) en la víctima atrapada:",
+    "options": [
+      "Aporte precoz de oxígeno.",
+      "En víctima inconsciente se instalará cánula orofaríngea.",
+      "Se realiza una vez terminada la estabilización primaria.",
+      "Solo a) y c) son correctas.",
+      "Todas las alternativas son correctas."
+    ],
+    "answer": "Todas las alternativas son correctas.",
+    "explanation": "La evaluación de la ventilación incluye oxigenación precoz, uso de dispositivos básicos en inconscientes, y debe realizarse como parte del ABCDE tras asegurar vía aérea."
+  },
+  {
+    "question": "Son elementos fundamentales en la evaluación de la C (circulación) en la víctima atrapada:",
+    "options": [
+      "Los mecanismos de torniquete mecánico pueden enmascarar la presencia de shock.",
+      "Se debe determinar claramente el tipo de shock que presenta la víctima.",
+      "La evaluación de la circulación debe ser constante durante las maniobras de extricación.",
+      "Solo a) y c) son correctas.",
+      "Todas las alternativas son correctas."
+    ],
+    "answer": "Todas las alternativas son correctas.",
+    "explanation": "Una evaluación completa de la circulación implica identificar signos de shock, mantener control constante durante la extricación y considerar limitaciones o interferencias provocadas por dispositivos como torniquetes."
+  },
+  {
+    "question": "¿Cuál de los siguientes términos NO corresponde a un tipo de atrapamiento físico?",
+    "options": [
+      "Paciente encerrado.",
+      "Atrapamiento clásico.",
+      "Empalamiento.",
+      "Desplazamiento.",
+      "Aplastamiento."
+    ],
+    "answer": "Desplazamiento.",
+    "explanation": "Desplazamiento no se reconoce como una categoría de atrapamiento físico. Las demás (clásico, empalamiento, aplastamiento y encerrado) son tipos definidos operativamente en rescate vehicular."
+  },
+  {
+    "question": "Con respecto a la extracción del paciente, es posible afirmar que:",
+    "options": [
+      "Se buscará siempre la extracción en 0°.",
+      "La extracción rápida se realiza frente a un empeoramiento crítico de la condición del paciente.",
+      "La extracción de emergencia se realiza frente a un cambio de las condiciones de seguridad de la escena.",
+      "Solo a), b) y c) son correctas.",
+      "Ninguna de las alternativas es correcta."
+    ],
+    "answer": "Solo a), b) y c) son correctas.",
+    "explanation": "Las tres técnicas de extracción descritas son válidas en contextos específicos: 0° para cuidado espinal, rápida para deterioro clínico y de emergencia por inseguridad en la escena."
+  }
   ]
 }
