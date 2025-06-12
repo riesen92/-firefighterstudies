@@ -1,115 +1,144 @@
 {
   "titulo": "Equipos de Protección Personal (EPP) y herramientas para la extricación",
   "preguntas": [
-    {
-      "question": "¿Cuál es el objetivo principal del uso de Equipos de Protección Personal (EPP) en operaciones de extricación vehicular?",
-      "options": [
-        "Proteger exclusivamente al paciente durante la extracción.",
-        "Disminuir la cantidad de herramientas necesarias para el rescate.",
-        "Minimizar el riesgo de lesiones mecánicas, térmicas y biológicas del rescatista.",
-        "Aumentar la velocidad de las maniobras de extricación."
-      ],
-      "answer": "Minimizar el riesgo de lesiones mecánicas, térmicas y biológicas del rescatista.",
-      "explanation": "El EPP protege al rescatista de múltiples riesgos físicos y biológicos durante las maniobras de rescate. Las otras opciones malinterpretan su función."
-    },
-    {
-      "question": "¿Cuál de los siguientes elementos no forma parte del EPP mínimo obligatorio en rescate vehicular?",
-      "options": [
-        "Casco estructural con protección facial.",
-        "Guantes estructurales o de extricación.",
-        "Máscara de respiración autónoma.",
-        "Calzado de seguridad con puntera reforzada."
-      ],
-      "answer": "Máscara de respiración autónoma.",
-      "explanation": "El equipo de respiración autónoma no forma parte del EPP mínimo obligatorio para rescate vehicular, salvo condiciones excepcionales como presencia de gases tóxicos o fuego."
-    },
-    {
-      "question": "¿Qué tipo de protección entregan los guantes de extricación en comparación con los estructurales?",
-      "options": [
-        "Mayor protección térmica y menor sensibilidad al tacto.",
-        "Menor protección química y mayor absorción de impactos.",
-        "Mayor sensibilidad táctil y adecuada protección mecánica.",
-        "Exclusiva protección contra líquidos corrosivos."
-      ],
-      "answer": "Mayor sensibilidad táctil y adecuada protección mecánica.",
-      "explanation": "Los guantes de extricación están diseñados para ofrecer protección contra riesgos mecánicos, manteniendo la destreza manual necesaria para operaciones precisas."
-    },
-    {
-      "question": "¿Por qué es fundamental el uso de protección ocular durante las maniobras de extricación?",
-      "options": [
-        "Porque evita el cansancio visual en maniobras prolongadas.",
-        "Porque protege de impactos, esquirlas y proyecciones de líquidos o partículas.",
-        "Porque mejora la visibilidad nocturna en zonas rurales.",
-        "Porque sirve para comunicar señales ópticas al equipo."
-      ],
-      "answer": "Porque protege de impactos, esquirlas y proyecciones de líquidos o partículas.",
-      "explanation": "El principal objetivo es proteger los ojos de fragmentos proyectados por corte de vidrios, metal, o exposición a fluidos."
-    },
-    {
-      "question": "¿Cuál de las siguientes herramientas se clasifica como hidráulica y es común en extricación vehicular?",
-      "options": [
-        "Cizalla de brazo largo.",
-        "Amoladora angular.",
-        "Expansor tipo \"combi\".",
-        "Palanca Halligan."
-      ],
-      "answer": "Expansor tipo \"combi\".",
-      "explanation": "El expansor \"combi\" es una herramienta hidráulica multifunción muy utilizada en rescate. Las demás pertenecen a otras categorías (manuales o eléctricas)."
-    },
-    {
-      "question": "¿Cuál es una característica fundamental que debe cumplir una herramienta de extricación para su uso seguro en escena?",
-      "options": [
-        "Ser preferentemente de fabricación nacional.",
-        "Poseer homologación, mantenimiento periódico y estar capacitado su operador.",
-        "Requiere ser operada por al menos tres bomberos simultáneamente.",
-        "No necesitar conexión energética para evitar riesgos."
-      ],
-      "answer": "Poseer homologación, mantenimiento periódico y estar capacitado su operador.",
-      "explanation": "Toda herramienta debe cumplir con normas, estar en buen estado y ser manipulada por personal entrenado para prevenir accidentes y asegurar eficacia."
-    },
-    {
-      "question": "¿Qué riesgo puede provocar una herramienta hidráulica mal posicionada durante una maniobra?",
-      "options": [
-        "Fugas de refrigerante del vehículo.",
-        "Descarga térmica repentina.",
-        "Proyección de fragmentos metálicos o compresión del operador.",
-        "Generación de chispas eléctricas espontáneas."
-      ],
-      "answer": "Proyección de fragmentos metálicos o compresión del operador.",
-      "explanation": "Una mala posición puede provocar inestabilidad en la herramienta, resultando en proyecciones o atrapamientos peligrosos."
-    },
-    {
-      "question": "¿Por qué no se deben pisar las mangueras hidráulicas durante una operación de rescate?",
-      "options": [
-        "Porque el contacto directo con la bota contamina la escena.",
-        "Porque disminuye la presión del sistema y puede comprometer la funcionalidad de la herramienta.",
-        "Porque aumentan su temperatura y se vuelven frágiles.",
-        "Porque genera ruido que interfiere en las comunicaciones."
-      ],
-      "answer": "Porque disminuye la presión del sistema y puede comprometer la funcionalidad de la herramienta.",
-      "explanation": "Pisar o doblar las mangueras puede generar una baja de presión y riesgo de falla hidráulica, afectando directamente el desempeño y seguridad."
-    },
-    {
-      "question": "¿Cuál de los siguientes elementos se considera un accesorio de protección para la víctima durante la extricación?",
-      "options": [
-        "Batefuegos de caucho.",
-        "Pantalla térmica.",
-        "Protección blanda y protección dura.",
-        "Chaleco reflectante."
-      ],
-      "answer": "Protección blanda y protección dura.",
-      "explanation": "La protección blanda (lona o plásticos) y dura (placas de polipropileno) protegen a la víctima de cortes, golpes o fragmentos proyectados."
-    },
-    {
-      "question": "¿Qué debe hacer un operador ante una herramienta eléctrica con falla de aislamiento o mal funcionamiento?",
-      "options": [
-        "Continuar la operación con mayor precaución.",
-        "Detener su uso inmediatamente y reportarla para su retiro y mantenimiento.",
-        "Cambiar el uso por una herramienta hidráulica sin reportar.",
-        "Limpiarla con agua y volver a intentar su operación."
-      ],
-      "answer": "Detener su uso inmediatamente y reportarla para su retiro y mantenimiento.",
-      "explanation": "El uso de herramientas defectuosas está estrictamente prohibido. Deben retirarse y reportarse inmediatamente para evitar riesgos eléctricos o mecánicos."
-    }
+     {
+    "question": "Con respecto a los equipos de protección personal, la alternativa INCORRECTA es:",
+    "options": [
+      "La protección mecánica debe usarse durante todo el tiempo que dure el rescate.",
+      "La protección biológica debe ser individual para cada paciente.",
+      "El uso de antiparras puede ser reemplazado por el visor del casco.",
+      "Los guantes de trabajo para vidrio NO pueden ser utilizados en pacientes.",
+      "El uso de mascarillas (N95) es obligatoria para el personal que trabaje en labores de extracción de vidrios."
+    ],
+    "answer": "El uso de antiparras puede ser reemplazado por el visor del casco.",
+    "explanation": "El visor del casco no ofrece el mismo nivel de protección sellada contra partículas que las antiparras, especialmente en contextos con riesgo de esquirlas o contaminantes biológicos."
+  },
+  {
+    "question": "Con respecto a las herramientas hidráulicas, solo es correcto afirmar que:",
+    "options": [
+      "Las piezas de diferentes equipos pueden conectarse independiente del fabricante.",
+      "Los equipos eléctricos autónomos son ideales para zonas de difícil acceso.",
+      "El líquido hidráulico nunca se encuentra a alta presión.",
+      "Las herramientas hidráulicas NO requieren mantenciones.",
+      "Las salidas de las bombas siempre vienen en pares."
+    ],
+    "answer": "Los equipos eléctricos autónomos son ideales para zonas de difícil acceso.",
+    "explanation": "Este tipo de herramientas elimina la necesidad de una unidad de potencia externa, facilitando su uso en zonas confinadas o de difícil acceso."
+  },
+  {
+    "question": "Con respecto al expansor, solo es correcto afirmar que:",
+    "options": [
+      "Es la herramienta menos utilizada en rescate.",
+      "La zona de mayor fuerza se encuentra en las puntas.",
+      "La base se los brazos deben ocuparse con cadenas.",
+      "Solo las puntas están hechas para trabajo.",
+      "NO posee comando de tipo hombre muerto."
+    ],
+    "answer": "La base se los brazos deben ocuparse con cadenas.",
+    "explanation": "El expansor tiene puntos de anclaje en la base de los brazos especialmente diseñados para conectar cadenas y realizar maniobras de tracción controlada."
+  },
+  {
+    "question": "Con respecto a la cizalla, solo es correcto afirmar que:",
+    "options": [
+      "Puede realizar cortes envolventes y penetrantes.",
+      "Su mayor fuerza la realiza en las puntas.",
+      "Sus hojas están diseñadas para NO mover la estructura a cortar.",
+      "Las puntas son la zona más robusta de la herramienta.",
+      "NO posee comando de tipo hombre muerto."
+    ],
+    "answer": "Puede realizar cortes envolventes y penetrantes.",
+    "explanation": "La cizalla hidráulica está diseñada para realizar cortes de precisión con acción envolvente (apertura y cierre) y penetrante en materiales estructurales como columnas o vigas."
+  },
+  {
+    "question": "Con respecto al RAM, solo es correcto afirmar que:",
+    "options": [
+      "Su longitud máxima corresponde a la distancia máxima de desplazamiento del émbolo.",
+      "Es una herramienta de levante.",
+      "Su longitud efectiva corresponde a la distancia máxima de desplazamiento del émbolo.",
+      "NO posee comando de tipo hombre muerto.",
+      "Es usualmente utilizada en contacto con el expansor."
+    ],
+    "answer": "Su longitud efectiva corresponde a la distancia máxima de desplazamiento del émbolo.",
+    "explanation": "La longitud efectiva del RAM es la distancia que puede recorrer el émbolo al extenderse, no la longitud total del equipo."
+  },
+  {
+    "question": "Con respecto a las herramientas combinadas (COMBI), solo es correcto afirmar que:",
+    "options": [
+      "En general, son tan o más eficientes que los kits separados.",
+      "Trabajan a una potencia mayor que otras herramientas.",
+      "Son elección en trabajo de rescate pesado.",
+      "Sus brazos funcionan como expansor y cizalla a la vez.",
+      "NO posee comando de tipo hombre muerto."
+    ],
+    "answer": "Sus brazos funcionan como expansor y cizalla a la vez.",
+    "explanation": "Las herramientas COMBI están diseñadas para realizar tanto funciones de expansión como de corte con un solo dispositivo, lo que las hace versátiles pero generalmente menos potentes que las herramientas dedicadas."
+  },
+  {
+    "question": "Con respecto a los cojines de levante, solo es correcto afirmar que:",
+    "options": [
+      "Se puede utilizar madera entre cojín de levante y la superficie del objeto a levantar para minimizar el espacio.",
+      "Se puede utilizar madera bajo los cojines para minimizar el espacio entre cojín de levante y la superficie del objeto a levantar.",
+      "Los cojines NO pierden estabilidad al elevarse.",
+      "Pueden ser de alta, mediana y baja presión.",
+      "Solo a) y b) son correctas."
+    ],
+    "answer": "Solo a) y b) son correctas.",
+    "explanation": "La madera puede usarse entre o debajo de los cojines de levante para asegurar estabilidad y distribuir la carga. Además, permite reducir los espacios mínimos necesarios para introducir el cojín."
+  },
+  {
+    "question": "¿Cuál es el propósito principal de establecer un Círculo de Seguridad en una escena vehicular?",
+    "options": [
+      "Facilitar la visibilidad del vehículo accidentado",
+      "Evitar que personas no autorizadas ingresen al área crítica",
+      "Identificar los puntos de corte estructurales",
+      "Crear un perímetro de acceso para el personal médico"
+    ],
+    "answer": "Evitar que personas no autorizadas ingresen al área crítica",
+    "explanation": "El Círculo de Seguridad delimita el área operativa para evitar interferencias externas y proteger al personal de riesgos adicionales."
+  },
+  {
+    "question": "¿Qué característica distingue al vidrio templado en los vehículos?",
+    "options": [
+      "Tiene múltiples capas de plástico intermedio",
+      "Explota en pequeños fragmentos al romperse",
+      "Es irrompible con herramientas manuales",
+      "Solo se encuentra en los parabrisas"
+    ],
+    "answer": "Explota en pequeños fragmentos al romperse",
+    "explanation": "El vidrio templado, común en ventanillas laterales, se fragmenta en partes pequeñas para minimizar lesiones al romperse."
+  },
+  {
+    "question": "¿Cuál de las siguientes herramientas es apropiada para una estabilización inicial del vehículo?",
+    "options": [
+      "Cizalla hidráulica",
+      "Separador telescópico",
+      "Cuña o cribbing de madera",
+      "Tijeras de trauma"
+    ],
+    "answer": "Cuña o cribbing de madera",
+    "explanation": "Las cuñas y cribbing permiten estabilizar físicamente la posición del vehículo para evitar desplazamientos durante la operación."
+  },
+  {
+    "question": "¿Qué implica la Técnica del Tercer Hombre durante una extricación?",
+    "options": [
+      "Un rescatista hace tracción sobre la víctima",
+      "Una persona controla el equipo hidráulico",
+      "Una persona se posiciona entre víctima y operador para comunicación y protección",
+      "Un observador externo dirige la maniobra de corte"
+    ],
+    "answer": "Una persona se posiciona entre víctima y operador para comunicación y protección",
+    "explanation": "La técnica asegura una comunicación clara y resguarda la integridad de la víctima durante la extracción."
+  },
+  {
+    "question": "¿Qué zona se considera de mayor riesgo operativo en una escena de extricación?",
+    "options": [
+      "Zona templada",
+      "Zona caliente",
+      "Zona de control médico",
+      "Zona de evacuación"
+    ],
+    "answer": "Zona caliente",
+    "explanation": "La zona caliente es el área inmediatamente alrededor del vehículo, donde se realizan acciones de corte, estabilización y contacto con víctimas."
+  }
   ]
 }
