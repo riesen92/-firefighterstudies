@@ -26,6 +26,12 @@ async function initializeQuestions() {
         .sort(() => Math.random() - 0.5);
 }
 
+// Función auxiliar para obtener preguntas aleatorias
+function getRandomQuestions(questions, count) {
+    const shuffled = [...questions].sort(() => Math.random() - 0.5);
+    return shuffled.slice(0, Math.min(count, questions.length));
+}
+
 let currentQuestionSet = [];
 // Variables globales necesarias
 let currentQuestionIndex = 0;
@@ -37,21 +43,42 @@ let timeLeft = 60;
 // Función para iniciar el test
 async function startTest(testType) {
     try {
-        let response;
         if (testType === 'final') {
-            response = await fetch('data/EvaluacionFinal.json');
+            let finalQuestions = [];
+            
+            // Cargar 10 preguntas aleatorias de cada lección
+            for (let i = 1; i <= 10; i++) {
+                try {
+                    const response = await fetch(`data/leccion${i}.json`);
+                    if (!response.ok) {
+                        throw new Error(`Error cargando lección ${i}`);
+                    }
+                    const data = await response.json();
+                    // Obtener 10 preguntas aleatorias de cada lección
+                    const randomQuestions = getRandomQuestions(data.preguntas, 10);
+                    finalQuestions = finalQuestions.concat(randomQuestions);
+                } catch (error) {
+                    console.error(`Error cargando lección ${i}:`, error);
+                }
+            }
+            
+            if (finalQuestions.length === 0) {
+                throw new Error('No se pudieron cargar las preguntas');
+            }
+
+            // Mezclar el orden final de todas las preguntas
+            currentQuestionSet = finalQuestions.sort(() => Math.random() - 0.5);
+            document.getElementById('test-title').textContent = 'Evaluación Final';
         } else {
-            response = await fetch(`data/${testType}.json`);
+            const response = await fetch(`data/${testType}.json`);
+            if (!response.ok) {
+                throw new Error('Error cargando el archivo');
+            }
+            const data = await response.json();
+            currentQuestionSet = data.preguntas;
+            document.getElementById('test-title').textContent = 
+                `Lección ${testType.replace('leccion', '')}`;
         }
-        
-        if (!response.ok) {
-            throw new Error('Error cargando el archivo');
-        }
-        
-        const data = await response.json();
-        currentQuestionSet = data.preguntas;
-        document.getElementById('test-title').textContent = data.titulo || 
-            (testType === 'final' ? 'Evaluación Final' : `Lección ${testType.replace('leccion', '')}`);
 
         // Ocultar menú y mostrar quiz
         document.getElementById('main-menu').style.display = 'none';
@@ -65,7 +92,7 @@ async function startTest(testType) {
         loadQuestion();
     } catch (error) {
         console.error('Error cargando las preguntas:', error);
-        alert('Error cargando las preguntas. Es posible que la lección aún no esté disponible.');
+        alert('Error cargando las preguntas. Por favor, inténtalo de nuevo.');
         returnToMenu();
     }
 }
