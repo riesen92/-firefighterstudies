@@ -46,7 +46,7 @@ async function startTest(testType) {
         if (testType === 'final') {
             let finalQuestions = [];
             
-            // Cargar 10 preguntas aleatorias de cada lección
+            // Cargar 6 preguntas aleatorias de cada lección (10 lecciones x 6 preguntas = 60 total)
             for (let i = 1; i <= 10; i++) {
                 try {
                     const response = await fetch(`data/leccion${i}.json`);
@@ -54,8 +54,8 @@ async function startTest(testType) {
                         throw new Error(`Error cargando lección ${i}`);
                     }
                     const data = await response.json();
-                    // Obtener 10 preguntas aleatorias de cada lección
-                    const randomQuestions = getRandomQuestions(data.preguntas, 10);
+                    // Obtener 6 preguntas aleatorias de cada lección
+                    const randomQuestions = getRandomQuestions(data.preguntas, 6);
                     finalQuestions = finalQuestions.concat(randomQuestions);
                 } catch (error) {
                     console.error(`Error cargando lección ${i}:`, error);
@@ -84,7 +84,6 @@ async function startTest(testType) {
         document.getElementById('main-menu').style.display = 'none';
         document.getElementById('quiz-section').style.display = 'block';
         
-        // Reiniciar variables
         currentQuestionIndex = 0;
         score = 0;
         userAnswers = [];
