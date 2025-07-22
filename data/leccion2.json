@@ -1,187 +1,185 @@
 {
-  "titulo": "Gestión del riesgo en la escena",
+  "titulo": "Peligros asociados a un incendio en vehículo",
   "preguntas": [
      {
-    "question": "En relación al reconocimiento de riesgos en la escena, es correcto afirmar que:",
-    "options": [
-      "Es de exclusiva responsabilidad del Jefe de Seguridad.",
-      "La escena solo será evaluada antes de iniciar las maniobras de extricación.",
-      "Las maniobras de rescate NO modifican la condición de seguridad de la escena.",
-      "Las maniobras de extricación se iniciarán sólo una vez manejados los riesgos de la escena.",
-      "Ninguna de las alternativas es correcta."
-    ],
-    "answer": "Las maniobras de extricación se iniciarán sólo una vez manejados los riesgos de la escena.",
-    "explanation": "El inicio de las maniobras de extricación debe realizarse únicamente cuando los riesgos en la escena han sido reconocidos, evaluados y controlados, a fin de garantizar la seguridad del personal y de la víctima."
+    "question": "¿Cuál es uno de los principales riesgos para los equipos de emergencia en incidentes en la vía pública?",
+    "options": ["Pérdida de comunicación radial", "Fallo en el sistema hidráulico", "Atropellos al personal", "Fugas eléctricas"],
+    "answer": "Atropellos al personal",
+    "explanation": "Los atropellos son uno de los principales riesgos cuando el flujo vehicular no ha sido controlado adecuadamente."
   },
   {
-    "question": "¿Qué condición debe cumplirse antes de iniciar las maniobras de extricación según principios básicos?",
-    "options": [
-      "Tener confirmación médica de lesiones internas.",
-      "Contar con una ambulancia en el lugar.",
-      "Haber manejado adecuadamente los riesgos en la escena.",
-      "Verificar el nivel de combustible del vehículo."
-    ],
-    "answer": "Haber manejado adecuadamente los riesgos en la escena.",
-    "explanation": "La intervención técnica no debe comenzar hasta que la seguridad esté controlada para evitar lesiones al personal o víctima."
+    "question": "¿Qué técnica permite redirigir el tránsito vehicular de forma segura durante una emergencia en carretera?",
+    "options": ["Corte hidráulico", "Segregación vial", "Despresurización del sector", "Evacuación zonal"],
+    "answer": "Segregación vial",
+    "explanation": "La segregación vial limita velocidad, alerta a los conductores y dirige el tránsito hacia una pista habilitada."
   },
   {
-    "question": "¿Cuál es una de las razones fundamentales para realizar una evaluación constante de la escena durante todo el rescate?",
-    "options": [
-      "La evaluación se hace una sola vez, al inicio de la operación.",
-      "Las condiciones de seguridad pueden cambiar por efecto de las maniobras.",
-      "Es parte del protocolo legal del Ministerio de Salud.",
-      "Permite enfocar los esfuerzos solo en la víctima atrapada."
-    ],
-    "answer": "Las condiciones de seguridad pueden cambiar por efecto de las maniobras.",
-    "explanation": "Toda intervención (corte, extracción, movimiento de estructuras) puede generar nuevos riesgos, por lo que la evaluación debe ser continua."
+    "question": "¿Qué distancia mínima se debe dejar entre el fuego y el carro bomba durante una intervención?",
+    "options": ["10 metros", "25 metros", "50 metros", "5 metros"],
+    "answer": "25 metros",
+    "explanation": "El documento indica una zona de protección mínima de 25 metros entre el fuego y el carro."
   },
   {
-    "question": "¿Cuál de las siguientes es una forma reconocida de manejar los riesgos en la escena?",
-    "options": [
-      "Evitar toda intervención hasta que llegue personal especializado.",
-      "Esperar que desaparezcan los riesgos con el tiempo.",
-      "Identificar, mitigar o eliminar los riesgos cuando sea posible.",
-      "Ignorar los riesgos menores para ganar tiempo en el rescate."
-    ],
-    "answer": "Identificar, mitigar o eliminar los riesgos cuando sea posible.",
-    "explanation": "Manejar riesgos implica reconocerlos, reducir su impacto y, cuando es factible, eliminarlos completamente."
+    "question": "¿Qué velocidad debe mantener la primera máquina al llegar a un incidente para iniciar protección visual?",
+    "options": ["60 km/h", "45 km/h", "30 km/h", "20 km/h"],
+    "answer": "30 km/h",
+    "explanation": "La aproximación debe ser a 30 km/h para inducir reducción de velocidad en otros vehículos."
   },
   {
-    "question": "Los riesgos en la escena de un accidente vehicular pueden ser manejados de varias formas, entre las que se cuentan:",
-    "options": [
-      "Eliminado",
-      "Identificado",
-      "Mitigado",
-      "Solo a) y b) son correctas.",
-      "Solo a), b) y c) son correctas."
-    ],
-    "answer": "Solo a), b) y c) son correctas.",
-    "explanation": "El manejo de riesgos implica su identificación, eliminación cuando es posible y, en caso contrario, su mitigación para reducir su impacto durante las operaciones."
+    "question": "¿Qué elemento permite delimitar zonas de trabajo y canalizar el tránsito en emergencias viales?",
+    "options": ["Barreras metálicas", "Cintas plásticas", "Conos de tránsito", "Tachas reflectantes"],
+    "answer": "Conos de tránsito",
+    "explanation": "Los conos de tránsito son los elementos normados para definir las zonas afectadas y canalizar el flujo."
   },
   {
-    "question": "Los riesgos en la zona de trabajo corresponden a:",
-    "options": [
-      "Las estructuras (vehículos) a intervenir.",
-      "Los equipos utilizados para dicha intervención.",
-      "Los resultados (deformaciones, superficies cortantes) de dichas intervenciones.",
-      "Solo a) y c) son correctas.",
-      "Solo a), b) y c) son correctas."
-    ],
-    "answer": "Solo a), b) y c) son correctas.",
-    "explanation": "Todos los elementos mencionados representan riesgos potenciales en la zona de trabajo y deben ser gestionados adecuadamente para proteger al personal de rescate."
+    "question": "¿Qué velocidad señalizada requiere conos de tránsito de al menos 80 cm de altura?",
+    "options": ["60 km/h", "50 km/h", "80 km/h", "40 km/h"],
+    "answer": "80 km/h",
+    "explanation": "Para caminos con velocidad señalizada de hasta 80 km/h se requiere cono mínimo de 80 cm de altura."
   },
   {
-    "question": "¿Qué tipo de riesgo puede surgir como resultado directo de las maniobras de extricación?",
-    "options": [
-      "Lesión auditiva por exposición a alarmas",
-      "Generación de puntos de atrapamiento por colapso estructural",
-      "Fatiga del personal por turnos prolongados",
-      "Confusión entre personal y civiles en el perímetro"
-    ],
-    "answer": "Generación de puntos de atrapamiento por colapso estructural",
-    "explanation": "Las maniobras de corte o desplazamiento de piezas pueden debilitar zonas del vehículo y crear nuevos riesgos mecánicos."
+    "question": "¿Cuál es la distancia mínima entre conos para una segregación efectiva?",
+    "options": ["1 metro", "5 metros", "10 metros", "15 metros"],
+    "answer": "5 metros",
+    "explanation": "Los conos deben colocarse al menos cada 5 metros para lograr una canalización continua del tránsito."
   },
   {
-    "question": "¿Qué afirmación es correcta sobre los riesgos generados por el uso de herramientas de extricación?",
-    "options": [
-      "Son inevitables y no pueden preverse.",
-      "No representan riesgo si el vehículo está estabilizado.",
-      "Generan riesgos adicionales como bordes cortantes o inestabilidad.",
-      "Solo afectan al paciente, no al personal interviniente."
-    ],
-    "answer": "Generan riesgos adicionales como bordes cortantes o inestabilidad.",
-    "explanation": "Las herramientas modifican la estructura del vehículo, generando superficies filosas o puntos de colapso inesperado."
+    "question": "¿Qué indica el Decreto 78 de 2012 sobre emergencias en la vía?",
+    "options": ["Permite bloquear sin señalizar", "Prohíbe el uso de luces", "Obliga a señalización según manual", "Autoriza pasos peatonales temporales"],
+    "answer": "Obliga a señalización según manual",
+    "explanation": "El decreto establece normas de señalización que deben seguirse al intervenir en la vía pública."
   },
   {
-    "question": "Con respecto al manejo de riesgos en rescate vehicular, es correcto afirmar que:",
-    "options": [
-      "La preparación para enfrentar riesgos empieza con el entrenamiento.",
-      "El uso completo de EPP NO elimina los riesgos al personal.",
-      "La implementación de un POE disminuye la ocurrencia de accidentes y lesiones al personal.",
-      "Cada rescatista es responsable de su seguridad.",
-      "Todas las alternativas son correctas."
-    ],
-    "answer": "Todas las alternativas son correctas.",
-    "explanation": "El entrenamiento, el uso de EPP, la implementación de POE y la responsabilidad individual son pilares fundamentales e interdependientes en la gestión de riesgos durante el rescate vehicular."
+    "question": "¿Qué dispositivo debe usarse en carros bomba para direccionar visualmente a los conductores?",
+    "options": ["Sirena rotatoria", "Flecha direccionadora LED", "Reflector halógeno", "Toldo retráctil"],
+    "answer": "Flecha direccionadora LED",
+    "explanation": "La flecha LED direccionadora guía a los vehículos hacia la pista habilitada, según norma de seguridad."
   },
   {
-    "question": "Con respecto al uso de EPP en operaciones de extricación, ¿cuál es la afirmación más precisa?",
-    "options": [
-      "El uso de EPP elimina completamente el riesgo.",
-      "Solo es obligatorio para quienes operan herramientas.",
-      "Disminuye el riesgo, pero no lo elimina totalmente.",
-      "Puede ser opcional en condiciones controladas."
-    ],
-    "answer": "Disminuye el riesgo, pero no lo elimina totalmente.",
-    "explanation": "El EPP reduce la probabilidad y severidad de lesiones, pero no garantiza protección total si no se gestiona el entorno."
+    "question": "¿Qué debe evitar hacer un bombero al instalar conos en la vía?",
+    "options": ["Usar uniforme estructural", "Colocarlos cada 5 metros", "Dar la espalda al tránsito", "Acompañarse de un guía"],
+    "answer": "Dar la espalda al tránsito",
+    "explanation": "Está prohibido dar la espalda al tránsito por el riesgo de no advertir vehículos en movimiento."
   },
   {
-    "question": "¿Cuál de las siguientes afirmaciones refleja una conducta responsable frente a los riesgos en la escena?",
-    "options": [
-      "Confiar en que el conductor del vehículo apagó el motor.",
-      "Retirar EPP si se percibe baja peligrosidad.",
-      "Usar EPP y seguir el POE sin excepción.",
-      "Priorizar la rapidez del rescate sobre la seguridad."
-    ],
-    "answer": "Usar EPP y seguir el POE sin excepción.",
-    "explanation": "El uso correcto de EPP y el cumplimiento del POE son medidas mínimas de autoprotección profesional."
+    "question": "¿Cuál es el riesgo asociado a los depósitos de combustible en un vehículo incendiado?",
+    "options": ["Fuga de oxígeno", "Explosión por presión o temperatura", "Aumento de velocidad del fuego", "Cortocircuito general"],
+    "answer": "Explosión por presión o temperatura",
+    "explanation": "Los estanques de combustible pueden romperse o inflamarse por impacto o calor, provocando explosiones."
   },
   {
-    "question": "Los Procedimientos de Operación Estándar (POE) deben ser:",
-    "options": [
-      "Definidos a nivel nacional en reunión del consejo ejecutivo.",
-      "Definidos por los equipos médicos locales.",
-      "Definidos por cada Cuerpo de Bomberos de acuerdo a su realidad.",
-      "Aplicados solo en condiciones de entrenamiento.",
-      "Ninguna de las alternativas es correcta."
-    ],
-    "answer": "Definidos por cada Cuerpo de Bomberos de acuerdo a su realidad.",
-    "explanation": "Los POE deben adaptarse a los recursos, entorno operativo y estructura organizacional de cada Cuerpo de Bomberos, permitiendo una implementación eficaz y realista según sus capacidades."
+    "question": "¿Qué peligro representa el sistema de inyección de combustible ante altas temperaturas?",
+    "options": ["Falla de encendido", "Pérdida de aceite", "Generación de vapores inflamables a presión", "Desactivación del sistema eléctrico"],
+    "answer": "Generación de vapores inflamables a presión",
+    "explanation": "El fuego activa los componentes del sistema de inyección, generando gases inflamables presurizados."
   },
   {
-    "question": "Respecto a los Procedimientos de Operación Estándar (POE), ¿cuál es su propósito principal en el contexto del rescate vehicular?",
-    "options": [
-      "Permitir que cada rescatista actúe según su criterio técnico.",
-      "Establecer una estructura improvisada para enfrentar emergencias.",
-      "Estandarizar acciones y minimizar riesgos durante la intervención.",
-      "Limitar la autonomía de los equipos operativos en terreno."
-    ],
-    "answer": "Estandarizar acciones y minimizar riesgos durante la intervención.",
-    "explanation": "Los POE son guías predefinidas que permiten actuar con seguridad, coherencia y eficacia ante escenarios críticos."
+    "question": "¿Qué elementos del vehículo pueden activarse por temperatura y salir proyectados?",
+    "options": ["Faros delanteros", "Amortiguadores y cilindros presurizados", "Bujías", "Radiadores"],
+    "answer": "Amortiguadores y cilindros presurizados",
+    "explanation": "Estos elementos, al calentarse, pueden explotar y salir lanzados violentamente."
   },
   {
-    "question": "¿Por qué es fundamental que todos los integrantes de un equipo conozcan el POE institucional?",
-    "options": [
-      "Porque el POE reemplaza la formación técnica individual.",
-      "Para que cada uno actúe según su propio criterio.",
-      "Para asegurar respuestas coordinadas y seguras durante el rescate.",
-      "Para evitar sanciones en caso de inspecciones externas."
-    ],
-    "answer": "Para asegurar respuestas coordinadas y seguras durante el rescate.",
-    "explanation": "El conocimiento compartido del POE permite que las acciones del equipo sean complementarias y sincrónicas ante una emergencia."
+    "question": "¿Qué tipo de carga puede representar peligro para los bomberos en un incendio vehicular?",
+    "options": ["Documentos personales", "Equipaje liviano", "Material inflamable o explosivo en maletero", "Cables de batería"],
+    "answer": "Material inflamable o explosivo en maletero",
+    "explanation": "El contenido del maletero puede incluir productos inflamables o peligrosos que aumentan el riesgo."
   },
   {
-    "question": "Con respecto a la finalización de un trabajo de rescate vehicular, es correcto afirmar que:",
-    "options": [
-      "Una vez finalizada la extricación deben retirarse todos los elementos de señalización.",
-      "Deben sancionarse las conductas que se desvíen del procedimiento.",
-      "Pueden retirarse los EPP de acuerdo a las condiciones ambientales.",
-      "Deberá evaluarse en forma crítica el trabajo realizado en busca de mejorar la labor del equipo completo.",
-      "Ninguna de las alternativas es correcta."
-    ],
-    "answer": "Deberá evaluarse en forma crítica el trabajo realizado en busca de mejorar la labor del equipo completo.",
-    "explanation": "La revisión crítica posterior al rescate permite identificar oportunidades de mejora, reforzar buenas prácticas y fortalecer la efectividad del equipo en futuras intervenciones."
+    "question": "¿Qué dispositivo de seguridad puede convertirse en riesgo explosivo en caso de temperatura elevada?",
+    "options": ["Sistema de sonido", "Airbag", "Ventilador", "Sensor de retroceso"],
+    "answer": "Airbag",
+    "explanation": "El mecanismo pirotécnico del airbag puede activarse por calor, generando una explosión."
   },
   {
-    "question": "¿Qué rol cumple la evaluación crítica posterior al rescate vehicular según la Lección 2?",
-    "options": [
-      "Identificar errores para sancionar a los responsables.",
-      "Determinar si el rescate fue exitoso desde el punto de vista legal.",
-      "Mejorar el desempeño futuro mediante retroalimentación del equipo.",
-      "Justificar la demora en el traslado del paciente."
-    ],
-    "answer": "Mejorar el desempeño futuro mediante retroalimentación del equipo.",
-    "explanation": "La evaluación crítica busca revisar lo hecho para aprender y perfeccionar procedimientos en próximas intervenciones."
+    "question": "¿Qué tipo de gases pueden generarse al quemarse materiales presentes en un vehículo?",
+    "options": ["Gases medicinales", "Gases inflamables o tóxicos", "Gases anestésicos", "Gases refrigerantes"],
+    "answer": "Gases inflamables o tóxicos",
+    "explanation": "Al arder los materiales de un vehículo, se liberan gases que pueden ser inflamables o tóxicos, representando riesgo para los bomberos."
+  },
+  {
+    "question": "¿Qué se debe asumir respecto a los materiales dentro de un vehículo en llamas?",
+    "options": ["Que son reciclables", "Que han sido retirados por el conductor", "Que pueden ser peligrosos hasta descartarlo", "Que solo contienen plásticos"],
+    "answer": "Que pueden ser peligrosos hasta descartarlo",
+    "explanation": "Se debe actuar considerando la posible presencia de materiales peligrosos, hasta comprobar lo contrario o tener información confiable."
+  },
+  {
+    "question": "¿Cuál es el riesgo principal que presenta la batería del vehículo en un incendio?",
+    "options": ["Pérdida de memoria", "Derrame de agua", "Explosión con proyección de ácido", "Cierre del circuito eléctrico"],
+    "answer": "Explosión con proyección de ácido",
+    "explanation": "El aumento de temperatura puede hacer que la batería explote, lanzando ácido al entorno."
+  },
+  {
+    "question": "¿Qué debe evitar siempre un bombero durante un incendio vehicular en cuanto a gases presentes?",
+    "options": ["Usar mascarilla filtrante", "Inhalar gases tóxicos", "Aplicar agua directamente", "Caminar por la calzada"],
+    "answer": "Inhalar gases tóxicos",
+    "explanation": "El bombero debe evitar exponerse a la inhalación de gases liberados por la combustión de materiales tóxicos."
+  },
+  {
+    "question": "¿Qué acción debe realizar el OBAC/CI al arribo de la primera máquina a un incidente vial?",
+    "options": ["Comenzar la extinción de inmediato", "Esperar instrucciones de tránsito", "Evaluar los factores viales y cubrir la escena", "Instalar conos en sentido contrario al tránsito"],
+    "answer": "Evaluar los factores viales y cubrir la escena",
+    "explanation": "El OBAC debe realizar una evaluación inicial del escenario y posicionar el carro bomba para proteger la escena."
+  },
+  {
+    "question": "¿Qué debe hacer el primer carro si el incidente se encuentra después de una curva ciega?",
+    "options": ["Estacionarse sobre la curva", "Esperar al segundo carro", "Ubicar otro vehículo al inicio de la curva", "Encender solo luces de posición"],
+    "answer": "Ubicar otro vehículo al inicio de la curva",
+    "explanation": "Para evitar colisiones, se requiere apoyo de otro vehículo situado al inicio de la curva para señalización temprana."
+  },
+  {
+    "question": "¿Qué elemento debe portar el bombero que baja a instalar los primeros conos de tránsito?",
+    "options": ["Casco forestal", "Equipo de respiración autónoma", "Uniforme estructural y chaleco reflectante", "Hacha y linterna"],
+    "answer": "Uniforme estructural y chaleco reflectante",
+    "explanation": "El estándar operativo exige protección visual y física, por lo que debe usar uniforme estructural y chaleco reflectante."
+  },
+  {
+    "question": "¿Qué posición debe tomar el carro bomba al iniciar la extinción?",
+    "options": ["Al frente del vehículo siniestrado", "En la berma opuesta", "En la pista habilitada con luces encendidas", "Sobre la acera"],
+    "answer": "En la pista habilitada con luces encendidas",
+    "explanation": "El carro debe ubicarse en posición de protección parcial, con todas sus luces activadas y flecha hacia la pista libre."
+  },
+  {
+    "question": "Durante la retirada del lugar, ¿qué acción debe realizar el bombero responsable de los conos?",
+    "options": ["Esperar en la acera", "Recoger conos mientras el carro retrocede con luces encendidas", "Apagar la flecha direccional", "Revisar la temperatura del asfalto"],
+    "answer": "Recoger conos mientras el carro retrocede con luces encendidas",
+    "explanation": "El procedimiento estipula que el bombero recoge los conos mientras el carro se desplaza hacia atrás con luces activas."
+  },
+  {
+    "question": "¿Qué debe hacer el carro bomba una vez que se ha recogido el último cono de tránsito?",
+    "options": ["Avanzar en reversa", "Detenerse en medio de la vía", "Tomar posición en la berma y subir al último bombero", "Apagar todas las luces y salir a alta velocidad"],
+    "answer": "Tomar posición en la berma y subir al último bombero",
+    "explanation": "Tras la retirada, el carro debe detenerse en la berma para recoger al último miembro del equipo antes de salir de la escena."
+  },
+  {
+    "question": "¿Qué prioridad debe tener siempre el equipo de emergencia tras la intervención en la vía?",
+    "options": ["Esperar indicaciones del conductor", "Reabrir completamente el tránsito lo antes posible", "Tomar fotografías de la escena", "Verificar el funcionamiento del motor"],
+    "answer": "Reabrir completamente el tránsito lo antes posible",
+    "explanation": "La prioridad tras el control del incidente es recuperar la operatividad vial para evitar nuevos accidentes."
+  },
+  {
+    "question": "Según la NFPA 1901, ¿cuál es el número óptimo de conos reflectantes para una segregación vial segura?",
+    "options": ["3 conos", "5 conos", "10 conos", "15 conos"],
+    "answer": "10 conos",
+    "explanation": "La norma establece que el óptimo para una segregación segura es disponer 10 conos reflectantes."
+  },
+  {
+    "question": "¿Qué norma técnica establece la obligación de elementos de canalización vial como los conos?",
+    "options": ["Código Civil", "NFPA 1031", "Decreto N°63 de 1989", "ISO 9001"],
+    "answer": "Decreto N°63 de 1989",
+    "explanation": "El Decreto N°63 regula el uso de elementos como conos y señalización en trabajos que afecten el tránsito."
+  },
+  {
+    "question": "¿Qué distancia de seguridad se recomienda para una velocidad señalizada de 90 km/h?",
+    "options": ["90 metros", "100 metros", "110 metros", "130 metros"],
+    "answer": "110 metros",
+    "explanation": "Según la tabla operativa, a 90 km/h se requiere una distancia de seguridad de 110 metros para la transición vial."
+  },
+  {
+    "question": "¿Qué estructura vial puede usarse como referencia visual para calcular conificación adecuada?",
+    "options": ["Cámaras de vigilancia", "Postes de alumbrado público", "Cunetas de agua lluvia", "Estaciones de peaje"],
+    "answer": "Postes de alumbrado público",
+    "explanation": "El promedio entre postes (33 m) permite estimar longitud de transición para establecer distancia entre conos."
   }
   ]
 }
