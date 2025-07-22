@@ -1,237 +1,170 @@
 {
-    "titulo": "Aproximación al rescate",
+    "titulo": "Consideraciones generales Fuego en vehículos",
     "preguntas": [
   {
-    "question": "Las acciones que se planifican y desarrollan a lo largo del rescate vehicular, se regirán principalmente por:",
+    "question": "¿Qué se entiende por fuego en vehículo según la definición operativa del manual ANB Chile?",
     "options": [
-      "La evaluación de peligros de la escena.",
-      "La condición de el o los pacientes.",
-      "Las técnicas de extricación a desarrollar.",
-      "Las unidades de trabajo designadas.",
-      "Ninguna de las alternativas es correcta."
+      "Cualquier incendio causado por fallas eléctricas en vehículos.",
+      "Cualquier incendio en un taller mecánico que involucre vehículos.",
+      "Cuando alguna parte de un vehículo y/o su carga son afectadas por un fuego en cualquier fase, con posibilidad de propagarse al resto del móvil o su entorno.",
+      "Un incendio que afecta solo el motor del vehículo sin riesgo de propagación."
     ],
-    "answer": "La condición de el o los pacientes.",
-    "explanation": "Todas las acciones del rescate vehicular se rigen por la condición del paciente, en función del tipo de trauma y nivel de atrapamiento, lo que permite priorizar maniobras según riesgo vital."
+    "answer": "Cuando alguna parte de un vehículo y/o su carga son afectadas por un fuego en cualquier fase, con posibilidad de propagarse al resto del móvil o su entorno.",
+    "explanation": "El manual indica que se considera fuego en vehículo cuando alguna parte del vehículo o su carga es afectada por fuego en cualquier fase, con posibilidad de propagación."
   },
   {
-    "question": "El Jefe de Operaciones designará en el perímetro externo las siguientes áreas de trabajo:",
+    "question": "¿Cuál es una consecuencia habitual de los incendios en vehículos?",
     "options": [
-      "Área de herramientas y materiales.",
-      "Área de escombros (partes removidas del vehículo).",
-      "Área de concentración de víctimas.",
-      "Todas las alternativas son correctas.",
-      "Solo a) y c) son correctas."
+      "Derrames de líquidos que no afectan la estructura.",
+      "Normalmente solo daños leves y reversibles.",
+      "Generan pérdidas totales, aunque en ocasiones existen seguros de por medio.",
+      "Solo afectan la pintura del vehículo."
     ],
-    "answer": "Todas las alternativas son correctas.",
-    "explanation": "Las tres áreas mencionadas deben ser definidas por el Jefe de Operaciones dentro del perímetro externo, conforme al POE indicado en la Lección 1."
+    "answer": "Generan pérdidas totales, aunque en ocasiones existen seguros de por medio.",
+    "explanation": "El documento especifica que por lo general estos incendios generan pérdidas totales, aunque puede haber seguros involucrados."
   },
   {
-    "question": "Se establece como Etapa 0 del rescate vehicular a:",
+    "question": "¿Qué productos presentes en vehículos representan un riesgo toxicológico para el personal de intervención en un incendio?",
     "options": [
-      "La evaluación de la escena.",
-      "La estabilización de los vehículos involucrados.",
-      "La evaluación del ABC del Trauma.",
-      "La evaluación en 360°.",
-      "Ninguna de las alternativas es correcta."
+      "Componentes metálicos del chasis.",
+      "Productos sintéticos que al arder liberan sustancias tóxicas.",
+      "Aceites minerales no volátiles.",
+      "Cristales templados de las ventanas."
     ],
-    "answer": "Ninguna de las alternativas es correcta.",
-    "explanation": "La Etapa 0 corresponde a la designación anticipada de Unidades de Trabajo antes de la llegada a la emergencia, no a ninguna de las acciones listadas."
+    "answer": "Productos sintéticos que al arder liberan sustancias tóxicas.",
+    "explanation": "El manual advierte que los vehículos contienen productos sintéticos que liberan sustancias tóxicas al arder, lo que es un riesgo para el personal."
   },
   {
-    "question": "El Procedimiento de Operación Estándar (POE) de rescate vehicular establece distintas Unidades de Trabajo, entre las cuales se encuentra(n):",
+    "question": "¿A quiénes puede afectar un incendio en vehículo según el manual de control de fuego en vehículos?",
     "options": [
-      "Seguridad",
-      "Asistente de ABC del Trauma.",
-      "Extricación",
-      "Todas las alternativas son correctas.",
-      "Solo a) y c) son correctas."
+      "Únicamente a los bomberos que intervienen.",
+      "Al vehículo, su carga, pasajeros y personas cercanas.",
+      "Solo a los pasajeros del vehículo.",
+      "Solo a los peatones."
     ],
-    "answer": "Todas las alternativas son correctas.",
-    "explanation": "El POE contempla las unidades de Seguridad, Trauma (incluye asistente ABC), Equipos y Extricación como componentes estructurales del operativo."
+    "answer": "Al vehículo, su carga, pasajeros y personas cercanas.",
+    "explanation": "El manual señala que el fuego puede propagarse y afectar tanto al vehículo, su carga, como a pasajeros y personas cercanas."
   },
   {
-    "question": "Posterior a la evaluación de la escena en 360°, se procederá a:",
+    "question": "¿Cuál es la principal finalidad operativa de usar el equipo de protección personal (EPP) completo durante el control de fuego en vehículos?",
     "options": [
-      "Estabilizar los vehículos involucrados.",
-      "Confirmar y/o reasignar las unidades de trabajo.",
-      "Acceder al paciente.",
-      "Evaluar el estado de los pacientes según el ABC del Trauma.",
-      "Definir el PATER."
+      "Evitar que el personal de bomberos se ensucie durante la intervención.",
+      "Permitir la identificación visual de los bomberos.",
+      "Prevenir lesiones y daños a la salud por exposición a diversos agentes de riesgo.",
+      "Cumplir una exigencia administrativa."
     ],
-    "answer": "Confirmar y/o reasignar las unidades de trabajo.",
-    "explanation": "Luego de la evaluación 360°, se debe confirmar o reasignar unidades de trabajo como paso previo a cualquier intervención directa sobre el paciente o vehículo."
+    "answer": "Prevenir lesiones y daños a la salud por exposición a diversos agentes de riesgo.",
+    "explanation": "El EPP constituye la última barrera de protección para evitar lesiones y daños a la salud durante la exposición a riesgos presentes en incendios de vehículos."
   },
   {
-    "question": "La E de PATER, corresponde a:",
+    "question": "¿Qué elementos forman parte del equipo de protección personal completo para incendios estructurales según el manual?",
     "options": [
-      "Estado del paciente.",
-      "Evaluación del ABC del Trauma.",
-      "Vía de Extracción del paciente.",
-      "Nivel de Atrapamiento del paciente.",
-      "Ninguna de las alternativas es correcta."
+      "Casco, esclavina, chaqueta, guantes, jardinera, botas y ERA.",
+      "Solo chaqueta, botas y extintor portátil.",
+      "Guantes, antiparras y mascarilla de polvo.",
+      "Esclavina, botas y peto reflectante."
     ],
-    "answer": "Vía de Extracción del paciente.",
-    "explanation": "La E de PATER representa la vía de extracción que se utilizará para remover al paciente, considerando factores como acceso y condiciones de atrapamiento."
+    "answer": "Casco, esclavina, chaqueta, guantes, jardinera, botas y ERA.",
+    "explanation": "El EPP completo para incendios estructurales incluye los siete elementos: casco, esclavina, chaqueta, guantes, jardinera, botas y ERA."
   },
   {
-    "question": "La regla nemotécnica de las etapas que permiten estabilizar y controlar los movimientos de los vehículos involucrados en la emergencia durante las maniobras de rescate, en orden secuencial es:",
+    "question": "¿Por qué los incendios en vehículos pueden ser peligrosos incluso cuando su magnitud es baja?",
     "options": [
-      "VE–HO–STOR–5ª–EN–MA–RATCH–EST",
-      "HO–VE–STOR–5ª–EN–MA–RATCH–EST",
-      "HO–VE–STOR–EN–MA–RATCH–EST–5ª",
-      "VE–HO–STOR–EN–MA–RATCH–EST–5ª",
-      "HO–VE–5ª–EN–STOR–MA–RATCH–EST"
+      "Porque los cristales pueden romperse fácilmente.",
+      "Por la cantidad de productos sintéticos que liberan sustancias tóxicas al arder.",
+      "Debido a la presencia de combustibles alternativos.",
+      "Por la posible caída de árboles cercanos."
     ],
-    "answer": "HO–VE–STOR–5ª–EN–MA–RATCH–EST",
-    "explanation": "La secuencia correcta es HO–VE–STOR–5ª–EN–MA–RATCH–EST, lo cual representa el orden sistemático de técnicas de control de movimiento según el POE."
+    "answer": "Por la cantidad de productos sintéticos que liberan sustancias tóxicas al arder.",
+    "explanation": "Aunque el incendio sea pequeño, los productos sintéticos presentes pueden liberar sustancias tóxicas peligrosas."
   },
   {
-    "question": "En la reunión tripartita, cuando se observe que NO hay pacientes en estado crítico se establecerá(n):",
+    "question": "¿Qué componente del equipo de protección personal es fundamental para proteger las vías respiratorias en incendios de vehículos?",
     "options": [
-      "Un plan de acción único al que se destinarán todos los recursos necesarios.",
-      "Dos planes de acción, plan óptimo y plan rápido, desarrollándose el plan óptimo primero.",
-      "Tres planes de acción, plan óptimo, plan rápido y plan de extracción desarrollados en dicha secuencia.",
-      "Dos planes de acción: plan óptimo y plan rápido, desarrollándose el plan rápido primero.",
-      "Dos planes de acción: plan óptimo y plan rápido, sin prioridad de desarrollo."
+      "Jardinera.",
+      "Guantes.",
+      "Equipo de Respiración Auto Contenido (ERA).",
+      "Botas."
     ],
-    "answer": "Dos planes de acción, plan óptimo y plan rápido, desarrollándose el plan óptimo primero.",
-    "explanation": "Cuando no hay pacientes críticos, la estrategia indicada es desarrollar primero el plan óptimo, dejando el plan rápido como respaldo ante cambios en la condición del paciente."
+    "answer": "Equipo de Respiración Auto Contenido (ERA).",
+    "explanation": "El ERA es fundamental para proteger las vías respiratorias de la inhalación de sustancias tóxicas."
   },
   {
-    "question": "¿En qué etapa del rescate vehicular se realizan las labores y maniobras de liberación de la víctima?",
+    "question": "¿Cuál de los siguientes riesgos operativos adicionales está presente en los incendios de vehículos?",
     "options": [
-      "Extracción del paciente.",
-      "Preparación para el transporte.",
-      "Evaluación del paciente.",
-      "Extricación del paciente.",
-      "Ninguna de las alternativas es correcta."
+      "Desprendimiento de piezas plásticas.",
+      "Estanques, dispositivos o accesorios que acumulan presión o pueden activarse por temperatura.",
+      "Derrame de líquidos de freno.",
+      "Desgaste de pintura del capó."
     ],
-    "answer": "Extricación del paciente.",
-    "explanation": "Las maniobras de liberación del paciente se ejecutan en la etapa de extricación, utilizando herramientas para remover obstrucciones o deformaciones del vehículo."
+    "answer": "Estanques, dispositivos o accesorios que acumulan presión o pueden activarse por temperatura.",
+    "explanation": "El documento advierte sobre el riesgo de lesiones debido a estanques, dispositivos o accesorios bajo presión o que pueden activarse por efecto de la temperatura."
   },
   {
-    "question": "La definición: “Toda el área que rodea la emergencia incluyendo a todos los vehículos, lesionados involucrados y elementos externos afectados por la emergencia”, corresponde a:",
+    "question": "¿Qué acción es obligatoria para prevenir lesiones en el personal durante el control de incendios en vehículos?",
     "options": [
-      "Perímetro interno.",
-      "Escena",
-      "Perímetro externo.",
-      "Área de concentración de víctimas.",
-      "Solo a y d son correctas."
+      "Esperar instrucciones del jefe de turno.",
+      "Utilizar siempre el equipo de protección personal de forma adecuada.",
+      "No intervenir si el incendio parece pequeño.",
+      "Apagar el motor del vehículo manualmente antes de intervenir."
     ],
-    "answer": "Escena",
-    "explanation": "El concepto de 'escena' incluye todo el contexto físico y operativo del incidente, no solo zonas delimitadas internas o externas."
-  },
-
-  {
-    "question": "Las letras EST, de la regla nemotécnica de las etapas que permiten estabilizar y controlar los movimientos de los vehículos involucrados, corresponde a:",
-    "options": [
-      "Evaluación/Instalación de estabilizadores.",
-      "Estabilización entre autos, barreras, obstrucciones, etc.",
-      "Estabilización en cuatro (4) puntos.",
-      "Estabilización horizontal.",
-      "Ninguna de las alternativas es correcta."
-    ],
-    "answer": "Estabilización en cuatro (4) puntos.",
-    "explanation": "‘EST’ representa el paso final de estabilización en cuatro puntos, técnica clave para asegurar el vehículo en la fase de intervención con herramientas."
+    "answer": "Utilizar siempre el equipo de protección personal de forma adecuada.",
+    "explanation": "El manual enfatiza que siempre se debe usar el EPP de forma adecuada para prevenir lesiones."
   },
   {
-    "question": "¿Cuál es la definición operacional del concepto de extricación según la NFPA 1670?",
+    "question": "¿Qué significa la sigla ERA en el contexto de incendios de vehículos?",
     "options": [
-      "Evaluación clínica del paciente atrapado en un vehículo",
-      "Movimiento de una víctima atrapada mediante fuerza manual",
-      "Remoción de víctimas atrapadas en un accidente vehicular usando técnicas específicas",
-      "Maniobra de estabilización del vehículo para evitar nuevos daños"
+      "Escudo de Resistencia Avanzada.",
+      "Equipo de Respiración Auto Contenido.",
+      "Elemento de Rescate Automotriz.",
+      "Equipo de Respuesta a Emergencias."
     ],
-    "answer": "Remoción de víctimas atrapadas en un accidente vehicular usando técnicas específicas",
-    "explanation": "La extricación es definida por la NFPA 1670 como la remoción de víctimas atrapadas mediante técnicas específicas."
+    "answer": "Equipo de Respiración Auto Contenido.",
+    "explanation": "ERA corresponde a Equipo de Respiración Auto Contenido, indispensable en incendios estructurales y de vehículos."
   },
   {
-    "question": "En el modelo de comando de incidentes del rescate vehicular, ¿cuál es el componente que debe guiar todas las decisiones operativas?",
+    "question": "¿Cuál de los siguientes NO forma parte del equipo de protección personal para incendios estructurales según el manual?",
     "options": [
-      "El jefe de extricación",
-      "El estado del paciente",
-      "La logística del equipo técnico",
-      "El jefe de operaciones tácticas"
+      "Jardinera.",
+      "Casco.",
+      "Extintor portátil.",
+      "Guantes."
     ],
-    "answer": "El estado del paciente",
-    "explanation": "El estado del paciente determina las decisiones operativas en todo rescate vehicular centrado en la víctima."
+    "answer": "Extintor portátil.",
+    "explanation": "El EPP completo no incluye el extintor portátil como elemento personal obligatorio."
   },
   {
-    "question": "¿Cuál de las siguientes es la etapa número 5 del protocolo de rescate vehicular?",
+    "question": "¿En qué situaciones puede estar presente un seguro en casos de incendio de vehículo según el manual?",
     "options": [
-      "Evaluación de la escena",
-      "Estabilización del vehículo",
-      "ABC del Trauma – PATER",
-      "Extracción del paciente"
+      "Siempre, sin importar el tipo de vehículo.",
+      "Nunca, los seguros no cubren incendios.",
+      "En ocasiones, dependiendo de la cobertura del vehículo.",
+      "Solo en vehículos de transporte público."
     ],
-    "answer": "ABC del Trauma – PATER",
-    "explanation": "La etapa número 5 corresponde al ABC del Trauma – PATER según el protocolo secuencial presentado."
+    "answer": "En ocasiones, dependiendo de la cobertura del vehículo.",
+    "explanation": "El documento indica que, aunque normalmente hay pérdidas totales, a veces existen seguros de por medio."
   },
   {
-    "question": "Según el acrónimo PATER, la letra T corresponde a:",
+    "question": "¿Cuál es la finalidad operativa principal al capacitarse en control de fuego en vehículos según ANB Chile?",
     "options": [
-      "Transporte del paciente",
-      "Tipo de técnica de extricación a emplear",
-      "Tiempo de intervención",
-      "Tracción aplicada en la zona lumbar"
+      "Diseñar uniformes más visibles.",
+      "Capacitar al operador para ejecutar procedimientos seguros de intervención usando el EPP completo.",
+      "Elaborar informes estadísticos de siniestros.",
+      "Promover campañas de prevención vial."
     ],
-    "answer": "Tipo de técnica de extricación a emplear",
-    "explanation": "La T en PATER representa la técnica de extricación a desarrollar, sugerida por el jefe de trauma."
+    "answer": "Capacitar al operador para ejecutar procedimientos seguros de intervención usando el EPP completo.",
+    "explanation": "La finalidad operativa es que el operador ejecute procedimientos seguros usando el EPP completo ante incendios de vehículos."
   },
   {
-    "question": "Durante la etapa de estabilización vehicular, ¿qué representa el elemento MA del acrónimo HO-VE-STOR-5ª-EN-MA-RATCH-EST?",
+    "question": "¿Qué elementos del EPP protegen específicamente las extremidades superiores e inferiores?",
     "options": [
-      "Maniobra de extracción",
-      "Montaje de anclajes",
-      "Evaluación de apertura manual de accesos",
-      "Movimiento de ayuda técnica"
+      "Guantes y botas.",
+      "Chaqueta y casco.",
+      "Esclavina y jardinera.",
+      "ERA y chaqueta."
     ],
-    "answer": "Evaluación de apertura manual de accesos",
-    "explanation": "MA representa la evaluación manual de todos los accesos posibles como parte de la estabilización."
-  },
-  {
-    "question": "¿Cuál es el objetivo de la etapa denominada Evaluación – Debriefing?",
-    "options": [
-      "Confirmar diagnóstico médico definitivo",
-      "Coordinar logística de transporte",
-      "Reflexionar sobre el procedimiento y buscar mejoras",
-      "Cerrar el área de operación y retirar el personal"
-    ],
-    "answer": "Reflexionar sobre el procedimiento y buscar mejoras",
-    "explanation": "El Debriefing busca generar aprendizaje operativo a través de la revisión del procedimiento realizado."
-  },
-  {
-    "question": "¿Cuál es el propósito de la reunión tripartita dentro del protocolo de rescate vehicular?",
-    "options": [
-      "Definir la vía aérea segura del paciente",
-      "Distribuir materiales de bioseguridad",
-      "Planificar acciones entre los jefes de trauma, operaciones y salud",
-      "Establecer el punto de evacuación de civiles"
-    ],
-    "answer": "Planificar acciones entre los jefes de trauma, operaciones y salud",
-    "explanation": "La reunión tripartita busca planificar en conjunto las acciones tácticas para la extracción eficiente del paciente."
-  },
-  {
-    "question": "Según el esquema HO-VE-STOR-5ª-EN-MA-RATCH-EST, ¿qué representa STOR?",
-    "options": [
-      "Supervisión de técnica ortopédica rápida",
-      "Evaluación del segundo vehículo o estorbo",
-      "Sistema de tracción de objetos riesgosos",
-      "Señalización técnica orientada al rescate"
-    ],
-    "answer": "Evaluación del segundo vehículo o estorbo",
-    "explanation": "STOR hace referencia al análisis de obstáculos o vehículos que interfieren con la operación."
-  },
-  {
-    "question": "Durante la etapa de Evaluación del riesgo inminente, ¿cuál es la acción más inmediata esperada?",
-    "options": [
-      "Retiro del paciente",
-      "Instalación de estabilizadores",
-      "Eliminación o mitigación de peligros activos",
-      "Solicitud de apoyo médico avanzado"
-    ],
-    "answer": "Eliminación o mitigación de peligros activos",
-    "explanation": "En la fase de evaluación de escena, la prioridad es eliminar o mitigar los riesgos que amenazan al equipo y la víctima."
+    "answer": "Guantes y botas.",
+    "explanation": "Los guantes protegen las manos y las botas los pies, ambos elementos esenciales del EPP."
   }
 ]
 }

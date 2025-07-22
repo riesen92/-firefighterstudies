@@ -1,144 +1,412 @@
 {
-  "titulo": "Equipos de Protección Personal (EPP) y herramientas para la extricación",
+  "titulo": "POE para vehículos en llamas",
   "preguntas": [
      {
-    "question": "Con respecto a los equipos de protección personal, la alternativa INCORRECTA es:",
+    "question": "¿Cuál es la distancia mínima recomendada para establecer el perímetro de seguridad en un incendio vehicular?",
     "options": [
-      "La protección mecánica debe usarse durante todo el tiempo que dure el rescate.",
-      "La protección biológica debe ser individual para cada paciente.",
-      "El uso de antiparras puede ser reemplazado por el visor del casco.",
-      "Los guantes de trabajo para vidrio NO pueden ser utilizados en pacientes.",
-      "El uso de mascarillas (N95) es obligatoria para el personal que trabaje en labores de extracción de vidrios."
+      "10 metros",
+      "25 metros",
+      "15 metros",
+      "5 metros"
     ],
-    "answer": "El uso de antiparras puede ser reemplazado por el visor del casco.",
-    "explanation": "El visor del casco no ofrece el mismo nivel de protección sellada contra partículas que las antiparras, especialmente en contextos con riesgo de esquirlas o contaminantes biológicos."
+    "answer": "15 metros",
+    "explanation": "El procedimiento establece un perímetro de seguridad de 15 metros para proteger al personal de proyecciones y explosiones."
   },
   {
-    "question": "Con respecto a las herramientas hidráulicas, solo es correcto afirmar que:",
+    "question": "¿Cuál es la posición correcta del carro bomba en un incendio de vehículo?",
     "options": [
-      "Las piezas de diferentes equipos pueden conectarse independiente del fabricante.",
-      "Los equipos eléctricos autónomos son ideales para zonas de difícil acceso.",
-      "El líquido hidráulico nunca se encuentra a alta presión.",
-      "Las herramientas hidráulicas NO requieren mantenciones.",
-      "Las salidas de las bombas siempre vienen en pares."
+      "A 25 metros, en contra del viento",
+      "A 15 metros, perpendicular al fuego",
+      "A 25 metros, a favor del viento",
+      "A 10 metros, frente al vehículo"
     ],
-    "answer": "Los equipos eléctricos autónomos son ideales para zonas de difícil acceso.",
-    "explanation": "Este tipo de herramientas elimina la necesidad de una unidad de potencia externa, facilitando su uso en zonas confinadas o de difícil acceso."
+    "answer": "A 25 metros, a favor del viento",
+    "explanation": "Ubicar el carro bomba a 25 metros a favor del viento permite evitar el contacto directo con humo, llamas o gases tóxicos."
   },
   {
-    "question": "Con respecto al expansor, solo es correcto afirmar que:",
+    "question": "¿Cuál es el diámetro mínimo de manguera y caudal exigido para combatir incendios en vehículos?",
     "options": [
-      "Es la herramienta menos utilizada en rescate.",
-      "La zona de mayor fuerza se encuentra en las puntas.",
-      "La base se los brazos deben ocuparse con cadenas.",
-      "Solo las puntas están hechas para trabajo.",
-      "NO posee comando de tipo hombre muerto."
+      "52 mm o 45 mm con 300 lts/min",
+      "25 mm con 500 lts/min",
+      "45 mm o 52 mm con 500 lts/min",
+      "38 mm con 350 lts/min"
     ],
-    "answer": "La base se los brazos deben ocuparse con cadenas.",
-    "explanation": "El expansor tiene puntos de anclaje en la base de los brazos especialmente diseñados para conectar cadenas y realizar maniobras de tracción controlada."
+    "answer": "45 mm o 52 mm con 500 lts/min",
+    "explanation": "El procedimiento indica el uso de mangueras de 45 mm o 52 mm con un caudal mínimo de 500 litros por minuto."
   },
   {
-    "question": "Con respecto a la cizalla, solo es correcto afirmar que:",
+    "question": "¿Qué técnica debe realizarse antes de acercarse al vehículo para atacar el fuego?",
     "options": [
-      "Puede realizar cortes envolventes y penetrantes.",
-      "Su mayor fuerza la realiza en las puntas.",
-      "Sus hojas están diseñadas para NO mover la estructura a cortar.",
-      "Las puntas son la zona más robusta de la herramienta.",
-      "NO posee comando de tipo hombre muerto."
+      "Romper vidrios y aplicar espuma",
+      "Reconocimiento de la escena en 360°",
+      "Forzar el capó para enfriar el motor",
+      "Abrir puertas y lanzar chorro directo"
     ],
-    "answer": "Puede realizar cortes envolventes y penetrantes.",
-    "explanation": "La cizalla hidráulica está diseñada para realizar cortes de precisión con acción envolvente (apertura y cierre) y penetrante en materiales estructurales como columnas o vigas."
+    "answer": "Reconocimiento de la escena en 360°",
+    "explanation": "El reconocimiento visual de la escena en 360° permite evaluar riesgos, detectar víctimas y planificar el acceso seguro."
   },
   {
-    "question": "Con respecto al RAM, solo es correcto afirmar que:",
+    "question": "¿Cuál es el ángulo de aproximación recomendado hacia el vehículo en llamas?",
     "options": [
-      "Su longitud máxima corresponde a la distancia máxima de desplazamiento del émbolo.",
-      "Es una herramienta de levante.",
-      "Su longitud efectiva corresponde a la distancia máxima de desplazamiento del émbolo.",
-      "NO posee comando de tipo hombre muerto.",
-      "Es usualmente utilizada en contacto con el expansor."
+      "90°, por el costado del viento",
+      "45°, a favor del viento",
+      "60°, contra el viento",
+      "30°, desde el frente"
     ],
-    "answer": "Su longitud efectiva corresponde a la distancia máxima de desplazamiento del émbolo.",
-    "explanation": "La longitud efectiva del RAM es la distancia que puede recorrer el émbolo al extenderse, no la longitud total del equipo."
+    "answer": "45°, a favor del viento",
+    "explanation": "Acercarse en un ángulo de 45° a favor del viento permite reducir el riesgo de exposición directa al fuego y mejora el control visual."
   },
   {
-    "question": "Con respecto a las herramientas combinadas (COMBI), solo es correcto afirmar que:",
+    "question": "¿Cuál es la distancia desde la cual debe iniciarse la extinción del fuego durante el avance progresivo hacia el vehículo?",
     "options": [
-      "En general, son tan o más eficientes que los kits separados.",
-      "Trabajan a una potencia mayor que otras herramientas.",
-      "Son elección en trabajo de rescate pesado.",
-      "Sus brazos funcionan como expansor y cizalla a la vez.",
-      "NO posee comando de tipo hombre muerto."
+      "3 metros",
+      "10 metros",
+      "25 metros",
+      "15 metros"
     ],
-    "answer": "Sus brazos funcionan como expansor y cizalla a la vez.",
-    "explanation": "Las herramientas COMBI están diseñadas para realizar tanto funciones de expansión como de corte con un solo dispositivo, lo que las hace versátiles pero generalmente menos potentes que las herramientas dedicadas."
+    "answer": "15 metros",
+    "explanation": "La extinción debe comenzar a 15 metros para iniciar el enfriamiento y control preliminar del fuego de forma segura."
   },
   {
-    "question": "Con respecto a los cojines de levante, solo es correcto afirmar que:",
+    "question": "Durante el avance progresivo hacia un vehículo incendiado, ¿a qué distancia mínima puede llegar el bombero respecto al habitáculo de pasajeros?",
     "options": [
-      "Se puede utilizar madera entre cojín de levante y la superficie del objeto a levantar para minimizar el espacio.",
-      "Se puede utilizar madera bajo los cojines para minimizar el espacio entre cojín de levante y la superficie del objeto a levantar.",
-      "Los cojines NO pierden estabilidad al elevarse.",
-      "Pueden ser de alta, mediana y baja presión.",
-      "Solo a) y b) son correctas."
+      "1 metro",
+      "3 metros",
+      "10 metros",
+      "5 metros"
     ],
-    "answer": "Solo a) y b) son correctas.",
-    "explanation": "La madera puede usarse entre o debajo de los cojines de levante para asegurar estabilidad y distribuir la carga. Además, permite reducir los espacios mínimos necesarios para introducir el cojín."
+    "answer": "3 metros",
+    "explanation": "El procedimiento establece que el punto más cercano permitido para la intervención directa es 3 metros del habitáculo de pasajeros."
   },
   {
-    "question": "¿Cuál es el propósito principal de establecer un Círculo de Seguridad en una escena vehicular?",
+    "question": "¿Cuál es el objetivo principal del avance progresivo en incendios vehiculares?",
     "options": [
-      "Facilitar la visibilidad del vehículo accidentado",
-      "Evitar que personas no autorizadas ingresen al área crítica",
-      "Identificar los puntos de corte estructurales",
-      "Crear un perímetro de acceso para el personal médico"
+      "Romper todas las ventanas antes del ataque",
+      "Posicionarse detrás del vehículo",
+      "Acercarse gradualmente con protección y enfriamiento",
+      "Ingresar rápidamente al habitáculo"
     ],
-    "answer": "Evitar que personas no autorizadas ingresen al área crítica",
-    "explanation": "El Círculo de Seguridad delimita el área operativa para evitar interferencias externas y proteger al personal de riesgos adicionales."
+    "answer": "Acercarse gradualmente con protección y enfriamiento",
+    "explanation": "El avance progresivo permite acercarse de manera controlada, aplicando enfriamiento y reduciendo riesgos antes del contacto directo."
   },
   {
-    "question": "¿Qué característica distingue al vidrio templado en los vehículos?",
+    "question": "¿Qué tipo de chorro es más efectivo al estar cerca del fuego durante la fase de extinción?",
     "options": [
-      "Tiene múltiples capas de plástico intermedio",
-      "Explota en pequeños fragmentos al romperse",
-      "Es irrompible con herramientas manuales",
-      "Solo se encuentra en los parabrisas"
+      "Chorro de penetración en línea recta",
+      "Cono de poder",
+      "Neblina de aspersión fina",
+      "Chorro indirecto de rebote"
     ],
-    "answer": "Explota en pequeños fragmentos al romperse",
-    "explanation": "El vidrio templado, común en ventanillas laterales, se fragmenta en partes pequeñas para minimizar lesiones al romperse."
+    "answer": "Cono de poder",
+    "explanation": "El cono de poder es más efectivo cerca del foco del fuego, ya que cubre mayor superficie y mejora la capacidad de enfriamiento y control."
   },
   {
-    "question": "¿Cuál de las siguientes herramientas es apropiada para una estabilización inicial del vehículo?",
+    "question": "¿Qué orientación debe seguir el bombero al avanzar hacia el vehículo durante la maniobra de extinción?",
     "options": [
-      "Cizalla hidráulica",
-      "Separador telescópico",
-      "Cuña o cribbing de madera",
-      "Tijeras de trauma"
+      "A favor del viento y en línea recta",
+      "En ángulo de 90° respecto al vehículo",
+      "A favor del viento y en ángulo de 45°",
+      "Contra el viento y con movimiento zigzagueante"
     ],
-    "answer": "Cuña o cribbing de madera",
-    "explanation": "Las cuñas y cribbing permiten estabilizar físicamente la posición del vehículo para evitar desplazamientos durante la operación."
+    "answer": "A favor del viento y en ángulo de 45°",
+    "explanation": "La orientación recomendada es a favor del viento y en un ángulo de 45°, para evitar exposición directa y mejorar la visibilidad del foco."
   },
   {
-    "question": "¿Qué implica la Técnica del Tercer Hombre durante una extricación?",
+    "question": "¿Cuál es la primera acción que debe intentarse al enfrentar una emergencia con víctimas atrapadas en un vehículo?",
     "options": [
-      "Un rescatista hace tracción sobre la víctima",
-      "Una persona controla el equipo hidráulico",
-      "Una persona se posiciona entre víctima y operador para comunicación y protección",
-      "Un observador externo dirige la maniobra de corte"
+      "Forzar inmediatamente la puerta con una palanca",
+      "Aplicar agua al compartimiento del motor",
+      "Romper una ventana para ingreso",
+      "Intentar la apertura tradicional de las vías de acceso"
     ],
-    "answer": "Una persona se posiciona entre víctima y operador para comunicación y protección",
-    "explanation": "La técnica asegura una comunicación clara y resguarda la integridad de la víctima durante la extracción."
+    "answer": "Intentar la apertura tradicional de las vías de acceso",
+    "explanation": "El procedimiento establece que siempre debe intentarse primero la apertura normal de las puertas antes de realizar ingreso forzado."
   },
   {
-    "question": "¿Qué zona se considera de mayor riesgo operativo en una escena de extricación?",
+    "question": "¿Qué herramienta es utilizada para forzar puertas, capó o maletero en un incendio vehicular?",
     "options": [
-      "Zona templada",
-      "Zona caliente",
-      "Zona de control médico",
-      "Zona de evacuación"
+      "Tenaza hidráulica",
+      "Herramienta Halligan",
+      "Maza multipropósito",
+      "Llave Stillson"
     ],
-    "answer": "Zona caliente",
-    "explanation": "La zona caliente es el área inmediatamente alrededor del vehículo, donde se realizan acciones de corte, estabilización y contacto con víctimas."
+    "answer": "Herramienta Halligan",
+    "explanation": "La herramienta Halligan, en conjunto con herramienta de golpe, es la indicada para ejecutar maniobras de forzado en partes del vehículo."
+  },
+  {
+    "question": "¿Dónde se debe ubicar la herramienta Halligan para forzar una puerta del habitáculo?",
+    "options": [
+      "En el centro de la puerta",
+      "En el techo, cerca del marco",
+      "En el costado donde se ubica el pasador de apertura",
+      "Debajo del vehículo, junto al eje"
+    ],
+    "answer": "En el costado donde se ubica el pasador de apertura",
+    "explanation": "El procedimiento indica ubicar la herramienta en el costado de la puerta, específicamente en la zona del pasador de apertura, para facilitar el forzado."
+  },
+  {
+    "question": "¿Qué paso sigue tras ubicar la herramienta Halligan en el pasador de apertura del capó?",
+    "options": [
+      "Lanzar agua antes de forzar",
+      "Esperar liberación de gases",
+      "Golpear el pasador hasta arrancarlo de su superficie",
+      "Aplicar espuma directamente sobre el motor"
+    ],
+    "answer": "Golpear el pasador hasta arrancarlo de su superficie",
+    "explanation": "Una vez ubicada la herramienta en el pasador de apertura, se debe golpear hasta arrancarlo, permitiendo el acceso al compartimiento."
+  },
+  {
+    "question": "Antes de realizar el forzado del maletero, ¿qué debe verificarse si hay sospecha de gases inflamables?",
+    "options": [
+      "Aplicar espuma de alta expansión",
+      "Esperar a que el gas se consuma y usar herramienta anti chispas",
+      "Abrir de inmediato para liberar presión",
+      "Inyectar aire para disipar vapores"
+    ],
+    "answer": "Esperar a que el gas se consuma y usar herramienta anti chispas",
+    "explanation": "Si se detectan gases inflamables, se debe esperar que se agoten y luego forzar el maletero con precauciones anti chispas, minimizando el riesgo de ignición."
+  },
+  {
+    "question": "¿Cuál es el primer paso recomendado al enfrentar un incendio en el compartimiento del motor?",
+    "options": [
+      "Romper el parabrisas para enfriar el motor",
+      "Aplicar espuma directamente al motor desde el costado",
+      "Realizar barrido inferior y aplicar agua por neumáticos o rejilla frontal",
+      "Forzar el capó de inmediato"
+    ],
+    "answer": "Realizar barrido inferior y aplicar agua por neumáticos o rejilla frontal",
+    "explanation": "La extinción en el compartimiento del motor comienza con un barrido inferior y la aplicación de agua por la rejilla o espacios entre neumáticos, antes de abrir el capó."
+  },
+  {
+    "question": "¿Qué técnica se recomienda para extinguir fuego en el área de pasajeros si las puertas y ventanas están cerradas?",
+    "options": [
+      "Introducir espuma por el tubo de escape",
+      "Romper ventanas con Halligan y aplicar agua",
+      "Enfriar el motor antes de abrir puertas",
+      "Forzar el maletero para despresurizar"
+    ],
+    "answer": "Romper ventanas con Halligan y aplicar agua",
+    "explanation": "Si no hay acceso al interior, se recomienda romper una o más ventanas con la herramienta Halligan para introducir agua y sofocar el fuego en el habitáculo."
+  },
+  {
+    "question": "¿Qué riesgo importante debe considerarse al abrir una puerta o romper una ventana en un vehículo con fuego interior?",
+    "options": [
+      "Choque eléctrico por batería del auto",
+      "Riesgo de colapso estructural del chasis",
+      "Explosión por flujo reverso (backdraft)",
+      "Liberación de gases refrigerantes"
+    ],
+    "answer": "Explosión por flujo reverso (backdraft)",
+    "explanation": "El documento advierte sobre la posibilidad de un backdraft al abrir zonas confinadas con fuego latente, como puertas o ventanas cerradas del vehículo."
+  },
+  {
+    "question": "¿Qué precaución debe tenerse al enfriar el área de pasajeros que posea bolsas o cortinas de aire?",
+    "options": [
+      "Evitar contacto con agua para no activarlas",
+      "No aplicar espuma sobre ellas",
+      "Enfriar desde el interior del vehículo",
+      "No abrir las puertas hasta que se inflen"
+    ],
+    "answer": "Evitar contacto con agua para no activarlas",
+    "explanation": "Las bolsas o cortinas de aire pueden activarse por acción del calor o golpes, por lo que debe tenerse precaución al aplicar agua cerca de ellas."
+  },
+  {
+    "question": "¿Cuál es el paso inicial si se detectan gases inflamables en el maletero del vehículo?",
+    "options": [
+      "Romper el maletero de inmediato para liberar presión",
+      "Verificar la presencia con instrumento de detección y esperar que el gas se agote",
+      "Aplicar chorro directo de agua sin verificación",
+      "Abrir el maletero parcialmente y lanzar espuma"
+    ],
+    "answer": "Verificar la presencia con instrumento de detección y esperar que el gas se agote",
+    "explanation": "Antes de abrir el maletero, se debe usar equipo de detección para confirmar la presencia de gases inflamables. Si hay presencia, se espera a que se disipe antes de forzar la apertura."
+  },
+   {
+    "question": "¿Cuál es el principal uso de la espuma en la extinción de incendios vehiculares?",
+    "options": [
+      "Disolver gases tóxicos en el ambiente",
+      "Eliminar gases refrigerantes del motor",
+      "Extinguir líquidos combustibles e inflamables",
+      "Apagar fuegos eléctricos en el tablero"
+    ],
+    "answer": "Extinguir líquidos combustibles e inflamables",
+    "explanation": "La espuma se usa especialmente para apagar líquidos inflamables o combustibles que arden sobre superficies bidimensionales, como derrames de combustible."
+  },
+  {
+    "question": "¿Qué tipo de espuma se utiliza para incendios de hidrocarburos en vehículos?",
+    "options": [
+      "Espuma de alta expansión para ambientes confinados",
+      "Espuma de media expansión para gases",
+      "Espuma seca para interiores de cabina",
+      "Espuma de baja expansión para hidrocarburos"
+    ],
+    "answer": "Espuma de baja expansión para hidrocarburos",
+    "explanation": "La espuma de baja expansión es la indicada para fuegos bidimensionales de hidrocarburos, ya que permite un sellado eficaz del combustible y evita la emisión de vapores."
+  },
+  {
+    "question": "¿Cuál de las siguientes acciones NO corresponde a un efecto extintor de la espuma?",
+    "options": [
+      "Separar las llamas de la superficie del líquido",
+      "Suprimir la salida de vapores inflamables",
+      "Enfriar con el agua contenida en la espuma",
+      "Neutralizar gases ácidos del motor"
+    ],
+    "answer": "Neutralizar gases ácidos del motor",
+    "explanation": "La espuma no tiene función química neutralizante; su efecto se basa en separación física, supresión de vapores, sofocación y enfriamiento mediante el agua."
+  },
+  {
+    "question": "Antes de aplicar espuma sobre un derrame de combustible, ¿qué acción debe realizarse?",
+    "options": [
+      "Ventilar el habitáculo del vehículo",
+      "Verificar el nivel del líquido con varilla",
+      "Contener el derrame con tierra, arena u otro material",
+      "Romper el capó para eliminar presión"
+    ],
+    "answer": "Contener el derrame con tierra, arena u otro material",
+    "explanation": "La contención previa del derrame con materiales absorbentes es fundamental para evitar expansión del combustible antes de aplicar espuma."
+  },
+  {
+    "question": "¿Cuál es la composición básica de la solución de espuma utilizada por bomberos?",
+    "options": [
+      "Aceite hidráulico, aire y polvo seco",
+      "Agua, nitrógeno y gas propano",
+      "Concentrado espumógeno, aire y agua",
+      "Espuma seca, CO₂ y vapor de agua"
+    ],
+    "answer": "Concentrado espumógeno, aire y agua",
+    "explanation": "La espuma se genera al mezclar agua, aire y un concentrado espumógeno, formando una solución que actúa como barrera física sobre líquidos inflamables."
+  },
+  {
+    "question": "¿Cuál es la orientación correcta para realizar una detección de gases o vapores inflamables en un vehículo?",
+    "options": [
+      "Desde el techo del vehículo hacia la base",
+      "Desde la parte más baja del maletero hacia la más alta, a favor del viento",
+      "Desde el frente del vehículo, contra el viento",
+      "Desde el interior del motor con el capó abierto"
+    ],
+    "answer": "Desde la parte más baja del maletero hacia la más alta, a favor del viento",
+    "explanation": "La detección debe hacerse desde la zona más baja del maletero, lentamente hacia arriba y siempre a favor del viento para evitar exposición al operador."
+  },
+  {
+    "question": "¿Qué debe hacerse si se detecta la presencia de gases combustibles en el maletero del vehículo?",
+    "options": [
+      "Romper el maletero de inmediato",
+      "Aplicar espuma directamente sin abrir",
+      "Esperar que se agote el gas y luego realizar el forzado con medidas anti chispa",
+      "Forzar el maletero con una herramienta metálica cualquiera"
+    ],
+    "answer": "Esperar que se agote el gas y luego realizar el forzado con medidas anti chispa",
+    "explanation": "Si hay presencia de gases inflamables, se debe esperar que se disipe y luego forzar usando herramientas anti chispas y un chorro de agua para evitar ignición."
+  },
+  {
+    "question": "¿Cuál es una condición crítica para el uso seguro de los instrumentos de detección de gases?",
+    "options": [
+      "Utilizarlos solo con guantes dieléctricos",
+      "Evitar mojarlos, ya que se inhabilitan",
+      "Usarlos dentro del habitáculo del vehículo",
+      "Solo operarlos desde el techo del vehículo"
+    ],
+    "answer": "Evitar mojarlos, ya que se inhabilitan",
+    "explanation": "El equipo de detección debe mantenerse seco, ya que si se moja queda inhabilitado para operar correctamente durante la emergencia."
+  },
+  {
+    "question": "¿Qué fenómeno puede ocurrir al abrir una puerta o ventana en un vehículo con combustión latente en su interior?",
+    "options": [
+      "Flujo laminar de gas",
+      "Explosión por BLEVE",
+      "Explosión por flujo reverso (backdraft)",
+      "Liberación de CO₂ frío"
+    ],
+    "answer": "Explosión por flujo reverso (backdraft)",
+    "explanation": "El backdraft ocurre cuando se introduce oxígeno en un espacio cerrado con fuego latente y gases calientes, generando una explosión súbita."
+  },
+  {
+    "question": "¿Qué tipo de herramienta es preferible utilizar al forzar estructuras con riesgo de gas inflamable?",
+    "options": [
+      "Sierra eléctrica de corte rápido",
+      "Herramienta Halligan metálica",
+      "Herramienta anti chispas",
+      "Llave de torque neumática"
+    ],
+    "answer": "Herramienta anti chispas",
+    "explanation": "En presencia de gases inflamables, deben usarse herramientas anti chispas para evitar la generación de chispas que puedan iniciar una explosión."
+  },
+  {
+    "question": "¿Qué significa la sigla E.P.P. en el contexto de emergencias con vehículos en llamas?",
+    "options": [
+      "Equipo de Protección Profesional",
+      "Elemento Preventivo de Presión",
+      "Equipo de Protección Personal",
+      "Estrategia de Prevención de Peligros"
+    ],
+    "answer": "Equipo de Protección Personal",
+    "explanation": "E.P.P. corresponde a Equipo de Protección Personal, que incluye elementos como casco, guantes, chaqueta y botas para resguardar al bombero."
+  },
+  {
+    "question": "¿Qué tipo de mezcla corresponde al GLP según el glosario técnico?",
+    "options": [
+      "Gases de combustión reciclada",
+      "Gas Natural Compactado",
+      "Mezcla de Propano y Butano",
+      "Hidrocarburos pesados no refinados"
+    ],
+    "answer": "Mezcla de Propano y Butano",
+    "explanation": "GLP (Gas Licuado de Petróleo) es una mezcla de gases propano y butano utilizada como combustible vehicular y doméstico."
+  },
+  {
+    "question": "¿Cuál es el principal componente del GNC (Gas Natural Comprimido)?",
+    "options": [
+      "Etano",
+      "Butano",
+      "Metano",
+      "Propano"
+    ],
+    "answer": "Metano",
+    "explanation": "El GNC está compuesto principalmente por metano en más del 90%, lo que lo diferencia del GLP, que contiene butano y propano."
+  },
+  {
+    "question": "¿Qué fenómeno describe la sigla BLEVE en el contexto de riesgos en incendios vehiculares?",
+    "options": [
+      "Expansión de Espuma Baja",
+      "Explosión por Combustión Espontánea",
+      "Explosión de Vapores en Expansión de Líquidos en Ebullición",
+      "Boiling Liquid Enhanced Vapor Ejection"
+    ],
+    "answer": "Explosión de Vapores en Expansión de Líquidos en Ebullición",
+    "explanation": "BLEVE es un tipo de explosión causada por el calentamiento de un recipiente que contiene líquido presurizado, generando vapores que se expanden violentamente."
+  },
+  {
+    "question": "¿Qué representa la unidad 'psi' en relación con los gases utilizados en vehículos?",
+    "options": [
+      "Presión por segundo internacional",
+      "Potencia superficial interna",
+      "Libras por pulgada cuadrada",
+      "Presión sólida instantánea"
+    ],
+    "answer": "Libras por pulgada cuadrada",
+    "explanation": "PSI es la abreviatura de 'pounds per square inch' (libras por pulgada cuadrada), y se usa para medir presión en sistemas como cilindros de gas."
+  },
+  {
+    "question": "¿Qué función cumple el Airbag según la definición técnica del glosario?",
+    "options": [
+      "Proteger el vehículo contra incendio",
+      "Reforzar el chasis en caso de impacto",
+      "Inflarse mediante reacción química para proteger a ocupantes",
+      "Liberar gases comprimidos en accidentes"
+    ],
+    "answer": "Inflarse mediante reacción química para proteger a ocupantes",
+    "explanation": "El Airbag se infla mediante una reacción química al detectar una colisión, formando una bolsa que protege al ocupante del impacto."
+  },
+  {
+    "question": "¿Qué unidad del Sistema Internacional equivale a 1000 pascales?",
+    "options": [
+      "kPa",
+      "atm",
+      "psi",
+      "bar"
+    ],
+    "answer": "kPa",
+    "explanation": "kPa significa kilopascal, y equivale a 1000 pascales, siendo una unidad estándar para medir presión en gases comprimidos como el GNC."
   }
   ]
 }
