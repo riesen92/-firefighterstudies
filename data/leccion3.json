@@ -1,199 +1,402 @@
 {
-  "titulo": "Mecánica y seguridad",
+  "titulo": "Agua",
   "preguntas": [
-    {
-    "question": "¿Cuál es el objetivo principal de la etapa de APERTURA en un procedimiento de extricación vehicular?",
+  {
+    "question": "¿Cuál es la principal propiedad física del agua que la hace eficaz para combatir incendios?",
     "options": [
-      "Acceder a las baterías para evitar cortocircuitos",
-      "Crear una vía de entrada para los rescatistas",
-      "Liberar los sistemas de airbag para evitar activaciones accidentales",
-      "Retirar objetos sueltos en el habitáculo"
+      "Bajo punto de ebullición",
+      "Capacidad de absorber calor",
+      "Alta viscosidad",
+      "Elevada conductividad eléctrica"
     ],
-    "answer": "Crear una vía de entrada para los rescatistas",
-    "explanation": "La etapa de apertura tiene como propósito principal generar una vía de acceso segura y eficaz al interior del vehículo para que los rescatistas puedan evaluar y extraer al paciente."
+    "answer": "Capacidad de absorber calor",
+    "explanation": "El agua absorbe grandes cantidades de calor, enfriando materiales calientes y ayudando a controlar el fuego."
   },
   {
-    "question": "¿Qué herramienta se utiliza típicamente para realizar la separación inicial en puertas atascadas?",
+    "question": "¿Qué sucede cuando el agua se transforma en vapor durante la extinción de un incendio?",
     "options": [
-      "Tijeras hidráulicas",
-      "Puntal telescópico",
-      "Cizalla eléctrica",
-      "Expansor hidráulico"
+      "Disminuye el volumen y reduce la presión",
+      "Aumenta su volumen y desplaza oxígeno",
+      "Se mezcla con el humo y lo neutraliza",
+      "Enfría la superficie, pero no afecta el oxígeno"
     ],
-    "answer": "Expansor hidráulico",
-    "explanation": "El expansor hidráulico permite ejercer una fuerza de separación controlada y potente, ideal para abrir puertas trabadas sin causar mayor daño al paciente."
+    "answer": "Aumenta su volumen y desplaza oxígeno",
+    "explanation": "El agua al vaporizarse se expande, ayudando a desplazar el oxígeno y dificultar la combustión."
   },
   {
-    "question": "¿Cuál es la función principal del ESPACIO DE SOBREVIVENCIA en una operación de extricación?",
+    "question": "La presión de salida del agua en un grifo se mide comúnmente en:",
     "options": [
-      "Permitir al paciente respirar aire libre de humo",
-      "Evitar el colapso de la estructura sobre la víctima",
-      "Almacenar herramientas médicas básicas",
-      "Facilitar la comunicación entre rescatistas y paciente"
+      "Pascal",
+      "Newton",
+      "Bar",
+      "Kilogramo por litro"
     ],
-    "answer": "Evitar el colapso de la estructura sobre la víctima",
-    "explanation": "El espacio de sobrevivencia es un volumen controlado que protege físicamente al paciente de colapsos estructurales durante el procedimiento."
+    "answer": "Bar",
+    "explanation": "La unidad de presión habitual en hidráulica de bomberos es el 'bar'."
   },
   {
-    "question": "Durante la estabilización del vehículo, ¿cuál es la secuencia correcta para aplicar los apoyos?",
+    "question": "La pérdida de presión en una línea de mangueras puede ser causada por:",
     "options": [
-      "Base, laterales, parte superior",
-      "Ruedas, laterales, chasis",
-      "Chasis, parte trasera, capó",
-      "Base, puntos de contacto, refuerzo lateral"
+      "Aumento del diámetro de la manguera",
+      "Incremento de altura, roce interno y cambios de dirección",
+      "Disminución del caudal",
+      "Presión atmosférica constante"
     ],
-    "answer": "Base, puntos de contacto, refuerzo lateral",
-    "explanation": "La estabilización debe comenzar desde la base para asegurar el soporte general, luego los puntos de contacto para fijar el vehículo y finalmente reforzar lateralmente si es necesario."
+    "answer": "Incremento de altura, roce interno y cambios de dirección",
+    "explanation": "Estos factores afectan la presión efectiva en la entrega de agua."
   },
   {
-    "question": "¿Qué etapa del proceso de extricación se enfoca en liberar totalmente al paciente atrapado?",
+    "question": "¿Qué elemento se utiliza en la succión de aguas abiertas para evitar que objetos sólidos entren a la bomba?",
     "options": [
-      "Estabilización",
-      "Acceso",
-      "Extracción",
-      "Evaluación primaria"
+      "Pitón regulador",
+      "Traspaso",
+      "Alcachofa",
+      "Llave de grifo"
     ],
-    "answer": "Extracción",
-    "explanation": "La etapa de extracción es la que implica la remoción definitiva de elementos que impiden la liberación del paciente, permitiendo su traslado seguro."
+    "answer": "Alcachofa",
+    "explanation": "La alcachofa es un filtro metálico que previene la entrada de piedras u objetos al sistema de bombeo."
   },
   {
-    "question": "¿Cuál es el riesgo principal de no desconectar la batería del vehículo durante la extricación?",
+    "question": "¿Cuál de los siguientes no es considerado una fuente habitual de agua para bomberos?",
     "options": [
-      "Fugas de combustible",
-      "Activación del sistema de frenos",
-      "Descarga del extintor automático",
-      "Activación accidental de airbags"
+      "Aguas abiertas",
+      "Carro aljibe",
+      "Estanques artificiales",
+      "Tanque de combustible"
     ],
-    "answer": "Activación accidental de airbags",
-    "explanation": "No cortar la corriente eléctrica puede ocasionar la activación inesperada de los airbags, representando un riesgo para el paciente y los rescatistas."
+    "answer": "Tanque de combustible",
+    "explanation": "El tanque de combustible no es fuente de agua, sino de riesgo adicional."
   },
   {
-    "question": "¿Qué debe verificarse antes de iniciar cualquier corte estructural en el vehículo?",
+    "question": "En un grifo de incendio, ¿cómo se denomina la pieza que se conecta directamente a la manguera para alimentar el sistema?",
     "options": [
-      "Presencia de materiales combustibles",
-      "Ubicación del tanque de combustible",
-      "Estado emocional del conductor",
-      "Ubicación de refuerzos y pretensores"
+      "Traspaso",
+      "Gemelo",
+      "Alcachofa",
+      "Vástago"
     ],
-    "answer": "Ubicación de refuerzos y pretensores",
-    "explanation": "Los refuerzos estructurales y pretensores pueden dañar herramientas o generar riesgos si se cortan sin conocimiento previo."
+    "answer": "Traspaso",
+    "explanation": "El traspaso es el accesorio que une la boquilla del grifo con la manguera storz."
   },
   {
-    "question": "¿Qué acción debe realizarse en paralelo a la extricación para proteger al paciente?",
+    "question": "¿Cuál es el sentido correcto para abrir un grifo de incendio con la llave correspondiente?",
     "options": [
-      "Realizar señalización vial",
-      "Cubrir al paciente con manta térmica",
-      "Aplicar medidas de protección personal y cervical",
-      "Tomar fotografías del accidente"
+      "En sentido horario",
+      "En sentido antihorario",
+      "Ambos sentidos",
+      "Solo con presión negativa"
     ],
-    "answer": "Aplicar medidas de protección personal y cervical",
-    "explanation": "Durante la extricación se debe mantener la protección del paciente, especialmente del cuello y cabeza, para evitar lesiones adicionales."
+    "answer": "En sentido antihorario",
+    "explanation": "El grifo se abre girando la llave en sentido contrario a las agujas del reloj."
   },
   {
-    "question": "¿Cuál es el propósito del uso de plásticos duros o mantas durante la operación de corte?",
+    "question": "¿Cuál de las siguientes afirmaciones sobre la señalización de grifos es correcta?",
     "options": [
-      "Reducir el ruido generado por las herramientas",
-      "Evitar el contacto de fluidos con la víctima",
-      "Proteger al paciente de fragmentos o chispas",
-      "Aislar térmicamente el área de corte"
+      "Deben tener una línea negra y franja verde si la red es de alta presión",
+      "Solo requieren color amarillo en la tapa",
+      "No necesitan señalización visible",
+      "Se señalizan solo en interiores"
     ],
-    "answer": "Proteger al paciente de fragmentos o chispas",
-    "explanation": "Estos materiales actúan como barrera física para proteger al paciente de residuos, fragmentos metálicos o chispas generadas durante el corte."
+    "answer": "Deben tener una línea negra y franja verde si la red es de alta presión",
+    "explanation": "La señalización ayuda a identificar ubicación y características del grifo."
   },
   {
-    "question": "¿Qué estructura debe evitarse al hacer cortes en los pilares del vehículo?",
+    "question": "¿Qué herramienta se utiliza para abrir la cámara matriz si el grifo principal no tiene agua?",
     "options": [
-      "Cables del sistema de sonido",
-      "Conductos de aire acondicionado",
-      "Pretensores del cinturón de seguridad",
-      "Tubos del sistema hidráulico"
+      "Llave de grifo",
+      "Llave de matriz y dado",
+      "Alcachofa",
+      "Pitón regulador"
     ],
-    "answer": "Pretensores del cinturón de seguridad",
-    "explanation": "Los pretensores contienen mecanismos a presión que pueden activarse o dañar herramientas si se cortan accidentalmente."
+    "answer": "Llave de matriz y dado",
+    "explanation": "Permite acceder y operar la válvula matriz subterránea."
   },
   {
-    "question": "La construcción de carrocería integrada busca:",
+    "question": "¿Cuál es la función principal del gemelo o trifurca?",
     "options": [
-      "Disminuir el peso de la estructura.",
-      "Mejorar las prestaciones de seguridad del vehículo.",
-      "Evitar la absorción de energía por la estructura al momento de un impacto.",
-      "Permitir el uso de combustibles alternativos.",
-      "Solo a) y b) son correctas."
+      "Permitir el acople de la manguera al pitón",
+      "Dividir el flujo de agua en varias líneas",
+      "Regular el caudal desde el grifo",
+      "Evitar el retroceso del chorro"
     ],
-    "answer": "Solo a) y b) son correctas.",
-    "explanation": "La carrocería integrada se diseña para reducir peso y mejorar la seguridad estructural del vehículo mediante zonas de deformación controladas."
+    "answer": "Dividir el flujo de agua en varias líneas",
+    "explanation": "Los gemelos y trifurcas permiten alimentar varios pitones o líneas desde una fuente."
   },
   {
-    "question": "Con respecto a la estructura de un automóvil, es correcto afirmar que:",
+    "question": "¿Qué tipo de unión utilizan las mangueras de bombero para un acople rápido y seguro?",
     "options": [
-      "El pilar B continúa, en su base, con el compartimento de motor.",
-      "El habitáculo se encuentra reforzado solamente en su base.",
-      "En vehículos modernos, el pilar B se encuentra reforzado en su estructura y posee una base más ancha.",
-      "Los vidrios modernos se refuerzan solamente en las ventanas laterales.",
-      "Los vehículos tipo hatchback tienen una considerable capacidad de absorción de energía en su parte trasera."
+      "Rosca estándar",
+      "Unión tipo storz",
+      "Unión por presión",
+      "Enlace de cadena"
     ],
-    "answer": "En vehículos modernos, el pilar B se encuentra reforzado en su estructura y posee una base más ancha.",
-    "explanation": "El pilar B actúa como refuerzo central del habitáculo, especialmente en impactos laterales, y su diseño moderno mejora la resistencia estructural."
+    "answer": "Unión tipo storz",
+    "explanation": "El sistema storz es el estándar por su rapidez y seguridad en acople."
   },
   {
-    "question": "Con respecto a los vehículos híbridos, es correcto afirmar que:",
+    "question": "Al abrir un grifo, ¿qué acción debe realizarse antes de conectar la manguera?",
     "options": [
-      "Poseen baterías expuestas para ser identificadas rápidamente por el rescatista.",
-      "Los cables de alimentación pueden ser cortados sin problemas con cizallas hidráulicas.",
-      "Alternan un motor eléctrico y uno a combustión interna, de acuerdo a los requerimientos de conducción.",
-      "Frente a un accidente, deben desplegarse líneas de agua bajo el vehículo.",
-      "Al cortarse el contacto, las baterías quedan inactivas."
+      "Conectar primero la bomba",
+      "Purgar residuos y verificar flujo de agua",
+      "Colocar la trifurca",
+      "Ajustar el pitón"
     ],
-    "answer": "Alternan un motor eléctrico y uno a combustión interna, de acuerdo a los requerimientos de conducción.",
-    "explanation": "El sistema híbrido permite la alternancia o combinación de motor eléctrico y motor térmico para optimizar eficiencia y emisiones."
+    "answer": "Purgar residuos y verificar flujo de agua",
+    "explanation": "Esto previene que impurezas dañen la bomba o la manguera."
   },
   {
-    "question": "Con respecto al sistema de alimentación eléctrica de un vehículo, es correcto afirmar que:",
+    "question": "¿Qué tipo de manguera es preferida para la succión de aguas abiertas?",
     "options": [
-      "Siempre hay que cortar el contacto antes de desconectar la batería.",
-      "Siempre hay que desconectar primero el cable positivo.",
-      "Siempre hay que desconectar primero el cable negativo.",
-      "Solo a) y b) son correctas.",
-      "Solo a) y c) son correctas."
+      "Manguera semirrígida (chorizo)",
+      "Manguera plana colapsable",
+      "Manguera de caucho delgada",
+      "Manguera de jardín"
     ],
-    "answer": "Solo a) y c) son correctas.",
-    "explanation": "Cortar el contacto previene riesgos eléctricos, y desconectar primero el cable negativo evita cortocircuitos accidentales."
+    "answer": "Manguera semirrígida (chorizo)",
+    "explanation": "El chorizo mantiene la forma y no se colapsa al succionar agua."
   },
   {
-    "question": "De los siguientes elementos, cuál NO corresponde a la seguridad activa de un vehículo:",
+    "question": "¿Cuál es la recomendación de seguridad al almacenar mangueras después de un servicio?",
     "options": [
-      "Sistema ABS.",
-      "Sistema de control de tracción.",
-      "Sensores de ángulo muerto.",
-      "Pretensores",
-      "Solo c) y d) son correctas."
+      "Guardarlas siempre húmedas",
+      "Desaguar completamente y evitar arrastrarlas",
+      "Enrollarlas sobre el pitón",
+      "Dejarlas tendidas al sol"
     ],
-    "answer": "Pretensores",
-    "explanation": "Los pretensores forman parte de la seguridad pasiva, ya que se activan durante el accidente para reducir lesiones, no para prevenirlo."
+    "answer": "Desaguar completamente y evitar arrastrarlas",
+    "explanation": "El agua residual puede dañar las mangueras y arrastrarlas provoca desgaste."
   },
   {
-    "question": "De los siguientes elementos, cuál NO corresponde a la seguridad pasiva de un vehículo:",
+    "question": "¿Qué tipo de enrollado permite un despliegue más rápido en caso de emergencia?",
     "options": [
-      "Sistema ABS.",
-      "ROPS",
-      "Airbags",
-      "Pretensores",
-      "Cinturones de seguridad."
+      "Rollo tradicional",
+      "Doble rollo",
+      "Enrollado preconectado",
+      "Enrollado tipo pollo"
     ],
-    "answer": "Sistema ABS.",
-    "explanation": "El sistema ABS evita el bloqueo de frenos y mejora el control del vehículo, por lo tanto, es parte de la seguridad activa."
+    "answer": "Enrollado preconectado",
+    "explanation": "El preconectado está listo para usar directamente desde el carro."
   },
   {
-    "question": "Con respecto a los Sistemas de Retención Suplementarias (SRS), es posible afirmar que:",
+    "question": "¿Qué se debe hacer antes de cerrar un grifo tras finalizar el uso?",
     "options": [
-      "Corresponden a los airbags y pretensores.",
-      "Comparten una misma Unidad de Procesamiento Central (UPC).",
-      "Su activación obedece a la ley del todo o nada.",
-      "Al activarse NO se elimina su riesgo en la escena.",
-      "Solo a), b) y d) son correctas."
+      "Desconectar la manguera sin cerrar el grifo",
+      "Cerrar lentamente y en sentido horario",
+      "Dejar el grifo abierto para purgar presión",
+      "Aplicar grasa en la boquilla"
     ],
-    "answer": "Solo a), b) y d) son correctas.",
-    "explanation": "Los SRS incluyen airbags y pretensores, gestionados por una UPC común. Aunque se activen, aún pueden representar riesgo por residuos o carga residual."
+    "answer": "Cerrar lentamente y en sentido horario",
+    "explanation": "Evita golpes de ariete y daños en la red."
+  },
+  {
+    "question": "El pitón regulador permite:",
+    "options": [
+      "Regular caudal y tipo de chorro",
+      "Abrir el grifo sin llave",
+      "Dividir el flujo de agua",
+      "Medir la presión de salida"
+    ],
+    "answer": "Regular caudal y tipo de chorro",
+    "explanation": "El pitón permite ajustar la cantidad de agua y seleccionar patrón de chorro."
+  },
+  {
+    "question": "Una armada simple consiste en:",
+    "options": [
+      "Dos líneas alimentando un solo pitón",
+      "Una sola línea desde el grifo a un pitón",
+      "Una línea dividida a dos pitones",
+      "Una línea en Y desde la matriz"
+    ],
+    "answer": "Una sola línea desde el grifo a un pitón",
+    "explanation": "La armada simple es la disposición más básica y directa."
+  },
+  {
+    "question": "¿Cuál es la ventaja táctica del chorro directo?",
+    "options": [
+      "Cubre mayor superficie",
+      "Penetra capas de calor y permite enfriar puntualmente",
+      "Genera neblina para proteger al operador",
+      "Reduce el consumo de agua"
+    ],
+    "answer": "Penetra capas de calor y permite enfriar puntualmente",
+    "explanation": "El chorro directo es compacto y dirigido, ideal para atacar focos localizados."
+  },
+  {
+    "question": "¿En qué situación se utiliza el cono de protección?",
+    "options": [
+      "Extinción en estructuras cerradas",
+      "Protección ante fugas de gas o incendios en espacios abiertos",
+      "Enfriamiento de superficies calientes",
+      "Desplazamiento de objetos pesados"
+    ],
+    "answer": "Protección ante fugas de gas o incendios en espacios abiertos",
+    "explanation": "El cono de protección genera una cortina de agua que resguarda al personal."
+  },
+  {
+    "question": "¿Cuál es el riesgo principal de utilizar un chorro directo en incendios de líquidos inflamables?",
+    "options": [
+      "El chorro puede dispersar el líquido, propagando el fuego",
+      "Reduce la ventilación del espacio",
+      "Aumenta la presión de la red",
+      "Enfría demasiado el ambiente"
+    ],
+    "answer": "El chorro puede dispersar el líquido, propagando el fuego",
+    "explanation": "El chorro directo desplaza físicamente el líquido, lo que puede empeorar el siniestro."
+  },
+  {
+    "question": "¿Qué debe revisarse en las uniones tipo storz antes de cada servicio?",
+    "options": [
+      "Solo la apariencia exterior",
+      "Que tengan empaquetadura y ganchos de retención en buen estado",
+      "Que estén oxidadas para evitar fugas",
+      "Que estén limpias, sin importar el estado de los ganchos"
+    ],
+    "answer": "Que tengan empaquetadura y ganchos de retención en buen estado",
+    "explanation": "La estanqueidad y la seguridad del acople dependen de estos elementos."
+  },
+  {
+    "question": "El caudal se define como:",
+    "options": [
+      "Presión multiplicada por el diámetro",
+      "Cantidad de agua que fluye en un tiempo dado",
+      "Cantidad de aire desplazado en el incendio",
+      "Altura máxima de la columna de agua"
+    ],
+    "answer": "Cantidad de agua que fluye en un tiempo dado",
+    "explanation": "El caudal se mide en litros por minuto (lpm) o galones por minuto (gpm)."
+  },
+  {
+    "question": "¿Cuál es la consecuencia de abrir el grifo bruscamente?",
+    "options": [
+      "Genera mayor caudal instantáneo",
+      "Provoca golpe de ariete, dañando la red y equipos",
+      "No afecta el sistema",
+      "Facilita la purga de residuos"
+    ],
+    "answer": "Provoca golpe de ariete, dañando la red y equipos",
+    "explanation": "El golpe de ariete es una sobrepresión que daña la infraestructura."
+  },
+  {
+    "question": "En caso de falla del grifo, ¿qué procedimiento alternativo se debe seguir?",
+    "options": [
+      "Buscar otra fuente o abrir la cámara matriz con dado y llave",
+      "Esperar a que vuelva la presión",
+      "Solicitar solo agua embotellada",
+      "Intentar abrir el grifo a la fuerza"
+    ],
+    "answer": "Buscar otra fuente o abrir la cámara matriz con dado y llave",
+    "explanation": "Permite acceder a la red principal en caso de problemas."
+  },
+  {
+    "question": "La función de la tapaboquilla en un grifo es:",
+    "options": [
+      "Evitar fugas de agua cuando no está en uso",
+      "Reducir la presión de salida",
+      "Facilitar el acople de la manguera",
+      "Regular el caudal"
+    ],
+    "answer": "Evitar fugas de agua cuando no está en uso",
+    "explanation": "La tapaboquilla sella la salida del grifo fuera de servicio."
+  },
+  {
+    "question": "¿Por qué es importante verificar el sentido de apertura/cierre del grifo antes de operar?",
+    "options": [
+      "Para evitar dañar el vástago o el mecanismo interno",
+      "Solo por rutina",
+      "Para ahorrar agua",
+      "Para ajustar la presión atmosférica"
+    ],
+    "answer": "Para evitar dañar el vástago o el mecanismo interno",
+    "explanation": "Forzar el grifo en el sentido equivocado puede provocar daños costosos."
+  },
+  {
+    "question": "¿Qué significa una franja verde pintada en el grifo?",
+    "options": [
+      "Grifo con agua de pozo",
+      "Red de alta presión",
+      "No operativo",
+      "Solo uso industrial"
+    ],
+    "answer": "Red de alta presión",
+    "explanation": "La franja verde indica que el grifo pertenece a una red de alta presión."
+  },
+  {
+    "question": "¿Cuál es la forma recomendada de transportar mangueras largas en el lugar del incendio?",
+    "options": [
+      "Arrastrándolas por el suelo",
+      "Enrolladas en preconectados o tipo pollo",
+      "Sobre el hombro arrastrando la punta",
+      "Dobladas en cuatro partes"
+    ],
+    "answer": "Enrolladas en preconectados o tipo pollo",
+    "explanation": "Estas formas facilitan el transporte rápido y seguro sin dañar la manguera."
+  },
+  {
+    "question": "¿Qué elemento permite la unión entre la manguera y la salida del grifo?",
+    "options": [
+      "Empaquetadura",
+      "Traspaso",
+      "Llave de matriz",
+      "Pitón"
+    ],
+    "answer": "Traspaso",
+    "explanation": "El traspaso es el acople específico para unir el grifo a la manguera."
+  },
+  {
+    "question": "¿Cuál es la principal función del pitón de cono de poder?",
+    "options": [
+      "Desplazar llamas y proteger al bombero en el acceso",
+      "Crear neblina para gases tóxicos",
+      "Penetrar estructuras metálicas",
+      "Reducir el caudal"
+    ],
+    "answer": "Desplazar llamas y proteger al bombero en el acceso",
+    "explanation": "El cono de poder genera una lluvia amplia que ayuda en la protección y control del fuego."
+  },
+  {
+    "question": "¿Cuál de los siguientes NO corresponde a una función operativa de la manguera?",
+    "options": [
+      "Transportar agua desde la fuente al pitón",
+      "Permitir el enrollado tipo pollo",
+      "Soportar altas presiones",
+      "Regular el caudal en la boquilla"
+    ],
+    "answer": "Regular el caudal en la boquilla",
+    "explanation": "La regulación de caudal se realiza en el pitón, no en la manguera."
+  },
+  {
+    "question": "¿Qué acción debe evitarse para preservar la vida útil de la manguera?",
+    "options": [
+      "Desaguar completamente después del uso",
+      "Enrollarla húmeda",
+      "Verificar el estado de las uniones",
+      "Almacenarla en un lugar seco"
+    ],
+    "answer": "Enrollarla húmeda",
+    "explanation": "La humedad favorece el deterioro del material de la manguera."
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto al terminar el uso de una manguera?",
+    "options": [
+      "Arrastrarla directamente al carro",
+      "Desaguar, revisar y enrollar para almacenar",
+      "Dejarla conectada al pitón",
+      "Desconectarla y guardarla húmeda"
+    ],
+    "answer": "Desaguar, revisar y enrollar para almacenar",
+    "explanation": "Permite asegurar el buen estado y disponibilidad de la manguera."
+  },
+  {
+    "question": "¿Cuál es la principal ventaja de la armada doble en el combate de incendios?",
+    "options": [
+      "Permite alimentar un pitón desde dos fuentes distintas",
+      "Aumenta el alcance del chorro directo",
+      "Reduce el consumo de agua",
+      "Disminuye la presión en la línea"
+    ],
+    "answer": "Permite alimentar un pitón desde dos fuentes distintas",
+    "explanation": "La armada doble asegura un suministro estable y permite mayor caudal a un solo pitón."
   }
-  ]
+]
+
 }

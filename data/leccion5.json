@@ -1,165 +1,280 @@
 {
-  "titulo": "Lección 5: Soporte Vital Básico del paciente atrapado",
+  "titulo": "Tacticas en incendios",
   "preguntas": [
-     {
-    "question": "¿En qué situaciones se realiza una extricación rápida o de emergencia?",
+  {
+    "question": "¿Cuál de las siguientes acciones NO es una consideración inicial obligatoria para un bombero al tripular una pieza de material mayor en el trayecto hacia una emergencia?",
     "options": [
-      "Cuando el paciente presenta signos de hipovolemia severa.",
-      "Cuando se compromete la seguridad de la escena o hay deterioro súbito del paciente.",
-      "Cuando el acceso al vehículo es muy complejo y toma demasiado tiempo.",
-      "Cuando se necesita inmovilizar al paciente con férula espinal."
+      "Vestir el equipo de protección personal (EPP) antes de subir al carro bomba.",
+      "Asegurarse de que el vehículo esté absolutamente detenido antes de subir.",
+      "Usar el sistema de audioalarma de forma continua desde el inicio del trayecto hasta el lugar de la emergencia.",
+      "Utilizar el cinturón de seguridad que le corresponde mientras el material mayor esté en movimiento."
     ],
-    "answer": "Cuando se compromete la seguridad de la escena o hay deterioro súbito del paciente.",
-    "explanation": "La extricación rápida se indica por empeoramiento clínico agudo, mientras que la extricación de emergencia se aplica si hay riesgo inminente en la escena; ambas requieren actuar sin completar todos los pasos de inmovilización."
+    "answer": "Usar el sistema de audioalarma de forma continua desde el inicio del trayecto hasta el lugar de la emergencia.",
+    "explanation": "El uso de los sistemas de audioalarma debe ser con criterio, especificando que no debe usarse en túneles, cerca de hospitales, ni en lugares donde pueda provocar pánico. Por lo tanto, su uso continuo e indiscriminado no es una consideración obligatoria, sino que debe ser criterioso."
   },
   {
-    "question": "Respecto a la letra D del ABCDE en el paciente atrapado, corresponde evaluar:",
+    "question": "Según la lección, ¿cuál de los siguientes enunciados define correctamente el concepto de 'Objetivo' en el contexto de un incidente?",
     "options": [
-      "Presencia de hemorragias externas.",
-      "Nivel de conciencia y signos neurológicos.",
-      "Ruidos respiratorios y simetría torácica.",
-      "Temperatura de extremidades distales."
+      "El medio por el cual se alcanzan los resultados a través de la asignación de recursos.",
+      "El resultado que se desea conseguir o el punto al que se debe llegar, establecido en base a los recursos disponibles.",
+      "Las acciones específicas que se deben realizar para lograr el resultado previsto en la estrategia.",
+      "El ordenamiento de un conjunto de acciones que dictan qué se hace primero y qué después."
     ],
-    "answer": "Nivel de conciencia y signos neurológicos.",
-    "explanation": "La 'D' del ABCDE corresponde a Disability (déficit neurológico), que incluye el estado de conciencia, respuesta pupilar y signos de compromiso neurológico."
+    "answer": "El resultado que se desea conseguir o el punto al que se debe llegar, establecido en base a los recursos disponibles.",
+    "explanation": "Un objetivo es el resultado que se desea conseguir o punto al que se debe llegar, y durante todo el incidente los objetivos se deben establecer en base a los recursos disponibles en ese momento."
   },
   {
-    "question": "En un paciente atrapado, el control cervical debe realizarse:",
+    "question": "En la sectorización geográfica de una emergencia, si el ingreso principal al inmueble afectado se designa como sector Alfa, ¿cuál es la secuencia correcta de los sectores Bravo, Charlie y Delta?",
     "options": [
-      "Una vez estabilizada la pelvis y extremidades.",
-      "Después de la ventilación y circulación.",
-      "Desde el primer contacto y mantenerse de forma continua.",
-      "Solo si hay signos evidentes de trauma craneal."
+      "Bravo al frente de Alfa, Charlie a la derecha, Delta a la izquierda.",
+      "Bravo, Charlie y Delta se asignan siguiendo el sentido contrario a las manecillas del reloj a partir de Alfa.",
+      "Bravo, Charlie y Delta se asignan siguiendo el sentido de las manecillas del reloj a partir de Alfa.",
+      "Los sectores Bravo, Charlie y Delta se definen aleatoriamente según la distribución del personal."
     ],
-    "answer": "Desde el primer contacto y mantenerse de forma continua.",
-    "explanation": "El control cervical debe iniciarse inmediatamente al contactar al paciente y mantenerse durante todo el proceso para evitar lesiones medulares secundarias."
+    "answer": "Bravo, Charlie y Delta se asignan siguiendo el sentido de las manecillas del reloj a partir de Alfa.",
+    "explanation": "El Comandante del Incidente (CI) asigna los sectores, estableciendo Alfa como el ingreso principal y a continuación los sectores Bravo, Charlie y Delta siguiendo el sentido de las manecillas de un reloj."
   },
   {
-    "question": "¿Qué tipo de atrapamiento se caracteriza por compresión entre estructuras sólidas sin posibilidad de liberación simple?",
+    "question": "De acuerdo con las prioridades del plan de acción del incidente (PAI), ¿cuál es el orden correcto de estas prioridades?",
     "options": [
-      "Atrapamiento clásico.",
-      "Empalamiento.",
-      "Paciente encerrado.",
-      "Aplastamiento."
+      "Control de la emergencia, Seguridad de la vida, Conservación de la propiedad.",
+      "Conservación de la propiedad, Control de la emergencia, Seguridad de la vida.",
+      "Seguridad de la vida, Control de la emergencia, Conservación de la propiedad.",
+      "Seguridad de la vida, Conservación de la propiedad, Control de la emergencia."
     ],
-    "answer": "Atrapamiento clásico.",
-    "explanation": "El atrapamiento clásico se presenta cuando el cuerpo queda comprimido entre objetos sólidos, como estructuras del vehículo, y no puede ser liberado sin herramientas especializadas."
+    "answer": "Seguridad de la vida, Control de la emergencia, Conservación de la propiedad.",
+    "explanation": "Las prioridades del proceso táctico en el PAI son: 1. La seguridad de la vida, 2. El control de la emergencia, 3. La conservación de la propiedad."
   },
   {
-    "question": "El objetivo principal de la extricación en cero grados es:",
+    "question": "Para el rescate de personas en un incendio, ¿en qué fase del fuego debe realizarse siempre esta maniobra?",
     "options": [
-      "Aumentar la visibilidad del operador durante la intervención.",
-      "Reducir el tiempo total de extracción.",
-      "Minimizar el movimiento de la columna vertebral del paciente.",
-      "Evitar la necesidad del cinturón tipo araña."
+      "Durante la fase de libre combustión para maximizar la visibilidad.",
+      "Preferentemente después de la extinción total para asegurar la zona.",
+      "Siempre antes de la fase de libre combustión.",
+      "En cualquier fase, siempre que se cuente con el EPP adecuado."
     ],
-    "answer": "Minimizar el movimiento de la columna vertebral del paciente.",
-    "explanation": "La extracción en 0° mantiene alineados cabeza, cuello y tronco, disminuyendo el riesgo de lesión medular secundaria en pacientes traumatizados."
+    "answer": "Siempre antes de la fase de libre combustión.",
+    "explanation": "La maniobra de búsqueda y rescate debe realizarse siempre antes de la fase de libre combustión."
   },
   {
-    "question": "Durante la evaluación primaria en víctimas atrapadas, ¿qué incluye el paso 'C' de circulación?",
+    "question": "Una partida de búsqueda y rescate en incendios debe estar conformada por un mínimo de:",
     "options": [
-      "Control de hemorragias y valoración de pulso periférico.",
-      "Medición de presión arterial y temperatura.",
-      "Auscultación cardíaca con estetoscopio.",
-      "Colocación de vías venosas periféricas."
+      "Un (1) bombero con línea presurizada y un (1) bombero en el exterior.",
+      "Dos (2) bomberos acompañados de una línea presurizada y dos (2) bomberos en el exterior.",
+      "Tres (3) bomberos en el interior y uno (1) de respaldo en el exterior.",
+      "Cuatro (4) bomberos, todos en el interior realizando la búsqueda simultáneamente."
     ],
-    "answer": "Control de hemorragias y valoración de pulso periférico.",
-    "explanation": "El paso C se enfoca en evaluar y controlar el sangrado, además de valorar la perfusión tisular mediante el pulso periférico."
+    "answer": "Dos (2) bomberos acompañados de una línea presurizada y dos (2) bomberos en el exterior.",
+    "explanation": "Las partidas de búsqueda y rescate deben estar conformadas por un mínimo de dos bomberos acompañados de una línea presurizada y con otros dos bomberos en el exterior de apoyo; es decir, dos bomberos adentro y dos afuera."
   },
   {
-    "question": "En cuanto al manejo de la vía aérea en pacientes atrapados conscientes, lo correcto es:",
+    "question": "En un ataque ofensivo en un incendio estructural, ¿cómo debe proceder la línea de ataque antes de ingresar en busca del fuego con respecto a la capa de gases calientes?",
     "options": [
-      "Esperar a que el paciente pierda la conciencia para intervenir.",
-      "Colocar inmediatamente una cánula orofaríngea.",
-      "Evaluar permeabilidad y mantener control cervical simultáneamente.",
-      "No intervenir hasta que se logre la extricación completa."
+      "Ingresar directamente y lanzar agua a la base del fuego sin precalentamiento.",
+      "Lanzar chorros de enfriamiento cortos (chorro directo) en un ángulo de 90 grados a la capa de gases.",
+      "Lanzar chorros de enfriamiento largos (chorro neblina) de forma continua para despejar el camino.",
+      "Lanzar chorros de enfriamiento cortos (chorro directo) en un ángulo de 45 grados a la capa de gases calientes."
     ],
-    "answer": "Evaluar permeabilidad y mantener control cervical simultáneamente.",
-    "explanation": "La vía aérea debe evaluarse desde el inicio, manteniendo control cervical incluso antes de instalar dispositivos si el paciente está consciente."
+    "answer": "Lanzar chorros de enfriamiento cortos (chorro directo) en un ángulo de 45 grados a la capa de gases calientes.",
+    "explanation": "En el ataque ofensivo, antes de ingresar se lanzan chorros de enfriamiento cortos (chorro directo) en un ángulo de 45 grados a la capa de gases calientes."
   },
   {
-    "question": "La cadena de sobrevida en víctimas atrapadas incluye los siguientes eslabones:",
+    "question": "¿Cuál es la dotación mínima recomendada de bomberos para realizar un ataque ofensivo en un incendio estructural?",
     "options": [
-      "Solo atención hospitalaria y traslado.",
-      "Prevención, alarma, atención prehospitalaria, extricación y traslado.",
-      "Evaluación médica especializada antes del rescate.",
-      "Activación de sistemas de trauma hospitalario."
+      "Cinco (5) bomberos: dos (2) en ataque, uno (1) en búsqueda, dos (2) de respaldo.",
+      "Seis (6) bomberos: dos (2) en ataque, dos (2) en búsqueda y rescate, dos (2) de respaldo.",
+      "Siete (7) bomberos: dos (2) en ataque, dos (2) en búsqueda y rescate, dos (2) de respaldo y un (1) OBAC.",
+      "Ocho (8) bomberos: dos (2) en ataque, dos (2) en búsqueda y rescate, tres (3) de respaldo y un (1) OBAC."
     ],
-    "answer": "Prevención, alarma, atención prehospitalaria, extricación y traslado.",
-    "explanation": "La cadena de sobrevida integra prevención, activación del sistema de emergencia, atención prehospitalaria efectiva, técnicas de extricación seguras y traslado oportuno."
+    "answer": "Siete (7) bomberos: dos (2) en ataque, dos (2) en búsqueda y rescate, dos (2) de respaldo y un (1) OBAC.",
+    "explanation": "La dotación mínima recomendada para un ataque ofensivo es de 7 bomberos: 2 de ataque, 2 de búsqueda y rescate, 2 de respaldo y el OBAC."
   },
   {
-    "question": "La evaluación del trauma en pacientes atrapados termina en el momento que:",
+    "question": "¿En qué situación NO se justifica un ataque defensivo en un incendio estructural?",
     "options": [
-      "Se ha realizado el ABC del Trauma.",
-      "La escena es segura.",
-      "Nunca termina, ya que debe ser constante y dinámico.",
-      "Se completan las maniobras de extricación.",
-      "Se termina la inmovilización del paciente dentro del vehículo."
+      "Cuando existe un alto riesgo de colapso de la estructura.",
+      "Cuando el incendio se encuentra en una fase incipiente y de fácil control.",
+      "Cuando la naturaleza del lugar o los accesos dificultan el ingreso.",
+      "Cuando el incendio se encuentra en la fase de libre combustión y de grandes proporciones."
     ],
-    "answer": "Nunca termina, ya que debe ser constante y dinámico.",
-    "explanation": "La evaluación del trauma es un proceso continuo, adaptativo y dinámico, que se mantiene desde el primer contacto hasta el ingreso definitivo del paciente al centro asistencial."
+    "answer": "Cuando el incendio se encuentra en una fase incipiente y de fácil control.",
+    "explanation": "El ataque defensivo se justifica por riesgo de colapso de la estructura, incendio en fase de libre combustión, naturaleza del lugar o accesos complejos. Un incendio incipiente y de fácil control no encaja en estas justificaciones, siendo más apropiado un ataque ofensivo."
   },
   {
-    "question": "¿Cuál de los siguientes puntos está incluido en la cadena de sobrevida de la víctima atrapada?",
+    "question": "¿Cuál es el principal riesgo de usar el casco puesto mientras el carro de emergencias está en movimiento?",
     "options": [
-      "Prevención y educación vial.",
-      "Alarma compartida (ABC de la emergencia).",
-      "Manejo prehospitalario del trauma y extricación.",
-      "Traslado precoz a un centro asistencial.",
-      "Todos los puntos están incluidos."
+      "Dificultad para escuchar las instrucciones del CI/OBAC.",
+      "Riesgo de trauma cervical severo en caso de frenada o colisión.",
+      "Obstrucción de la visibilidad lateral del bombero.",
+      "Desgaste prematuro del material del casco por vibración."
     ],
-    "answer": "Todos los puntos están incluidos.",
-    "explanation": "La cadena de sobrevida abarca todas las etapas críticas: prevención, activación del sistema de emergencias, atención prehospitalaria, maniobras de extricación y traslado al centro asistencial."
+    "answer": "Riesgo de trauma cervical severo en caso de frenada o colisión.",
+    "explanation": "Usar los cascos puestos mientras el material mayor está en movimiento puede causar un trauma cervical severo en caso de frenada brusca o un accidente."
   },
   {
-    "question": "Son elementos fundamentales en la evaluación y manejo de la B (ventilación) en la víctima atrapada:",
+    "question": "Según la Lección 5, ¿cuánto tiempo tiene el Comandante del Incidente/Oficial a Cargo del Ataque (CI/OBAC) para realizar el reconocimiento inicial o 'primary size-up' y comunicar su preinforme?",
     "options": [
-      "Aporte precoz de oxígeno.",
-      "En víctima inconsciente se instalará cánula orofaríngea.",
-      "Se realiza una vez terminada la estabilización primaria.",
-      "Solo a) y c) son correctas.",
-      "Todas las alternativas son correctas."
+      "Máximo 1 minuto desde la llegada.",
+      "En los primeros 3 minutos desde la llegada.",
+      "Alrededor de 5 minutos para una evaluación completa.",
+      "Durante todo el trayecto hacia la emergencia."
     ],
-    "answer": "Todas las alternativas son correctas.",
-    "explanation": "La evaluación de la ventilación incluye oxigenación precoz, uso de dispositivos básicos en inconscientes, y debe realizarse como parte del ABCDE tras asegurar vía aérea."
+    "answer": "En los primeros 3 minutos desde la llegada.",
+    "explanation": "El Comandante del Incidente (CI) o el Oficial a Cargo del Ataque (OBAC) debe realizar un reconocimiento inicial o primary size-up en los 3 primeros minutos de su llegada."
   },
   {
-    "question": "Son elementos fundamentales en la evaluación de la C (circulación) en la víctima atrapada:",
+    "question": "Las características SOAE de un objetivo se refieren a que debe ser:",
     "options": [
-      "Los mecanismos de torniquete mecánico pueden enmascarar la presencia de shock.",
-      "Se debe determinar claramente el tipo de shock que presenta la víctima.",
-      "La evaluación de la circulación debe ser constante durante las maniobras de extricación.",
-      "Solo a) y c) son correctas.",
-      "Todas las alternativas son correctas."
+      "Simple, Obvio, Activo, Estratégico.",
+      "Sustentable, Observable, Alcanzable, Evaluado.",
+      "Específico, Observable, Alcanzable, Evaluado.",
+      "Selectivo, Operativo, Amplio, Eficaz."
     ],
-    "answer": "Todas las alternativas son correctas.",
-    "explanation": "Una evaluación completa de la circulación implica identificar signos de shock, mantener control constante durante la extricación y considerar limitaciones o interferencias provocadas por dispositivos como torniquetes."
+    "answer": "Específico, Observable, Alcanzable, Evaluado.",
+    "explanation": "Las características SOAE significan: S: Específicos, O: Observables, A: Alcanzables y E: Evaluables."
   },
   {
-    "question": "¿Cuál de los siguientes términos NO corresponde a un tipo de atrapamiento físico?",
+    "question": "¿Cuál es la principal diferencia entre una 'Estrategia' y una 'Táctica' en la gestión de un incidente?",
     "options": [
-      "Paciente encerrado.",
-      "Atrapamiento clásico.",
-      "Empalamiento.",
-      "Desplazamiento.",
-      "Aplastamiento."
+      "La estrategia define el qué, dónde, cuándo y cómo, mientras que la táctica asigna los recursos.",
+      "La estrategia es la acción específica para un resultado, y la táctica es el resultado final deseado.",
+      "La estrategia es la dirección general para alcanzar objetivos mediante recursos, y la táctica son las acciones específicas para lograr la estrategia y el objetivo.",
+      "La estrategia se modifica constantemente, mientras que la táctica es un plan fijo desde el inicio."
     ],
-    "answer": "Desplazamiento.",
-    "explanation": "Desplazamiento no se reconoce como una categoría de atrapamiento físico. Las demás (clásico, empalamiento, aplastamiento y encerrado) son tipos definidos operativamente en rescate vehicular."
+    "answer": "La estrategia es la dirección general para alcanzar objetivos mediante recursos, y la táctica son las acciones específicas para lograr la estrategia y el objetivo.",
+    "explanation": "Una estrategia es el medio por el cual se alcanzan los objetivos a través de la asignación de recursos, aportando la dirección y orientación general. Las tácticas son las acciones específicas para lograr el resultado previsto en la estrategia y el objetivo."
   },
   {
-    "question": "Con respecto a la extracción del paciente, es posible afirmar que:",
+    "question": "¿Qué elemento del Equipo de Protección Personal (EPP) se recomienda incluir, además de la jardinera, botas y chaqueta, antes de subir al carro bomba?",
     "options": [
-      "Se buscará siempre la extracción en 0°.",
-      "La extracción rápida se realiza frente a un empeoramiento crítico de la condición del paciente.",
-      "La extracción de emergencia se realiza frente a un cambio de las condiciones de seguridad de la escena.",
-      "Solo a), b) y c) son correctas.",
-      "Ninguna de las alternativas es correcta."
+      "Una radio de comunicación de largo alcance y un mapa del sector.",
+      "Un botiquín personal de primeros auxilios.",
+      "Una linterna y una radio portátil.",
+      "Un chaleco reflectante de alta visibilidad."
     ],
-    "answer": "Solo a), b) y c) son correctas.",
-    "explanation": "Las tres técnicas de extracción descritas son válidas en contextos específicos: 0° para cuidado espinal, rápida para deterioro clínico y de emergencia por inseguridad en la escena."
+    "answer": "Una linterna y una radio portátil.",
+    "explanation": "Es recomendable incluir en el EPP la linterna y la radio portátil."
+  },
+  {
+    "question": "En el contexto de las armadas, ¿qué se debe buscar preferentemente para el despliegue de las líneas de agua?",
+    "options": [
+      "Desplegarlas por el centro de la calzada para una mayor cobertura.",
+      "Desplegarlas por las veredas para no impedir el acceso o evacuación.",
+      "Desplegarlas siempre desde el punto más cercano al foco del fuego.",
+      "Priorizar la rapidez de despliegue sobre la ubicación estratégica."
+    ],
+    "answer": "Desplegarlas por las veredas para no impedir el acceso o evacuación.",
+    "explanation": "El despliegue de las armadas debe realizarse preferentemente por las veredas, para no impedir el acceso o la evacuación."
+  },
+  {
+    "question": "¿Cuál de los siguientes no es un factor clave a considerar al planificar el despliegue de armadas de agua?",
+    "options": [
+      "Tipo de construcción de la estructura siniestrada.",
+      "La fase del incendio en la que se encuentra.",
+      "La cantidad de bomberos que no usan ERA.",
+      "Los puntos de aplicación de agua más efectivos."
+    ],
+    "answer": "La cantidad de bomberos que no usan ERA.",
+    "explanation": "Los factores clave para las armadas incluyen el tipo de construcción, la fase del incendio, la naturaleza del lugar, los lugares potenciales de propagación, los accesos, los puntos de aplicación de agua, los tiempos y la cantidad de agua y personal. La cantidad de bomberos que no usan ERA no es un factor directo de planeamiento."
+  },
+  {
+    "question": "Si el CI/OBAC identifica un área de 10x8 metros en fase de incremento con viento fuerte, altas cargas de combustible y fuego estructural, ¿cuál es el caudal táctico mínimo estimado según la fórmula de Paul Grimwood?",
+    "options": [
+      "320 L/min.",
+      "480 L/min.",
+      "640 L/min.",
+      "960 L/min."
+    ],
+    "answer": "480 L/min.",
+    "explanation": "La fórmula de Paul Grimwood es (Largo x Ancho) m² x 4 lpm para fase de incremento. Si hay viento fuerte, cargas altas de combustible o fuego estructural, se multiplica por 6. Por lo tanto, (10m x 8m) x 6 = 80 x 6 = 480 L/min."
+  },
+  {
+    "question": "¿Qué procedimiento debe realizar el bombero antes de descender del material mayor una vez llegado al lugar de la emergencia?",
+    "options": [
+      "Saltar rápidamente para iniciar el reconocimiento del área.",
+      "Descender por cualquier lado del vehículo para ahorrar tiempo.",
+      "Esperar la detención completa del vehículo y la orden del OBAC, usando tres puntos de apoyo.",
+      "Quitarse el Equipo de Respiración Autónoma (ERA) antes de bajarse."
+    ],
+    "answer": "Esperar la detención completa del vehículo y la orden del OBAC, usando tres puntos de apoyo.",
+    "explanation": "Nunca se debe saltar del material mayor antes de que esté completamente detenido. Se debe esperar la orden del OBAC para descender del carro, usando siempre 3 puntos de apoyo."
+  },
+  {
+    "question": "¿Cuál de las siguientes acciones NO se considera parte de la conservación de la propiedad dentro del Plan de Acción del Incidente (PAI)?",
+    "options": [
+      "Realizar el menor daño posible por agua al combatir el fuego.",
+      "Asegurar el menor daño por el acceso forzado si es necesario.",
+      "Priorizar la remoción de escombros sobre la extinción del fuego.",
+      "Controlar la propagación y confinar el incendio para proteger otras áreas."
+    ],
+    "answer": "Priorizar la remoción de escombros sobre la extinción del fuego.",
+    "explanation": "La conservación de la propiedad busca procurar el menor daño adicional (por agua, por acceso, etc.). La remoción de escombros es una etapa posterior a la extinción y no tiene prioridad sobre esta en la fase activa de conservación."
+  },
+  {
+    "question": "¿Cuál es la principal prioridad de los Objetivos en la planificación de un incidente, según lo establecido en la lección?",
+    "options": [
+      "La conservación del medio ambiente.",
+      "La protección de la propiedad.",
+      "El control de la emergencia.",
+      "La seguridad de la vida."
+    ],
+    "answer": "La seguridad de la vida.",
+    "explanation": "Las prioridades de los objetivos son: 1. Salvar Vidas, 2. Proteger la Propiedad, 3. Conservar el Medio Ambiente. La seguridad de la vida es la primera."
+  },
+  {
+    "question": "¿Qué señales NO son directamente indicativas de la posible ocupación de una estructura o la presencia de víctimas para la búsqueda y rescate?",
+    "options": [
+      "Vehículos estacionados fuera de la propiedad.",
+      "Luces encendidas en el interior del inmueble.",
+      "La ausencia de humo en el sector afectado.",
+      "Información provista por familiares o vecinos."
+    ],
+    "answer": "La ausencia de humo en el sector afectado.",
+    "explanation": "Las señales indicativas de posible ocupación o víctimas incluyen vehículos fuera de la propiedad, luces encendidas, información de familiares o vecinos, y solicitudes de auxilio. La ausencia de humo no es una señal de ocupación."
+  },
+  {
+    "question": "¿Cuál es el propósito principal de las 'Armadas' en el contexto de un incendio?",
+    "options": [
+      "Evitar el uso de agua para minimizar daños.",
+      "Cortar la propagación, bajar el volumen de fuego y facilitar el trabajo.",
+      "Ventilar el área y evacuar el humo acumulado.",
+      "Realizar la búsqueda y rescate de forma segura."
+    ],
+    "answer": "Cortar la propagación, bajar el volumen de fuego y facilitar el trabajo.",
+    "explanation": "Las armadas se despliegan para cortar la propagación del fuego, bajar el volumen de fuego y facilitar el trabajo al personal."
+  },
+  {
+    "question": "¿Cuál de las siguientes afirmaciones sobre el uso del Equipo de Respiración Autónoma (ERA) en el trayecto es correcta?",
+    "options": [
+      "El ERA debe ser colocado en el asiento antes de subir al carro bomba, sin importar si tiene soporte.",
+      "El ERA debe ser colocado en los asientos que cuenten con soporte para el mismo, siempre usando el cinturón de seguridad.",
+      "Es obligatorio usar el ERA durante todo el trayecto para una rápida intervención.",
+      "El ERA solo se debe colocar una vez que el carro ha llegado a la emergencia y se ha detenido."
+    ],
+    "answer": "El ERA debe ser colocado en los asientos que cuenten con soporte para el mismo, siempre usando el cinturón de seguridad.",
+    "explanation": "El ERA puede ser colocado en los asientos que cuentan con soporte, pero el uso del cinturón de seguridad es obligatorio mientras el carro está en movimiento."
+  },
+  {
+    "question": "¿Cuál es la finalidad de que el bombero tripule el material mayor usando '3 puntos de apoyo'?",
+    "options": [
+      "Aumentar la velocidad de subida al vehículo.",
+      "Minimizar el desgaste de los peldaños del carro.",
+      "Garantizar la estabilidad y seguridad del bombero para evitar caídas.",
+      "Permitir la carga de equipos adicionales al mismo tiempo."
+    ],
+    "answer": "Garantizar la estabilidad y seguridad del bombero para evitar caídas.",
+    "explanation": "La técnica de usar 3 puntos de apoyo al subir o bajar del material mayor es fundamental para garantizar la estabilidad y seguridad del bombero, previniendo caídas."
+  },
+  {
+    "question": "En el contexto de un ataque ofensivo, ¿cuál es la función de las líneas de respaldo?",
+    "options": [
+      "Apoyar a los equipos de ventilación.",
+      "Ser idénticas a las líneas de ataque para mantener la presión y el caudal.",
+      "Servir únicamente para el enfriamiento de áreas externas.",
+      "Asegurar la provisión de agua para la búsqueda y rescate en otras zonas."
+    ],
+    "answer": "Ser idénticas a las líneas de ataque para mantener la presión y el caudal.",
+    "explanation": "Las líneas de respaldo siempre deben ser iguales o mayores al material que se tiene en ataque, con la finalidad de mantener el caudal y la presión."
   }
-  ]
+]
 }
