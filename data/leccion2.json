@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "titulo": "Peligros asociados a un incendio en vehículo",
   "preguntas": [
      {
@@ -180,6 +181,295 @@
     "options": ["Cámaras de vigilancia", "Postes de alumbrado público", "Cunetas de agua lluvia", "Estaciones de peaje"],
     "answer": "Postes de alumbrado público",
     "explanation": "El promedio entre postes (33 m) permite estimar longitud de transición para establecer distancia entre conos."
+=======
+  "titulo": "Incendios estructurales",
+  "preguntas": [
+     {
+    "question": "¿Cuál de las siguientes fases de un incendio estructural corresponde al momento en que el combustible toma contacto con la fuente de calor y se produce una combustión de magnitud generalmente pequeña?",
+    "options": [
+      "Fase inicial o de encendido",
+      "Fase de incremento",
+      "Fase de libre combustión",
+      "Fase de decaimiento"
+    ],
+    "answer": "Fase inicial o de encendido",
+    "explanation": "La fase inicial o de encendido se caracteriza por el contacto del combustible con la fuente de calor, generando una combustión incipiente y de baja magnitud."
+  },
+  {
+    "question": "Durante la fase de incremento en un incendio estructural, ¿qué fenómeno termodinámico ocurre por acumulación de gases calientes bajo el techo?",
+    "options": [
+      "Capa térmica",
+      "Backdraft",
+      "Fase latente",
+      "Inhibición"
+    ],
+    "answer": "Capa térmica",
+    "explanation": "La capa térmica es una acumulación de humos y gases calientes que se forma bajo el techo y eleva la temperatura, favoreciendo la pirolización de los materiales."
+  },
+  {
+    "question": "¿Qué condición distingue la fase de libre combustión en un incendio estructural?",
+    "options": [
+      "Combustión súbita generalizada (flashover)",
+      "Presencia de humo gris amarillento",
+      "Agotamiento del combustible",
+      "Ausencia total de llamas"
+    ],
+    "answer": "Combustión súbita generalizada (flashover)",
+    "explanation": "La fase de libre combustión inicia con el flashover, donde todos los materiales combustibles arden casi simultáneamente."
+  },
+  {
+    "question": "En la fase de decaimiento de un incendio estructural, ¿cuál de los siguientes hechos ocurre?",
+    "options": [
+      "El combustible susceptible de arder comienza a agotarse",
+      "La temperatura supera los 800 °C",
+      "Se produce la capa térmica",
+      "Se da inicio a la reacción en cadena"
+    ],
+    "answer": "El combustible susceptible de arder comienza a agotarse",
+    "explanation": "La fase de decaimiento se caracteriza por el agotamiento del combustible, disminuyendo la intensidad de la combustión."
+  },
+  {
+    "question": "¿Cuál es la principal diferencia entre las fases de incendio en un lugar abierto y en un lugar cerrado?",
+    "options": [
+      "En el lugar cerrado puede existir una fase latente antes del flashover",
+      "El lugar cerrado nunca alcanza la fase de libre combustión",
+      "En el lugar abierto no se forma capa térmica",
+      "En el lugar cerrado no hay riesgo de backdraft"
+    ],
+    "answer": "En el lugar cerrado puede existir una fase latente antes del flashover",
+    "explanation": "En lugares cerrados, la falta de oxígeno puede generar una fase latente previa a fenómenos como el backdraft o el flashover."
+  },
+  {
+    "question": "¿Cuál de los siguientes signos es característico de la fase latente en incendios estructurales en lugares cerrados?",
+    "options": [
+      "Emisión de humo gris amarillento",
+      "Llamas visibles en toda la estructura",
+      "Temperaturas inferiores a 300 °C",
+      "Desplazamiento vertical de gases"
+    ],
+    "answer": "Emisión de humo gris amarillento",
+    "explanation": "En la fase latente, uno de los signos observables es la emisión de humo gris amarillento por acumulación de gases y pirólisis."
+  },
+  {
+    "question": "¿Qué fenómeno peligroso puede ocurrir si durante la fase latente ingresa aire fresco repentinamente en un ambiente cerrado?",
+    "options": [
+      "Explosión por flujo reverso o backdraft",
+      "Combustión incompleta",
+      "Formación de capa térmica",
+      "Reacción en cadena"
+    ],
+    "answer": "Explosión por flujo reverso o backdraft",
+    "explanation": "El ingreso súbito de aire fresco en fase latente puede desencadenar una explosión llamada backdraft por mezcla repentina de oxígeno con gases acumulados."
+  },
+  {
+    "question": "¿Cuál es el método de extinción asociado a la eliminación del calor según el tetraedro del fuego?",
+    "options": [
+      "Enfriamiento",
+      "Segregación",
+      "Sofocación",
+      "Inhibición"
+    ],
+    "answer": "Enfriamiento",
+    "explanation": "El enfriamiento, usualmente mediante la aplicación de agua, elimina el calor y es la técnica asociada a este componente del tetraedro."
+  },
+  {
+    "question": "¿Cuál es la técnica de extinción indicada para eliminar el combustible durante un incendio?",
+    "options": [
+      "Segregación",
+      "Sofocación",
+      "Enfriamiento",
+      "Inhibición"
+    ],
+    "answer": "Segregación",
+    "explanation": "Segregar implica retirar o cortar el paso del combustible para interrumpir la combustión."
+  },
+  {
+    "question": "Según el tetraedro del fuego, ¿qué componente se ataca aplicando gases inertes o vapor de agua en el incendio?",
+    "options": [
+      "Comburente",
+      "Combustible",
+      "Calor",
+      "Reacción en cadena"
+    ],
+    "answer": "Comburente",
+    "explanation": "Aplicar gases inertes o vapor de agua disminuye la concentración de oxígeno (comburente) en la zona de combustión."
+  },
+  {
+    "question": "¿Qué agente extintor se utiliza comúnmente para inhibir la reacción en cadena?",
+    "options": [
+      "Polvo químico seco (PQS)",
+      "Agua",
+      "CO2",
+      "Arena"
+    ],
+    "answer": "Polvo químico seco (PQS)",
+    "explanation": "El PQS detiene la reacción química de la combustión, inhibiendo la reacción en cadena."
+  },
+  {
+    "question": "¿Cuál de los siguientes gases es un producto frecuente de la combustión incompleta en incendios estructurales?",
+    "options": [
+      "Monóxido de carbono (CO)",
+      "Oxígeno (O2)",
+      "Ozono (O3)",
+      "Metano (CH4)"
+    ],
+    "answer": "Monóxido de carbono (CO)",
+    "explanation": "El monóxido de carbono es uno de los gases tóxicos más frecuentes en la combustión incompleta de materiales."
+  },
+  {
+    "question": "¿Qué función cumple la capa térmica durante la fase de incremento de un incendio?",
+    "options": [
+      "Irradiar calor a los materiales del interior y favorecer la pirolización",
+      "Apagar las llamas mediante enfriamiento",
+      "Diluir el combustible en el ambiente",
+      "Detener la reacción en cadena"
+    ],
+    "answer": "Irradiar calor a los materiales del interior y favorecer la pirolización",
+    "explanation": "La capa térmica irradia calor y acelera la descomposición térmica de los materiales (pirolización)."
+  },
+  {
+    "question": "¿Cuál de los siguientes materiales de construcción es considerado sólido y resistente al fuego?",
+    "options": [
+      "Ladrillo",
+      "Madera aglomerada",
+      "Volcanita",
+      "Papel prensado"
+    ],
+    "answer": "Ladrillo",
+    "explanation": "El ladrillo es un material sólido y resistente al fuego, recomendado para estructuras con alta protección pasiva."
+  },
+  {
+    "question": "¿Cómo se clasifica el grado de avance de un incendio que afecta a más de un compartimiento de una vivienda?",
+    "options": [
+      "Multicompartmental",
+      "Compartimental",
+      "Latente",
+      "Súbita"
+    ],
+    "answer": "Multicompartmental",
+    "explanation": "Un incendio multicompartmental afecta a más de un compartimiento o sector de la estructura."
+  },
+  {
+    "question": "¿Qué característica distingue a los vapores como producto de la combustión?",
+    "options": [
+      "Son pequeñas gotas líquidas que pueden ser tóxicas",
+      "Son partículas sólidas en suspensión",
+      "Son gases no inflamables",
+      "No afectan la salud respiratoria"
+    ],
+    "answer": "Son pequeñas gotas líquidas que pueden ser tóxicas",
+    "explanation": "Los vapores se componen de gotas líquidas, muchas veces tóxicas y dañinas para la salud."
+  },
+  {
+    "question": "¿Cuál de los siguientes signos puede anticipar el riesgo de backdraft en un incendio estructural?",
+    "options": [
+      "Humo gris amarillento saliendo por rendijas",
+      "Aumento rápido de llamas visibles",
+      "Caída de la temperatura interna",
+      "Desaparición de todo el humo"
+    ],
+    "answer": "Humo gris amarillento saliendo por rendijas",
+    "explanation": "El humo gris amarillento, junto con la presión interna y la ausencia de llamas, indica riesgo de backdraft."
+  },
+  {
+    "question": "¿Qué indica la presencia de sonidos crepitantes durante la fase latente de un incendio?",
+    "options": [
+      "Pirólisis de materiales como la madera",
+      "Desplazamiento de la capa térmica",
+      "Combustión súbita generalizada",
+      "Dilución del comburente"
+    ],
+    "answer": "Pirólisis de materiales como la madera",
+    "explanation": "Los sonidos crepitantes se deben a la descomposición térmica (pirólisis) de materiales como la madera."
+  },
+  {
+    "question": "¿Cuál es el principal riesgo operativo asociado al flashover?",
+    "options": [
+      "Combustión simultánea y súbita de todos los materiales del lugar",
+      "Agotamiento del combustible",
+      "Falta de humo en el ambiente",
+      "Entrada repentina de aire fresco"
+    ],
+    "answer": "Combustión simultánea y súbita de todos los materiales del lugar",
+    "explanation": "El flashover implica una combustión súbita y generalizada, lo que puede poner en peligro la integridad de los equipos y la estructura."
+  },
+  {
+    "question": "¿Qué característica operativa tiene un incendio estructural clasificado como compartimental?",
+    "options": [
+      "Afecta sólo un sector o habitación de la estructura",
+      "Compromete toda la estructura simultáneamente",
+      "Presenta siempre flashover",
+      "No genera capa térmica"
+    ],
+    "answer": "Afecta sólo un sector o habitación de la estructura",
+    "explanation": "Un incendio compartimental permanece circunscrito a un solo sector o compartimiento."
+  },
+  {
+    "question": "¿Cuál de los siguientes agentes extintores actúa por sofocación del comburente?",
+    "options": [
+      "Dióxido de carbono (CO2)",
+      "Agua",
+      "Polvo químico seco (PQS)",
+      "Aire comprimido"
+    ],
+    "answer": "Dióxido de carbono (CO2)",
+    "explanation": "El CO2 desplaza el oxígeno y sofoca la combustión, actuando sobre el comburente."
+  },
+  {
+    "question": "¿Qué información se requiere para clasificar un incendio estructural según la metodología presentada?",
+    "options": [
+      "Tipo de ocupación, material de construcción y grado de avance",
+      "Sólo el tipo de material combustible",
+      "La presencia de gases tóxicos",
+      "La temperatura máxima alcanzada"
+    ],
+    "answer": "Tipo de ocupación, material de construcción y grado de avance",
+    "explanation": "La clasificación operativa requiere conocer el uso, material y el grado de propagación en la estructura."
+  },
+  {
+    "question": "¿Cuál es el principal efecto de la segregación como método de extinción de incendios?",
+    "options": [
+      "Eliminar el combustible disponible",
+      "Reducir la temperatura ambiente",
+      "Incrementar la reacción en cadena",
+      "Aumentar la concentración de oxígeno"
+    ],
+    "answer": "Eliminar el combustible disponible",
+    "explanation": "Segregar es eliminar el combustible, cortando su aporte y deteniendo la combustión."
+  },
+  {
+    "question": "¿Cuál de los siguientes compuestos es un gas tóxico habitual producido en incendios estructurales por combustión incompleta?",
+    "options": [
+      "Cianuro de hidrógeno (HCN)",
+      "Ozono (O3)",
+      "Oxígeno (O2)",
+      "Helio (He)"
+    ],
+    "answer": "Cianuro de hidrógeno (HCN)",
+    "explanation": "El HCN es altamente tóxico y puede estar presente en incendios por combustión incompleta de materiales nitrogenados."
+  },
+  {
+    "question": "¿Qué material de construcción se considera ligero y de mayor riesgo ante el fuego?",
+    "options": [
+      "Madera aglomerada",
+      "Ladrillo",
+      "Concreto",
+      "Piedra"
+    ],
+    "answer": "Madera aglomerada",
+    "explanation": "La madera aglomerada es un material ligero y menos resistente al fuego que los materiales sólidos."
+  },
+  {
+    "question": "¿En qué fase del incendio suelen predominar las brasas y la combustión incandescente, con ausencia de llamas?",
+    "options": [
+      "Fase latente",
+      "Fase de incremento",
+      "Fase inicial",
+      "Fase de libre combustión"
+    ],
+    "answer": "Fase latente",
+    "explanation": "La fase latente se caracteriza por brasas incandescentes y ausencia de llamas debido a la falta de oxígeno."
+>>>>>>> FuegoyTacticas
   }
   ]
 }

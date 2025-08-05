@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "titulo": "POE para vehículos en llamas",
   "preguntas": [
      {
@@ -407,6 +408,229 @@
     ],
     "answer": "kPa",
     "explanation": "kPa significa kilopascal, y equivale a 1000 pascales, siendo una unidad estándar para medir presión en gases comprimidos como el GNC."
+=======
+  "titulo": "Sistema de comando de incidentes en incendios",
+  "preguntas": [
+  {
+    "question": "¿Cuál de las siguientes definiciones corresponde al Sistema de Comando de Incidentes (SCI) según el documento?",
+    "options": [
+      "Un protocolo de comunicación estándar para emergencias masivas.",
+      "La combinación de instalaciones, equipamiento, personal, protocolos, procedimientos y comunicaciones, operando en una estructura organizacional común, con la responsabilidad de administrar los recursos asignados para lograr efectivamente los objetivos pertinentes a un evento, incidente u operativo.",
+      "Un software para la gestión de recursos humanos en situaciones de crisis.",
+      "Un manual de primeros auxilios avanzado para bomberos."
+    ],
+    "answer": "La combinación de instalaciones, equipamiento, personal, protocolos, procedimientos y comunicaciones, operando en una estructura organizacional común, con la responsabilidad de administrar los recursos asignados para lograr efectivamente los objetivos pertinentes a un evento, incidente u operativo.",
+    "explanation": "El documento define el SCI como 'la combinación de instalaciones, equipamiento, personal, protocolos, procedimientos y comunicaciones, operando en una estructura organizacional común, con la responsabilidad de administrar los recursos asignados para lograr efectivamente los objetivos pertinentes a un evento, incidente u operativo' (USAID, 2013, p. 4)."
+  },
+  {
+    "question": "¿Qué característica del SCI asegura que el lenguaje utilizado para funciones, cargos, recursos, instalaciones y comunicaciones sea siempre el mismo, sin importar la agencia o la ubicación geográfica?",
+    "options": [
+      "Manejo de las comunicaciones e información",
+      "Profesionalismo",
+      "Estandarización",
+      "Manejo por objetivos"
+    ],
+    "answer": "Estandarización",
+    "explanation": "El documento menciona la 'Estandarización' como la característica que incluye el uso de 'terminología común', asegurando que todos los participantes utilicen el mismo lenguaje para funciones, cargos, recursos, instalaciones y comunicaciones."
+  },
+  {
+    "question": "Dentro del principio de 'Mando', ¿qué concepto permite que dos o más instituciones con similar competencia se coordinen para atender una emergencia sin perder su autoridad o responsabilidad, operando bajo un solo Plan de Acción del Incidente?",
+    "options": [
+      "Cadena de mando",
+      "Manejo por objetivos",
+      "Comando Unificado",
+      "Transferencia de mando"
+    ],
+    "answer": "Comando Unificado",
+    "explanation": "El 'Comando Unificado' es un principio del SCI que permite la coordinación de múltiples instituciones con similar competencia, permitiéndoles trabajar juntas bajo un único Plan de Acción del Incidente sin que ninguna pierda su autoridad o responsabilidad."
+  },
+  {
+    "question": "¿Cuál es la expresión escrita (o mental) de los objetivos, estrategias operacionales, tácticas, recursos y estructura organizacional a cumplir durante un periodo operacional para controlar un incidente?",
+    "options": [
+      "Reporte de Situación Inicial (RSI)",
+      "Análisis de Necesidades Operativas (ANO)",
+      "Plan de Acción del Incidente (PAI)",
+      "Documento de Evaluación de Riesgos (DER)"
+    ],
+    "answer": "Plan de Acción del Incidente (PAI)",
+    "explanation": "El 'Plan de Acción del Incidente (PAI)' es definido como 'la expresión escrita de los objetivos, estrategias operacionales, tácticas, recursos y estructura organizacional a cumplir durante un periodo operacional para controlar un incidente, evento u operativo'."
+  },
+  {
+    "question": "La 'Organización Modular' del SCI se caracteriza por ser flexible y adaptable. ¿Cómo debe crecer esta estructura en respuesta a la complejidad de un incidente?",
+    "options": [
+      "De abajo hacia arriba únicamente.",
+      "Siempre en una forma piramidal rígida.",
+      "De forma descendente, expandiéndose o contrayéndose según el tamaño y complejidad del incidente.",
+      "Horizontalmente, sin ninguna jerarquía definida."
+    ],
+    "answer": "De forma descendente, expandiéndose o contrayéndose según el tamaño y complejidad del incidente.",
+    "explanation": "El documento explica que la 'Organización Modular' se establece de arriba hacia abajo (descendente) y es flexible, expandiéndose o contrayéndose según el tamaño y complejidad del incidente, delegando responsabilidades según sea necesario."
+  },
+  {
+    "question": "¿Cuál de las siguientes NO es una instalación usual del SCI mencionada en el documento?",
+    "options": [
+      "Puesto de Comando (PC)",
+      "Área de Espera (E)",
+      "Centro de Comunicaciones de Emergencia (CCE)",
+      "Base (B)"
+    ],
+    "answer": "Centro de Comunicaciones de Emergencia (CCE)",
+    "explanation": "El documento lista las instalaciones usuales del SCI como Puesto de Comando (PC), Área de Espera (E), Área de Concentración de Víctimas (ACV), Base (B), Campamento (C), Helibase (H) y Helipunto (H1). El Centro de Comunicaciones de Emergencia (CCE) no se menciona como una instalación específica del SCI en la lección."
+  },
+  {
+    "question": "¿Qué función principal tiene el Oficial de Seguridad (OFS) dentro del Staff de Comando del SCI?",
+    "options": [
+      "Gestionar el flujo de información entre instituciones.",
+      "Encargarse de la información a la prensa y comunidad.",
+      "Gestionar la seguridad de todo el personal y los recursos involucrados, identificando y mitigando riesgos.",
+      "Proporcionar todos los servicios y apoyo necesarios para el incidente."
+    ],
+    "answer": "Gestionar la seguridad de todo el personal y los recursos involucrados, identificando y mitigando riesgos.",
+    "explanation": "El Oficial de Seguridad (OFS) tiene como función principal gestionar la seguridad de todo el personal y los recursos involucrados en la emergencia, identificando y mitigando los riesgos inherentes a las operaciones."
+  },
+  {
+    "question": "¿Qué es un 'Equipo de Intervención' según la terminología del SCI?",
+    "options": [
+      "Una combinación de recursos simples de diferente clase o tipo.",
+      "Un conjunto de recursos simples de la misma clase y tipo, operando en el mismo lugar bajo un solo Líder y con equipos de comunicación.",
+      "Un solo equipamiento con su personal asignado.",
+      "Una unidad responsable de la planificación y logística del incidente."
+    ],
+    "answer": "Un conjunto de recursos simples de la misma clase y tipo, operando en el mismo lugar bajo un solo Líder y con equipos de comunicación.",
+    "explanation": "El documento define un 'Equipo de Intervención' como 'un conjunto de recursos simples de la misma clase y tipo, constituidos bajo el alcance de control (mínimo 3 y máximo 7), operando en el mismo lugar físico bajo un solo Líder y con equipos de comunicación'."
+  },
+  {
+    "question": "¿Cuál de las siguientes acciones NO corresponde a las responsabilidades del Comandante del Incidente (CI/OBAC) en un incendio estructural?",
+    "options": [
+      "Asumir el mando y establecer el Puesto de Comando.",
+      "Autorizar la entrega de información a los medios de comunicación.",
+      "Proporcionar los servicios de alimentación y descanso al personal.",
+      "Evaluar la situación y determinar los objetivos operacionales."
+    ],
+    "answer": "Proporcionar los servicios de alimentación y descanso al personal.",
+    "explanation": "La provisión de servicios y apoyo, como alimentación y descanso, es responsabilidad de la Sección de Logística, no del Comandante del Incidente."
+  },
+  {
+    "question": "En el contexto del SCI, ¿qué se entiende por 'Periodo Operacional'?",
+    "options": [
+      "El tiempo total de duración del incidente.",
+      "El espacio de tiempo programado para ejecutar un conjunto de objetivos y acciones operacionales según lo especificado en el PAI.",
+      "El tiempo máximo que un bombero puede estar en la escena.",
+      "El horario de trabajo del personal de la Central de Alarmas."
+    ],
+    "answer": "El espacio de tiempo programado para ejecutar un conjunto de objetivos y acciones operacionales según lo especificado en el PAI.",
+    "explanation": "El 'Periodo Operacional' se define como 'el espacio de tiempo programado para ejecutar un conjunto de objetivos y de acciones operacionales según lo especificado en el PAI. Los periodos operacionales van de 12 a 24 horas'."
+  },
+  {
+    "question": "¿Cuál es el primer paso que debe realizar el primer Bombero en la escena al establecer el SCI?",
+    "options": [
+      "Establecer un perímetro de seguridad.",
+      "Informar a la Central de Alarmas y Telecomunicaciones sobre su llegada.",
+      "Determinar la necesidad de recursos adicionales.",
+      "Evaluar la situación en detalle."
+    ],
+    "answer": "Informar a la Central de Alarmas y Telecomunicaciones sobre su llegada.",
+    "explanation": "El primer paso en los '8 pasos para establecer el SCI' es 'Informar a la Central de Alarmas y Telecomunicaciones sobre su llegada a la emergencia'."
+  },
+  {
+    "question": "Si el Comandante del Incidente necesita que se establezca una comunicación efectiva y estandarizada entre todas las instituciones que participan en el incidente, ¿qué principio del SCI debe asegurar que se cumpla?",
+    "options": [
+      "Responsabilidad",
+      "Manejo de la información e inteligencia",
+      "Comunicaciones Integradas",
+      "Oportunidad y pertinencia de los recursos"
+    ],
+    "answer": "Comunicaciones Integradas",
+    "explanation": "El principio de 'Comunicaciones Integradas' asegura que se establezca un plan común de comunicaciones, incluyendo procesos, equipos y sistemas interconectados, para garantizar la comunicación efectiva entre todas las partes."
+  },
+  {
+    "question": "¿Qué sección del SCI es responsable de recopilar, evaluar y difundir la información operativa del incidente, así como de registrar el estado de los recursos?",
+    "options": [
+      "Sección de Operaciones",
+      "Sección de Logística",
+      "Sección de Planificación",
+      "Sección de Administración/Finanzas"
+    ],
+    "answer": "Sección de Planificación",
+    "explanation": "La Sección de Planificación es la encargada de 'recopilar, evaluar, difundir la información y registrar el estado de los recursos' para apoyar el desarrollo y cumplimiento del Plan de Acción del Incidente."
+  },
+  {
+    "question": "¿Qué tipo de recurso del SCI se define como la combinación de recursos simples de diferente clase o tipo, constituidos para una necesidad operativa particular?",
+    "options": [
+      "Equipo de Intervención",
+      "Recurso Simple",
+      "Fuerza de Tarea",
+      "Grupo"
+    ],
+    "answer": "Fuerza de Tarea",
+    "explanation": "El documento define la 'Fuerza de Tarea' como 'una combinación y número de recursos simples de diferente clase o tipo (dentro del alcance de control), constituidos para una necesidad operativa particular, operando en el mismo lugar bajo un solo Líder y con equipos de comunicación'."
+  },
+  {
+    "question": "¿Cuál de las siguientes condiciones es esencial para la ubicación adecuada de un Puesto de Comando (PC)?",
+    "options": [
+      "Estar en el centro de la zona caliente del incidente para una supervisión directa.",
+      "Ubicarse en un área con ruido constante para simular el ambiente de la emergencia.",
+      "Tener seguridad, visibilidad y facilidades de acceso y circulación.",
+      "Estar en un lugar sin capacidad de expansión física para evitar la dispersión de personal."
+    ],
+    "answer": "Tener seguridad, visibilidad y facilidades de acceso y circulación.",
+    "explanation": "Entre las condiciones para establecer el PC se menciona 'Seguridad y visibilidad, facilidades de acceso y circulación', además de estar 'alejado de la escena, del ruido y de la confusión' y con 'capacidad de expansión física'."
+  },
+  {
+    "question": "¿Qué principio del SCI se relaciona con la rendición de cuentas, el registro de actividades, la adhesión al PAI y la responsabilidad personal?",
+    "options": [
+      "Manejo por objetivos",
+      "Manejo integral de los recursos",
+      "Profesionalismo (Responsabilidad)",
+      "Cadena de mando"
+    ],
+    "answer": "Profesionalismo (Responsabilidad)",
+    "explanation": "El profesionalismo, específicamente en su aspecto de 'Responsabilidad', incluye la rendición de cuentas, el registro de acciones, el cumplimiento del PAI, la unidad de mando y la responsabilidad personal, así como la documentación de cambios de recursos."
+  },
+  {
+    "question": "¿Qué es una 'División' en la organización del SCI?",
+    "options": [
+      "Una unidad con una función específica, como ventilación.",
+      "La organización de más de cinco recursos simples, equipos de intervención o grupos asignados a un área geográfica.",
+      "Un conjunto de recursos de la misma clase y tipo.",
+      "Unidades que existen solo en la sección de operaciones y logística."
+    ],
+    "answer": "La organización de más de cinco recursos simples, equipos de intervención o grupos asignados a un área geográfica.",
+    "explanation": "Una 'División' es definida como 'la organización de más de cinco recursos simples, equipos de intervención o grupos asignados a un área geográfica en particular'."
+  },
+  {
+    "question": "Si el Comandante del Incidente delega funciones a las secciones de Operaciones, Planificación y Logística, pero sigue siendo el responsable último de todas las operaciones, ¿qué principio del SCI se está aplicando?",
+    "options": [
+      "Alcance de control",
+      "Organización modular",
+      "Asumir y transferir el mando (responsabilidad del CI)",
+      "Comando Unificado"
+    ],
+    "answer": "Asumir y transferir el mando (responsabilidad del CI)",
+    "explanation": "El documento establece que el Comandante del Incidente (CI/OBAC) 'asume el mando' y es el 'responsable último de todas las operaciones que se realicen en el lugar', incluso si delega tareas, manteniendo su responsabilidad."
+  },
+  {
+    "question": "¿Cuál es la principal finalidad de la Sección de Logística en el SCI?",
+    "options": [
+      "Dirigir todas las operaciones tácticas en el terreno.",
+      "Proporcionar los recursos y servicios necesarios para apoyar la operación (ej., instalaciones, suministros, comunicaciones, transporte).",
+      "Recopilar y analizar la información para el Plan de Acción del Incidente.",
+      "Realizar el seguimiento y la documentación de todos los costos del incidente."
+    ],
+    "answer": "Proporcionar los recursos y servicios necesarios para apoyar la operación (ej., instalaciones, suministros, comunicaciones, transporte).",
+    "explanation": "La Sección de Logística es responsable de 'proporcionar las instalaciones, servicios y material para apoyar el incidente, incluyendo comunicaciones, alimentación, transporte, personal y equipos médicos'."
+  },
+  {
+    "question": "En el contexto de incendios estructurales, ¿cuáles son las zonas de trabajo exteriores mencionadas en el documento para una mejor organización de la escena?",
+    "options": [
+      "Norte, Sur, Este, Oeste.",
+      "Arriba, Abajo, Izquierda, Derecha.",
+      "A, B, C, D en sentido horario.",
+      "Frente, Trasero, Laterales."
+    ],
+    "answer": "A, B, C, D en sentido horario.",
+    "explanation": "El documento establece que para la organización en incendios estructurales se utilizan 'Zonas de trabajo exteriores: A, B, C, D en sentido horario', siendo la fachada principal la Zona A."
+>>>>>>> FuegoyTacticas
   }
-  ]
+]
 }

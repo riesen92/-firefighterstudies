@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "titulo": "Consideraciones generales Fuego en vehículos",
     "preguntas": [
   {
@@ -165,6 +166,284 @@
     ],
     "answer": "Guantes y botas.",
     "explanation": "Los guantes protegen las manos y las botas los pies, ambos elementos esenciales del EPP."
+=======
+    "titulo": "Fuego Basico",
+    "preguntas": [
+  {
+    "question": "¿Cuál es la principal diferencia entre el triángulo y el tetraedro del fuego?",
+    "options": [
+      "El triángulo incluye agua como componente.",
+      "El tetraedro incorpora la reacción en cadena como cuarto elemento.",
+      "Ambos consideran solo tres elementos.",
+      "El triángulo incorpora la presión atmosférica."
+    ],
+    "answer": "El tetraedro incorpora la reacción en cadena como cuarto elemento.",
+    "explanation": "El tetraedro del fuego agrega la reacción en cadena a los tres componentes del triángulo: combustible, comburente y calor."
+  },
+  {
+    "question": "¿Cómo se define la combustión según la NFPA 921?",
+    "options": [
+      "Proceso de oxidación rápida con producción de luz y calor.",
+      "Descomposición lenta sin liberación de energía.",
+      "Mezcla de gases a temperatura ambiente.",
+      "Reacción espontánea en ausencia de oxígeno."
+    ],
+    "answer": "Proceso de oxidación rápida con producción de luz y calor.",
+    "explanation": "La combustión es una reacción química de oxidación rápida que libera luz y calor."
+  },
+  {
+    "question": "¿Cuál es el componente más común que actúa como comburente en la atmósfera?",
+    "options": [
+      "Nitrógeno",
+      "Oxígeno",
+      "Dióxido de carbono",
+      "Metano"
+    ],
+    "answer": "Oxígeno",
+    "explanation": "El oxígeno es el principal comburente natural, presente en un 20,8%-21% en el aire."
+  },
+  {
+    "question": "¿Qué condición debe cumplirse para que un sólido pueda iniciar la combustión?",
+    "options": [
+      "Estar en contacto con agua",
+      "Alcanzar temperatura de pirólisis y emitir gases",
+      "Presentarse en estado líquido",
+      "No necesita energía de activación"
+    ],
+    "answer": "Alcanzar temperatura de pirólisis y emitir gases",
+    "explanation": "Los sólidos deben calentarse para iniciar pirólisis, proceso que libera gases combustibles."
+  },
+  {
+    "question": "¿Cómo se llama el proceso en que los líquidos se convierten en gases para arder?",
+    "options": [
+      "Pirólisis",
+      "Vaporización",
+      "Sublimación",
+      "Electrólisis"
+    ],
+    "answer": "Vaporización",
+    "explanation": "Los líquidos deben vaporizarse para formar mezclas inflamables con el aire."
+  },
+  {
+    "question": "¿Qué afirmación es correcta respecto a los combustibles gaseosos?",
+    "options": [
+      "Tienen volumen propio y forma estable",
+      "Tienden a ocupar todo el espacio disponible",
+      "No necesitan oxígeno para arder",
+      "Solo arden en estado líquido"
+    ],
+    "answer": "Tienden a ocupar todo el espacio disponible",
+    "explanation": "Los gases carecen de forma y volumen propio, ocupan el espacio del recipiente donde estén."
+  },
+  {
+    "question": "¿Cuál es la función principal del calor en el proceso de combustión?",
+    "options": [
+      "Aumentar la densidad del comburente",
+      "Proveer la energía de activación para iniciar la reacción",
+      "Evitar la reacción en cadena",
+      "Enfriar los productos de la reacción"
+    ],
+    "answer": "Proveer la energía de activación para iniciar la reacción",
+    "explanation": "El calor suministra la energía necesaria para activar y sostener la combustión."
+  },
+  {
+    "question": "¿Qué fuente de calor es considerada mecánica?",
+    "options": [
+      "Resistencia eléctrica",
+      "Chispa por fricción",
+      "Reacción química",
+      "Arco voltaico"
+    ],
+    "answer": "Chispa por fricción",
+    "explanation": "La fricción o compresión produce calor de origen mecánico."
+  },
+  {
+    "question": "¿Cuál es el mecanismo de transmisión de calor en el que la energía se transfiere por contacto directo?",
+    "options": [
+      "Radiación",
+      "Convección",
+      "Conducción",
+      "Evaporación"
+    ],
+    "answer": "Conducción",
+    "explanation": "La conducción ocurre mediante contacto directo entre materiales con diferente temperatura."
+  },
+  {
+    "question": "¿Cómo se transmite el calor por radiación?",
+    "options": [
+      "Por contacto físico entre cuerpos",
+      "Por ondas electromagnéticas a través del espacio",
+      "Por movimiento de gases o líquidos",
+      "Por cambio de estado sólido a líquido"
+    ],
+    "answer": "Por ondas electromagnéticas a través del espacio",
+    "explanation": "La radiación transmite calor por ondas, sin necesidad de contacto entre las partes."
+  },
+  {
+    "question": "¿Cuál de los siguientes escenarios es un ejemplo de transmisión de calor por convección?",
+    "options": [
+      "Una barra de metal caliente tocando otra",
+      "El sol calentando el asfalto a distancia",
+      "El aire caliente subiendo por una escalera en un incendio",
+      "La llama de una vela derritiendo la cera a su lado"
+    ],
+    "answer": "El aire caliente subiendo por una escalera en un incendio",
+    "explanation": "La convección es el traslado de calor por masas de aire o líquidos calientes en movimiento ascendente."
+  },
+  {
+    "question": "¿Qué define el punto de inflamación (flash point) de un combustible?",
+    "options": [
+      "La temperatura mínima para mantener la combustión",
+      "La temperatura a la que emite vapores que pueden encenderse",
+      "El grado de humedad del material",
+      "El momento en que se apaga el fuego"
+    ],
+    "answer": "La temperatura a la que emite vapores que pueden encenderse",
+    "explanation": "El flash point es la temperatura mínima a la cual un combustible puede emitir vapores inflamables que se encienden ante una fuente."
+  },
+  {
+    "question": "¿Cuál es el símbolo internacional para los fuegos de Clase A?",
+    "options": [
+      "Círculo azul con letra C",
+      "Cuadro verde con letra A",
+      "Cuadro rojo con letra B",
+      "Estrella amarilla con letra D"
+    ],
+    "answer": "Cuadro verde con letra A",
+    "explanation": "Clase A: materiales sólidos combustibles, símbolo: cuadro verde con A."
+  },
+  {
+    "question": "¿Cuál es el agente extintor recomendado para fuegos clase B?",
+    "options": [
+      "Agua",
+      "Polvo químico seco (PQS)",
+      "Arena seca",
+      "Cloruro de sodio"
+    ],
+    "answer": "Polvo químico seco (PQS)",
+    "explanation": "Para fuegos de líquidos combustibles (Clase B) se recomienda PQS, espuma o CO2."
+  },
+  {
+    "question": "¿Qué tipo de fuegos corresponden a la Clase C?",
+    "options": [
+      "Fuegos en materiales sólidos comunes",
+      "Fuegos en líquidos inflamables",
+      "Fuegos en equipos eléctricos energizados",
+      "Fuegos en metales combustibles"
+    ],
+    "answer": "Fuegos en equipos eléctricos energizados",
+    "explanation": "Clase C son incendios en instalaciones y equipos eléctricos bajo tensión."
+  },
+  {
+    "question": "¿Qué agente extintor es más adecuado para un fuego clase D?",
+    "options": [
+      "Espuma",
+      "CO2",
+      "Polvo químico especial (cloruro de sodio)",
+      "Agua pulverizada"
+    ],
+    "answer": "Polvo químico especial (cloruro de sodio)",
+    "explanation": "Para metales combustibles (Clase D) se usan polvos especiales, no agua ni agentes convencionales."
+  },
+  {
+    "question": "¿Qué caracteriza un fuego clase K?",
+    "options": [
+      "Fuegos en madera y papel",
+      "Fuegos en aceites y grasas de cocina",
+      "Fuegos en combustibles gaseosos",
+      "Fuegos en instalaciones eléctricas"
+    ],
+    "answer": "Fuegos en aceites y grasas de cocina",
+    "explanation": "Clase K involucra fuegos en aceites y grasas de cocina, requiere extintores especiales."
+  },
+  {
+    "question": "¿Qué agente extintor se recomienda para fuegos clase K?",
+    "options": [
+      "Agua a presión",
+      "Dióxido de carbono (CO2)",
+      "Extintor de químico húmedo en base a acetato de potasio",
+      "Arena seca"
+    ],
+    "answer": "Extintor de químico húmedo en base a acetato de potasio",
+    "explanation": "Solo los extintores de químico húmedo con acetato de potasio son efectivos y seguros para fuegos clase K."
+  },
+  {
+    "question": "¿Qué ocurre si la concentración de oxígeno en el aire es inferior al 16% durante un incendio?",
+    "options": [
+      "El fuego arde con mayor intensidad",
+      "No se produce llama, sólo brasas o combustión latente",
+      "La combustión se vuelve explosiva",
+      "Aumenta la transmisión de calor por convección"
+    ],
+    "answer": "No se produce llama, sólo brasas o combustión latente",
+    "explanation": "Menos de 16% de oxígeno no permite reacción en cadena y llama sostenida."
+  },
+  {
+    "question": "¿Cómo se puede detener un incendio según la teoría del tetraedro del fuego?",
+    "options": [
+      "Solo enfriando el combustible",
+      "Eliminando uno cualquiera de los cuatro componentes",
+      "Añadiendo más oxígeno",
+      "Disminuyendo la presión atmosférica"
+    ],
+    "answer": "Eliminando uno cualquiera de los cuatro componentes",
+    "explanation": "Eliminar combustible, comburente, calor o reacción en cadena interrumpe el fuego."
+  },
+  {
+    "question": "¿Cuál es el principal riesgo de utilizar agua en fuegos clase B?",
+    "options": [
+      "Aumenta el efecto de enfriamiento",
+      "Puede dispersar el líquido inflamable y extender el incendio",
+      "No tiene ningún efecto",
+      "Genera gases tóxicos"
+    ],
+    "answer": "Puede dispersar el líquido inflamable y extender el incendio",
+    "explanation": "El agua puede propagar líquidos combustibles, agravando el fuego clase B."
+  },
+  {
+    "question": "¿Qué componente del fuego se puede interrumpir usando un extintor de CO2?",
+    "options": [
+      "Combustible",
+      "Calor",
+      "Comburente",
+      "Reacción en cadena"
+    ],
+    "answer": "Comburente",
+    "explanation": "El CO2 desplaza el oxígeno, cortando el aporte de comburente y apagando el fuego."
+  },
+  {
+    "question": "¿Qué indica el punto de fuego (fire point) de un combustible?",
+    "options": [
+      "Temperatura mínima para emisión de vapores inflamables",
+      "Temperatura mínima para que la combustión se mantenga en ausencia de ignición continua",
+      "Temperatura máxima admisible de almacenamiento",
+      "Temperatura de fusión del material"
+    ],
+    "answer": "Temperatura mínima para que la combustión se mantenga en ausencia de ignición continua",
+    "explanation": "El fire point es la temperatura a la que el fuego se mantiene por sí solo."
+  },
+  {
+    "question": "¿Qué sucede si se elimina la reacción en cadena en un fuego?",
+    "options": [
+      "El fuego se apaga",
+      "El fuego aumenta de intensidad",
+      "La combustión se transforma en oxidación lenta",
+      "El calor aumenta"
+    ],
+    "answer": "El fuego se apaga",
+    "explanation": "Sin reacción en cadena no hay autosostenimiento de la combustión con llama."
+  },
+  {
+    "question": "¿Cuál es el riesgo de usar extintores de agua en fuegos eléctricos (Clase C)?",
+    "options": [
+      "No apagan el fuego",
+      "Pueden provocar cortocircuitos o electrocución",
+      "Generan vapores tóxicos",
+      "No existe riesgo"
+    ],
+    "answer": "Pueden provocar cortocircuitos o electrocución",
+    "explanation": "El agua es conductora de electricidad y representa grave riesgo en fuegos eléctricos."
+>>>>>>> FuegoyTacticas
   }
 ]
 }

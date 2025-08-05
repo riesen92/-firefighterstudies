@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "titulo": "Tipos de combustibles",
   "preguntas": [
     {
@@ -415,6 +416,406 @@
     ],
     "answer": "Es la relación de mezcla gas/aire donde puede producirse combustión",
     "explanation": "El rango de inflamabilidad es el intervalo de concentración de gas en aire dentro del cual una mezcla puede arder si se expone a una fuente de ignición."
+=======
+  "titulo": "Agua",
+  "preguntas": [
+  {
+    "question": "¿Cuál es la principal propiedad física del agua que la hace eficaz para combatir incendios?",
+    "options": [
+      "Bajo punto de ebullición",
+      "Capacidad de absorber calor",
+      "Alta viscosidad",
+      "Elevada conductividad eléctrica"
+    ],
+    "answer": "Capacidad de absorber calor",
+    "explanation": "El agua absorbe grandes cantidades de calor, enfriando materiales calientes y ayudando a controlar el fuego."
+  },
+  {
+    "question": "¿Qué sucede cuando el agua se transforma en vapor durante la extinción de un incendio?",
+    "options": [
+      "Disminuye el volumen y reduce la presión",
+      "Aumenta su volumen y desplaza oxígeno",
+      "Se mezcla con el humo y lo neutraliza",
+      "Enfría la superficie, pero no afecta el oxígeno"
+    ],
+    "answer": "Aumenta su volumen y desplaza oxígeno",
+    "explanation": "El agua al vaporizarse se expande, ayudando a desplazar el oxígeno y dificultar la combustión."
+  },
+  {
+    "question": "La presión de salida del agua en un grifo se mide comúnmente en:",
+    "options": [
+      "Pascal",
+      "Newton",
+      "Bar",
+      "Kilogramo por litro"
+    ],
+    "answer": "Bar",
+    "explanation": "La unidad de presión habitual en hidráulica de bomberos es el 'bar'."
+  },
+  {
+    "question": "La pérdida de presión en una línea de mangueras puede ser causada por:",
+    "options": [
+      "Aumento del diámetro de la manguera",
+      "Incremento de altura, roce interno y cambios de dirección",
+      "Disminución del caudal",
+      "Presión atmosférica constante"
+    ],
+    "answer": "Incremento de altura, roce interno y cambios de dirección",
+    "explanation": "Estos factores afectan la presión efectiva en la entrega de agua."
+  },
+  {
+    "question": "¿Qué elemento se utiliza en la succión de aguas abiertas para evitar que objetos sólidos entren a la bomba?",
+    "options": [
+      "Pitón regulador",
+      "Traspaso",
+      "Alcachofa",
+      "Llave de grifo"
+    ],
+    "answer": "Alcachofa",
+    "explanation": "La alcachofa es un filtro metálico que previene la entrada de piedras u objetos al sistema de bombeo."
+  },
+  {
+    "question": "¿Cuál de los siguientes no es considerado una fuente habitual de agua para bomberos?",
+    "options": [
+      "Aguas abiertas",
+      "Carro aljibe",
+      "Estanques artificiales",
+      "Tanque de combustible"
+    ],
+    "answer": "Tanque de combustible",
+    "explanation": "El tanque de combustible no es fuente de agua, sino de riesgo adicional."
+  },
+  {
+    "question": "En un grifo de incendio, ¿cómo se denomina la pieza que se conecta directamente a la manguera para alimentar el sistema?",
+    "options": [
+      "Traspaso",
+      "Gemelo",
+      "Alcachofa",
+      "Vástago"
+    ],
+    "answer": "Traspaso",
+    "explanation": "El traspaso es el accesorio que une la boquilla del grifo con la manguera storz."
+  },
+  {
+    "question": "¿Cuál es el sentido correcto para abrir un grifo de incendio con la llave correspondiente?",
+    "options": [
+      "En sentido horario",
+      "En sentido antihorario",
+      "Ambos sentidos",
+      "Solo con presión negativa"
+    ],
+    "answer": "En sentido antihorario",
+    "explanation": "El grifo se abre girando la llave en sentido contrario a las agujas del reloj."
+  },
+  {
+    "question": "¿Cuál de las siguientes afirmaciones sobre la señalización de grifos es correcta?",
+    "options": [
+      "Deben tener una línea negra y franja verde si la red es de alta presión",
+      "Solo requieren color amarillo en la tapa",
+      "No necesitan señalización visible",
+      "Se señalizan solo en interiores"
+    ],
+    "answer": "Deben tener una línea negra y franja verde si la red es de alta presión",
+    "explanation": "La señalización ayuda a identificar ubicación y características del grifo."
+  },
+  {
+    "question": "¿Qué herramienta se utiliza para abrir la cámara matriz si el grifo principal no tiene agua?",
+    "options": [
+      "Llave de grifo",
+      "Llave de matriz y dado",
+      "Alcachofa",
+      "Pitón regulador"
+    ],
+    "answer": "Llave de matriz y dado",
+    "explanation": "Permite acceder y operar la válvula matriz subterránea."
+  },
+  {
+    "question": "¿Cuál es la función principal del gemelo o trifurca?",
+    "options": [
+      "Permitir el acople de la manguera al pitón",
+      "Dividir el flujo de agua en varias líneas",
+      "Regular el caudal desde el grifo",
+      "Evitar el retroceso del chorro"
+    ],
+    "answer": "Dividir el flujo de agua en varias líneas",
+    "explanation": "Los gemelos y trifurcas permiten alimentar varios pitones o líneas desde una fuente."
+  },
+  {
+    "question": "¿Qué tipo de unión utilizan las mangueras de bombero para un acople rápido y seguro?",
+    "options": [
+      "Rosca estándar",
+      "Unión tipo storz",
+      "Unión por presión",
+      "Enlace de cadena"
+    ],
+    "answer": "Unión tipo storz",
+    "explanation": "El sistema storz es el estándar por su rapidez y seguridad en acople."
+  },
+  {
+    "question": "Al abrir un grifo, ¿qué acción debe realizarse antes de conectar la manguera?",
+    "options": [
+      "Conectar primero la bomba",
+      "Purgar residuos y verificar flujo de agua",
+      "Colocar la trifurca",
+      "Ajustar el pitón"
+    ],
+    "answer": "Purgar residuos y verificar flujo de agua",
+    "explanation": "Esto previene que impurezas dañen la bomba o la manguera."
+  },
+  {
+    "question": "¿Qué tipo de manguera es preferida para la succión de aguas abiertas?",
+    "options": [
+      "Manguera semirrígida (chorizo)",
+      "Manguera plana colapsable",
+      "Manguera de caucho delgada",
+      "Manguera de jardín"
+    ],
+    "answer": "Manguera semirrígida (chorizo)",
+    "explanation": "El chorizo mantiene la forma y no se colapsa al succionar agua."
+  },
+  {
+    "question": "¿Cuál es la recomendación de seguridad al almacenar mangueras después de un servicio?",
+    "options": [
+      "Guardarlas siempre húmedas",
+      "Desaguar completamente y evitar arrastrarlas",
+      "Enrollarlas sobre el pitón",
+      "Dejarlas tendidas al sol"
+    ],
+    "answer": "Desaguar completamente y evitar arrastrarlas",
+    "explanation": "El agua residual puede dañar las mangueras y arrastrarlas provoca desgaste."
+  },
+  {
+    "question": "¿Qué tipo de enrollado permite un despliegue más rápido en caso de emergencia?",
+    "options": [
+      "Rollo tradicional",
+      "Doble rollo",
+      "Enrollado preconectado",
+      "Enrollado tipo pollo"
+    ],
+    "answer": "Enrollado preconectado",
+    "explanation": "El preconectado está listo para usar directamente desde el carro."
+  },
+  {
+    "question": "¿Qué se debe hacer antes de cerrar un grifo tras finalizar el uso?",
+    "options": [
+      "Desconectar la manguera sin cerrar el grifo",
+      "Cerrar lentamente y en sentido horario",
+      "Dejar el grifo abierto para purgar presión",
+      "Aplicar grasa en la boquilla"
+    ],
+    "answer": "Cerrar lentamente y en sentido horario",
+    "explanation": "Evita golpes de ariete y daños en la red."
+  },
+  {
+    "question": "El pitón regulador permite:",
+    "options": [
+      "Regular caudal y tipo de chorro",
+      "Abrir el grifo sin llave",
+      "Dividir el flujo de agua",
+      "Medir la presión de salida"
+    ],
+    "answer": "Regular caudal y tipo de chorro",
+    "explanation": "El pitón permite ajustar la cantidad de agua y seleccionar patrón de chorro."
+  },
+  {
+    "question": "Una armada simple consiste en:",
+    "options": [
+      "Dos líneas alimentando un solo pitón",
+      "Una sola línea desde el grifo a un pitón",
+      "Una línea dividida a dos pitones",
+      "Una línea en Y desde la matriz"
+    ],
+    "answer": "Una sola línea desde el grifo a un pitón",
+    "explanation": "La armada simple es la disposición más básica y directa."
+  },
+  {
+    "question": "¿Cuál es la ventaja táctica del chorro directo?",
+    "options": [
+      "Cubre mayor superficie",
+      "Penetra capas de calor y permite enfriar puntualmente",
+      "Genera neblina para proteger al operador",
+      "Reduce el consumo de agua"
+    ],
+    "answer": "Penetra capas de calor y permite enfriar puntualmente",
+    "explanation": "El chorro directo es compacto y dirigido, ideal para atacar focos localizados."
+  },
+  {
+    "question": "¿En qué situación se utiliza el cono de protección?",
+    "options": [
+      "Extinción en estructuras cerradas",
+      "Protección ante fugas de gas o incendios en espacios abiertos",
+      "Enfriamiento de superficies calientes",
+      "Desplazamiento de objetos pesados"
+    ],
+    "answer": "Protección ante fugas de gas o incendios en espacios abiertos",
+    "explanation": "El cono de protección genera una cortina de agua que resguarda al personal."
+  },
+  {
+    "question": "¿Cuál es el riesgo principal de utilizar un chorro directo en incendios de líquidos inflamables?",
+    "options": [
+      "El chorro puede dispersar el líquido, propagando el fuego",
+      "Reduce la ventilación del espacio",
+      "Aumenta la presión de la red",
+      "Enfría demasiado el ambiente"
+    ],
+    "answer": "El chorro puede dispersar el líquido, propagando el fuego",
+    "explanation": "El chorro directo desplaza físicamente el líquido, lo que puede empeorar el siniestro."
+  },
+  {
+    "question": "¿Qué debe revisarse en las uniones tipo storz antes de cada servicio?",
+    "options": [
+      "Solo la apariencia exterior",
+      "Que tengan empaquetadura y ganchos de retención en buen estado",
+      "Que estén oxidadas para evitar fugas",
+      "Que estén limpias, sin importar el estado de los ganchos"
+    ],
+    "answer": "Que tengan empaquetadura y ganchos de retención en buen estado",
+    "explanation": "La estanqueidad y la seguridad del acople dependen de estos elementos."
+  },
+  {
+    "question": "El caudal se define como:",
+    "options": [
+      "Presión multiplicada por el diámetro",
+      "Cantidad de agua que fluye en un tiempo dado",
+      "Cantidad de aire desplazado en el incendio",
+      "Altura máxima de la columna de agua"
+    ],
+    "answer": "Cantidad de agua que fluye en un tiempo dado",
+    "explanation": "El caudal se mide en litros por minuto (lpm) o galones por minuto (gpm)."
+  },
+  {
+    "question": "¿Cuál es la consecuencia de abrir el grifo bruscamente?",
+    "options": [
+      "Genera mayor caudal instantáneo",
+      "Provoca golpe de ariete, dañando la red y equipos",
+      "No afecta el sistema",
+      "Facilita la purga de residuos"
+    ],
+    "answer": "Provoca golpe de ariete, dañando la red y equipos",
+    "explanation": "El golpe de ariete es una sobrepresión que daña la infraestructura."
+  },
+  {
+    "question": "En caso de falla del grifo, ¿qué procedimiento alternativo se debe seguir?",
+    "options": [
+      "Buscar otra fuente o abrir la cámara matriz con dado y llave",
+      "Esperar a que vuelva la presión",
+      "Solicitar solo agua embotellada",
+      "Intentar abrir el grifo a la fuerza"
+    ],
+    "answer": "Buscar otra fuente o abrir la cámara matriz con dado y llave",
+    "explanation": "Permite acceder a la red principal en caso de problemas."
+  },
+  {
+    "question": "La función de la tapaboquilla en un grifo es:",
+    "options": [
+      "Evitar fugas de agua cuando no está en uso",
+      "Reducir la presión de salida",
+      "Facilitar el acople de la manguera",
+      "Regular el caudal"
+    ],
+    "answer": "Evitar fugas de agua cuando no está en uso",
+    "explanation": "La tapaboquilla sella la salida del grifo fuera de servicio."
+  },
+  {
+    "question": "¿Por qué es importante verificar el sentido de apertura/cierre del grifo antes de operar?",
+    "options": [
+      "Para evitar dañar el vástago o el mecanismo interno",
+      "Solo por rutina",
+      "Para ahorrar agua",
+      "Para ajustar la presión atmosférica"
+    ],
+    "answer": "Para evitar dañar el vástago o el mecanismo interno",
+    "explanation": "Forzar el grifo en el sentido equivocado puede provocar daños costosos."
+  },
+  {
+    "question": "¿Qué significa una franja verde pintada en el grifo?",
+    "options": [
+      "Grifo con agua de pozo",
+      "Red de alta presión",
+      "No operativo",
+      "Solo uso industrial"
+    ],
+    "answer": "Red de alta presión",
+    "explanation": "La franja verde indica que el grifo pertenece a una red de alta presión."
+  },
+  {
+    "question": "¿Cuál es la forma recomendada de transportar mangueras largas en el lugar del incendio?",
+    "options": [
+      "Arrastrándolas por el suelo",
+      "Enrolladas en preconectados o tipo pollo",
+      "Sobre el hombro arrastrando la punta",
+      "Dobladas en cuatro partes"
+    ],
+    "answer": "Enrolladas en preconectados o tipo pollo",
+    "explanation": "Estas formas facilitan el transporte rápido y seguro sin dañar la manguera."
+  },
+  {
+    "question": "¿Qué elemento permite la unión entre la manguera y la salida del grifo?",
+    "options": [
+      "Empaquetadura",
+      "Traspaso",
+      "Llave de matriz",
+      "Pitón"
+    ],
+    "answer": "Traspaso",
+    "explanation": "El traspaso es el acople específico para unir el grifo a la manguera."
+  },
+  {
+    "question": "¿Cuál es la principal función del pitón de cono de poder?",
+    "options": [
+      "Desplazar llamas y proteger al bombero en el acceso",
+      "Crear neblina para gases tóxicos",
+      "Penetrar estructuras metálicas",
+      "Reducir el caudal"
+    ],
+    "answer": "Desplazar llamas y proteger al bombero en el acceso",
+    "explanation": "El cono de poder genera una lluvia amplia que ayuda en la protección y control del fuego."
+  },
+  {
+    "question": "¿Cuál de los siguientes NO corresponde a una función operativa de la manguera?",
+    "options": [
+      "Transportar agua desde la fuente al pitón",
+      "Permitir el enrollado tipo pollo",
+      "Soportar altas presiones",
+      "Regular el caudal en la boquilla"
+    ],
+    "answer": "Regular el caudal en la boquilla",
+    "explanation": "La regulación de caudal se realiza en el pitón, no en la manguera."
+  },
+  {
+    "question": "¿Qué acción debe evitarse para preservar la vida útil de la manguera?",
+    "options": [
+      "Desaguar completamente después del uso",
+      "Enrollarla húmeda",
+      "Verificar el estado de las uniones",
+      "Almacenarla en un lugar seco"
+    ],
+    "answer": "Enrollarla húmeda",
+    "explanation": "La humedad favorece el deterioro del material de la manguera."
+  },
+  {
+    "question": "¿Cuál es el procedimiento correcto al terminar el uso de una manguera?",
+    "options": [
+      "Arrastrarla directamente al carro",
+      "Desaguar, revisar y enrollar para almacenar",
+      "Dejarla conectada al pitón",
+      "Desconectarla y guardarla húmeda"
+    ],
+    "answer": "Desaguar, revisar y enrollar para almacenar",
+    "explanation": "Permite asegurar el buen estado y disponibilidad de la manguera."
+  },
+  {
+    "question": "¿Cuál es la principal ventaja de la armada doble en el combate de incendios?",
+    "options": [
+      "Permite alimentar un pitón desde dos fuentes distintas",
+      "Aumenta el alcance del chorro directo",
+      "Reduce el consumo de agua",
+      "Disminuye la presión en la línea"
+    ],
+    "answer": "Permite alimentar un pitón desde dos fuentes distintas",
+    "explanation": "La armada doble asegura un suministro estable y permite mayor caudal a un solo pitón."
+>>>>>>> FuegoyTacticas
   }
-  ]
+]
+
 }
