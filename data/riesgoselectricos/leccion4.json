@@ -1,0 +1,137 @@
+{
+  "titulo": "Leccion4",
+  "preguntas": [
+    {
+      "question": "¿Qué se entiende por riesgo eléctrico?",
+      "options": [
+        "Posibilidad de sobrecargar un circuito con varios equipos",
+        "Probabilidad de sufrir una descarga o arco eléctrico por contacto directo o indirecto",
+        "Fallo en el suministro de energía por causas externas",
+        "Situación insegura debida a mala instalación de tableros"
+      ],
+      "answer": "Probabilidad de sufrir una descarga o arco eléctrico por contacto directo o indirecto",
+      "explanation": "El riesgo eléctrico es la probabilidad de ser víctima de descarga o arco eléctrico al estar expuesto a elementos energizados."
+    },
+    {
+      "question": "¿Qué efecto puede provocar la corriente eléctrica al circular por el cuerpo humano?",
+      "options": [
+        "Bronquitis y dolor de cabeza",
+        "Fibrilación ventricular, tetanización, asfixia y quemaduras",
+        "Hipotensión y falta de aire",
+        "Dolor muscular sin consecuencias mayores"
+      ],
+      "answer": "Fibrilación ventricular, tetanización, asfixia y quemaduras",
+      "explanation": "El paso de corriente eléctrica por el cuerpo humano puede afectar directamente funciones vitales y producir lesiones graves."
+    },
+    {
+      "question": "¿Cuál es un ejemplo de condición insegura?",
+      "options": [
+        "Usar escalera metálica bajo líneas energizadas",
+        "Falta de disyuntores, equipos deteriorados o instalaciones no reglamentarias",
+        "Trabajar en circuito vivo sin autorización",
+        "Manipular equipos con manos mojadas"
+      ],
+      "answer": "Falta de disyuntores, equipos deteriorados o instalaciones no reglamentarias",
+      "explanation": "Las condiciones inseguras corresponden a defectos en el entorno o las instalaciones eléctricas."
+    },
+    {
+      "question": "¿Cuál es un ejemplo de acción insegura?",
+      "options": [
+        "Conexiones defectuosas en tableros",
+        "Intervenir circuitos energizados sin autorización ni EPP",
+        "Equipos eléctricos sin mantención",
+        "Tableros sobrecargados"
+      ],
+      "answer": "Intervenir circuitos energizados sin autorización ni EPP",
+      "explanation": "Las acciones inseguras dependen de actitudes indebidas del operador, como trabajar sin autorización ni elementos de protección."
+    },
+    {
+      "question": "¿Qué protege principalmente contra un cortocircuito?",
+      "options": [
+        "La parte térmica del disyuntor",
+        "El fusible y la parte magnética del disyuntor termomagnético",
+        "La línea de tierra",
+        "El protector diferencial"
+      ],
+      "answer": "El fusible y la parte magnética del disyuntor termomagnético",
+      "explanation": "Un cortocircuito genera corrientes muy altas y se protege mediante fusibles y la acción magnética del disyuntor."
+    },
+    {
+      "question": "¿Qué define una falla a masa?",
+      "options": [
+        "Unión accidental entre un conductor activo y la carcasa metálica de un equipo",
+        "Unión intencional entre fase y neutro",
+        "Pérdida de continuidad de un conductor neutro",
+        "Conexión de un cable a tierra sin protección"
+      ],
+      "answer": "Unión accidental entre un conductor activo y la carcasa metálica de un equipo",
+      "explanation": "La falla a masa ocurre cuando un conductor activo hace contacto con la cubierta metálica de un artefacto."
+    },
+    {
+      "question": "¿Qué falla eléctrica se produce cuando circula más corriente que la soportada por un circuito?",
+      "options": [
+        "Sobrecarga",
+        "Pérdida de aislamiento",
+        "Black out",
+        "Inducción"
+      ],
+      "answer": "Sobrecarga",
+      "explanation": "La sobrecarga ocurre cuando un circuito recibe más corriente de la que su diseño soporta, generando sobrecalentamiento."
+    },
+    {
+      "question": "¿Qué caracteriza a un punto caliente en instalaciones eléctricas?",
+      "options": [
+        "Daños por caída de cables energizados",
+        "Calor localizado por uniones defectuosas o envejecimiento, no protegido por disyuntores",
+        "Aumento de tensión por pérdida del neutro",
+        "Exceso de consumo que produce apagado general"
+      ],
+      "answer": "Calor localizado por uniones defectuosas o envejecimiento, no protegido por disyuntores",
+      "explanation": "El punto caliente surge en uniones defectuosas o componentes antiguos y no está cubierto por protecciones comunes."
+    },
+    {
+      "question": "¿Qué riesgo implica la pérdida del neutro en instalaciones trifásicas?",
+      "options": [
+        "Interrupción total de la energía",
+        "Tensiones anómalas que dañan electrodomésticos",
+        "Mayor protección contra sobrecargas",
+        "Aumento del aislamiento de los conductores"
+      ],
+      "answer": "Tensiones anómalas que dañan electrodomésticos",
+      "explanation": "El neutro flotante en sistemas trifásicos altera tensiones fase-neutro y puede dañar equipos conectados."
+    },
+    {
+      "question": "¿Qué es un black out?",
+      "options": [
+        "Un cortocircuito en un tablero",
+        "Oscurecimiento total por exceso de demanda sobre la capacidad de generación",
+        "Falla de aislamiento en un conductor",
+        "Caída de un cable energizado a tierra"
+      ],
+      "answer": "Oscurecimiento total por exceso de demanda sobre la capacidad de generación",
+      "explanation": "El black out ocurre cuando la demanda excede la capacidad de generación, provocando apagado del sistema."
+    },
+    {
+      "question": "¿Qué principio de seguridad establece que toda línea debe considerarse energizada?",
+      "options": [
+        "Principio N°1",
+        "Principio N°2",
+        "Principio N°3",
+        "Ninguno, solo es una recomendación general"
+      ],
+      "answer": "Principio N°1",
+      "explanation": "El principio N°1 indica que toda línea se debe asumir energizada hasta que sea verificada por la empresa distribuidora."
+    },
+    {
+      "question": "En el caso del trolebús de Valparaíso, ¿qué consecuencia tuvo el contacto con la línea de distribución?",
+      "options": [
+        "Falla a masa con incendio controlado",
+        "Electrocución del conductor y una pasajera",
+        "Sobrecarga del sistema eléctrico urbano",
+        "Un simple corte del suministro sin víctimas"
+      ],
+      "answer": "Electrocución del conductor y una pasajera",
+      "explanation": "El caso muestra cómo el contacto accidental con líneas energizadas provocó electrocución fatal."
+    }
+  ]
+}

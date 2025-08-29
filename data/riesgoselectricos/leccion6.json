@@ -1,0 +1,115 @@
+{
+  "titulo": "Leccion6",
+  "preguntas": [
+    {
+      "question": "¿Qué clase de guantes dieléctricos soportan hasta 500 V en CA?",
+      "options": [
+        "Clase 00 (beige)",
+        "Clase 0 (rojo)",
+        "Clase 1 (blanco)",
+        "Clase 2 (amarillo)"
+      ],
+      "answer": "Clase 00 (beige)",
+      "explanation": "Los guantes clase 00 soportan hasta 500 V en corriente alterna, según la tabla dieléctrica."
+    },
+    {
+      "question": "¿Qué regla de oro corresponde a verificar con instrumentos la ausencia de tensión?",
+      "options": [
+        "Regla N°1 Desconectar",
+        "Regla N°2 Prevenir realimentación",
+        "Regla N°3 Verificar ausencia de tensión",
+        "Regla N°4 Poner a tierra y cortocircuito"
+      ],
+      "answer": "Regla N°3 Verificar ausencia de tensión",
+      "explanation": "La regla N°3 establece que debe comprobarse la ausencia de tensión con equipos adecuados."
+    },
+    {
+      "question": "¿Qué distancia mínima se recomienda aislar ante la caída de un cable de media tensión?",
+      "options": [
+        "3 metros",
+        "5 metros",
+        "10 metros",
+        "15 metros"
+      ],
+      "answer": "5 metros",
+      "explanation": "El protocolo indica aislar mínimo 5 m para baja y media tensión, y 10 m para alta tensión."
+    },
+    {
+      "question": "¿Qué es la tensión de paso?",
+      "options": [
+        "Corriente que circula entre dos equipos en paralelo",
+        "Diferencia de potencial en el suelo provocada por un cable caído",
+        "Descarga producida por el arco eléctrico",
+        "Voltaje inducido en rejas cercanas a líneas"
+      ],
+      "answer": "Diferencia de potencial en el suelo provocada por un cable caído",
+      "explanation": "La tensión de paso es el riesgo generado en el suelo alrededor de un conductor energizado caído."
+    },
+    {
+      "question": "¿Qué medios extintores se pueden usar si no es posible cortar la energía eléctrica?",
+      "options": [
+        "Agua de mar y espuma",
+        "CO₂, polvo químico seco o FM200",
+        "Espuma tipo A de alta expansión",
+        "Cualquier chorro de agua con presión"
+      ],
+      "answer": "CO₂, polvo químico seco o FM200",
+      "explanation": "En incendios con electricidad activa, se deben usar agentes no conductores como CO₂, PQS o FM200."
+    },
+    {
+      "question": "¿Qué colores corresponden a las fases en acometida aérea?",
+      "options": [
+        "Blanco y verde",
+        "Azul, negro y rojo",
+        "Rojo, blanco y verde",
+        "Negro y amarillo"
+      ],
+      "answer": "Azul, negro y rojo",
+      "explanation": "Las fases en acometidas aéreas son azul, negro y rojo; el blanco corresponde al neutro y el verde/amarillo a tierra."
+    },
+    {
+      "question": "¿Qué tensión utilizan las líneas antiguas del metro de Santiago?",
+      "options": [
+        "750 Volt CC",
+        "1.500 Volt CC",
+        "3.000 Volt CC",
+        "220 Volt CA"
+      ],
+      "answer": "750 Volt CC",
+      "explanation": "Las líneas 1, 2 y 5 del metro de Santiago operan con 750 V en corriente continua."
+    },
+    {
+      "question": "¿Qué elementos mínimos deben usarse en un rescate por choque con poste?",
+      "options": [
+        "Alfombra dieléctrica, guantes y pértiga",
+        "Detector de CA y bastón Tac Stick",
+        "Pitón con apertura de 30° y agua a presión",
+        "Solo botas con punta azul"
+      ],
+      "answer": "Alfombra dieléctrica, guantes y pértiga",
+      "explanation": "El protocolo establece siempre usar tres medidas de protección: alfombra, guantes y pértiga."
+    },
+    {
+      "question": "¿Qué capacidad máxima continua tienen los generadores ESE 304 HG DIN entregados por la JNB?",
+      "options": [
+        "2,0 kVA",
+        "2,75 kVA",
+        "3,0 kVA",
+        "3,5 kVA"
+      ],
+      "answer": "2,75 kVA",
+      "explanation": "Los generadores suministrados entregan 3,0 kVA como potencia máxima y 2,75 kVA como potencia continua."
+    },
+    {
+      "question": "¿Qué acción inmediata debe realizarse si un Bombero recibe descarga al pitonear?",
+      "options": [
+        "Retirarlo del pitón directamente con las manos",
+        "Empujarlo o desviar el chorro con bota aislante",
+        "Usar agua de mar para enfriar el pitón",
+        "Esperar a que corte la empresa eléctrica"
+      ],
+      "answer": "Empujarlo o desviar el chorro con bota aislante",
+      "explanation": "Se debe empujar al pitonero o desviar el chorro con bota dieléctrica para interrumpir la conducción eléctrica."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "titulo": "Leccion3",
+  "preguntas": [
+    {
+      "question": "¿En qué tipo de edificios suelen encontrarse instalaciones con alimentación en media tensión?",
+      "options": [
+        "En viviendas unifamiliares",
+        "En industrias, hospitales y centros comerciales",
+        "En cabañas rurales aisladas",
+        "Solo en edificios con paneles solares"
+      ],
+      "answer": "En industrias, hospitales y centros comerciales",
+      "explanation": "Las instalaciones de media tensión son comunes en edificaciones con gran demanda de energía como hospitales, malls e industrias."
+    },
+    {
+      "question": "¿Qué color identifica habitualmente las tuberías de PVC de baja tensión en edificios?",
+      "options": [
+        "Azul",
+        "Naranjo",
+        "Verde",
+        "Blanco"
+      ],
+      "answer": "Naranjo",
+      "explanation": "La norma indica que las tuberías de PVC de baja tensión en edificios suelen ser de color naranjo."
+    },
+    {
+      "question": "¿Qué función cumplen las luces piloto en los tableros generales?",
+      "options": [
+        "Indicar la presencia de tensión en las fases",
+        "Aumentar el factor de potencia",
+        "Transformar corriente alterna en continua",
+        "Reducir la tensión para iluminación"
+      ],
+      "answer": "Indicar la presencia de tensión en las fases",
+      "explanation": "Las luces piloto permiten visualizar si un tablero está energizado en sus fases."
+    },
+    {
+      "question": "¿Qué objetivo tiene el banco de condensadores en instalaciones industriales?",
+      "options": [
+        "Almacenar energía eléctrica para emergencias",
+        "Mejorar el factor de potencia evitando el atraso de la corriente",
+        "Reducir la tensión de media a baja",
+        "Transformar corriente continua en alterna"
+      ],
+      "answer": "Mejorar el factor de potencia evitando el atraso de la corriente",
+      "explanation": "El banco de condensadores corrige el desfase entre corriente y tensión para optimizar el uso de energía."
+    },
+    {
+      "question": "¿Qué dispositivos se consideran sistemas de respaldo eléctrico?",
+      "options": [
+        "Ducto barra y protector diferencial",
+        "Grupo electrógeno, UPS y celdas fotovoltaicas",
+        "Transformadores y tableros generales",
+        "Fusibles y disyuntores"
+      ],
+      "answer": "Grupo electrógeno, UPS y celdas fotovoltaicas",
+      "explanation": "Los sistemas de respaldo permiten mantener suministro ante cortes de la fuente principal."
+    },
+    {
+      "question": "¿Qué es un ducto barra?",
+      "options": [
+        "Un sistema de ventilación subterráneo",
+        "Un sistema prefabricado con barras conductoras de aluminio o cobre",
+        "Un interruptor automático de gran capacidad",
+        "Un tablero eléctrico secundario"
+      ],
+      "answer": "Un sistema prefabricado con barras conductoras de aluminio o cobre",
+      "explanation": "El ducto barra es un sistema de distribución eléctrica en carcasa protectora, con barras metálicas como conductores."
+    },
+    {
+      "question": "¿Dónde se realiza el corte de suministro en un empalme domiciliario?",
+      "options": [
+        "En el transformador de distribución",
+        "En la bandeja portaconductores",
+        "En el disyuntor instalado en la caja del medidor",
+        "En el banco de condensadores"
+      ],
+      "answer": "En el disyuntor instalado en la caja del medidor",
+      "explanation": "El corte de energía hacia el interior de la casa se efectúa abriendo el disyuntor en la caja del medidor."
+    },
+    {
+      "question": "¿Qué dispositivo protege la vida de las personas frente a fugas de corriente?",
+      "options": [
+        "Fusible",
+        "Protector diferencial",
+        "Disyuntor termomagnético",
+        "Interruptor"
+      ],
+      "answer": "Protector diferencial",
+      "explanation": "El diferencial abre el circuito cuando detecta diferencias entre la corriente de ida y retorno, protegiendo al usuario."
+    },
+    {
+      "question": "¿Qué ventaja tiene el disyuntor termomagnético frente al fusible?",
+      "options": [
+        "Es más económico y se funde más rápido",
+        "Puede reconectarse tras resolver la falla",
+        "Protege únicamente la vida del usuario",
+        "No requiere instalación en tableros"
+      ],
+      "answer": "Puede reconectarse tras resolver la falla",
+      "explanation": "El disyuntor puede rearmarse después de eliminar la causa de la sobrecorriente, a diferencia del fusible que se reemplaza."
+    },
+    {
+      "question": "¿Qué color identifica los cables de alto voltaje en vehículos eléctricos?",
+      "options": [
+        "Rojo",
+        "Amarillo",
+        "Naranja",
+        "Verde"
+      ],
+      "answer": "Naranja",
+      "explanation": "En vehículos eléctricos los componentes de alto voltaje se identifican con color naranja."
+    },
+    {
+      "question": "¿Cuál es el rango de tensión continua en los cables de alto voltaje de vehículos eléctricos?",
+      "options": [
+        "12 a 48 Volt",
+        "110 a 220 Volt",
+        "360 a 600 Volt",
+        "1.000 a 1.200 Volt"
+      ],
+      "answer": "360 a 600 Volt",
+      "explanation": "Los cables naranjos en vehículos eléctricos conducen entre 360 y 600 V en corriente continua."
+    },
+    {
+      "question": "¿Qué riesgos principales enfrentan los bomberos al intervenir vehículos eléctricos?",
+      "options": [
+        "Únicamente riesgo de fuego",
+        "Descarga eléctrica, arco eléctrico, fuego y químicos",
+        "Riesgo de baja tensión por fusibles",
+        "Solo riesgo químico por baterías"
+      ],
+      "answer": "Descarga eléctrica, arco eléctrico, fuego y químicos",
+      "explanation": "Los riesgos más relevantes en vehículos eléctricos son de naturaleza eléctrica, térmica y química."
+    }
+  ]
+}

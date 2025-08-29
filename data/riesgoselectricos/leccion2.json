@@ -1,0 +1,137 @@
+{
+  "titulo": "Leccion2",
+  "preguntas": [
+    {
+      "question": "¿Cuáles son las tres etapas principales del sistema eléctrico antes del consumo?",
+      "options": [
+        "Generación, transmisión y distribución",
+        "Producción, transformación y consumo",
+        "Almacenamiento, distribución y consumo",
+        "Captación, generación y conversión"
+      ],
+      "answer": "Generación, transmisión y distribución",
+      "explanation": "El sistema eléctrico funciona en tres etapas antes del consumo: producción (generación), transmisión y distribución."
+    },
+    {
+      "question": "¿Qué sistema eléctrico abastece desde Arica hasta Chiloé?",
+      "options": [
+        "Sistema de Magallanes (SEM)",
+        "Sistema de Aysén (SEA)",
+        "Sistema Eléctrico Nacional (SEN)",
+        "Sistema Interconectado Central (SIC)"
+      ],
+      "answer": "Sistema Eléctrico Nacional (SEN)",
+      "explanation": "El SEN cubre todo el país desde Arica hasta Chiloé, siendo el sistema troncal."
+    },
+    {
+      "question": "¿Cuál es la función principal de las plantas generadoras?",
+      "options": [
+        "Reducir el voltaje para uso domiciliario",
+        "Producir alto voltaje para los sistemas de distribución",
+        "Almacenar energía en transformadores",
+        "Distribuir electricidad a consumidores finales"
+      ],
+      "answer": "Producir alto voltaje para los sistemas de distribución",
+      "explanation": "Las plantas producen electricidad en alto voltaje, que luego se adapta en subestaciones para consumo."
+    },
+    {
+      "question": "¿Qué característica tienen las torres de alta tensión?",
+      "options": [
+        "Siempre llevan un solo conductor",
+        "Se componen de tres o múltiplos de tres líneas y un cable superior pararrayos",
+        "Funcionan solo en corriente continua",
+        "Transmiten solo a 220 V"
+      ],
+      "answer": "Se componen de tres o múltiplos de tres líneas y un cable superior pararrayos",
+      "explanation": "Las torres soportan tres fases (o múltiplos) y una línea superior para protección y comunicaciones."
+    },
+    {
+      "question": "¿Cuál es la función principal de las subestaciones de poder?",
+      "options": [
+        "Aumentar el voltaje para transmisión",
+        "Reducir el voltaje para distribución pública e industrial",
+        "Generar electricidad a partir de fósiles",
+        "Almacenar energía eléctrica en baterías"
+      ],
+      "answer": "Reducir el voltaje para distribución pública e industrial",
+      "explanation": "Las subestaciones reducen la alta tensión de transmisión a niveles adecuados para distribución."
+    },
+    {
+      "question": "¿Qué proceso describe la distribución de la electricidad?",
+      "options": [
+        "El transporte desde plantas a subestaciones",
+        "El suministro al consumidor final mediante líneas y transformadores",
+        "La generación a partir de energías renovables",
+        "La elevación de voltaje para minimizar pérdidas"
+      ],
+      "answer": "El suministro al consumidor final mediante líneas y transformadores",
+      "explanation": "La distribución conecta las redes de media/baja tensión con el usuario final."
+    },
+    {
+      "question": "¿Cuál es la tensión nominal entre fase y neutro en baja tensión?",
+      "options": [
+        "380 V",
+        "220 V",
+        "110 V",
+        "12.000 V"
+      ],
+      "answer": "220 V",
+      "explanation": "La tabla de baja tensión indica que entre fase y neutro la tensión es de 220 V."
+    },
+    {
+      "question": "¿Cuál es la tensión nominal entre fase y fase en baja tensión?",
+      "options": [
+        "220 V",
+        "380 V",
+        "12 kV",
+        "23 kV"
+      ],
+      "answer": "380 V",
+      "explanation": "En baja tensión, entre fases la tensión nominal es de 380 V."
+    },
+    {
+      "question": "¿Cuál es la función de un transformador de distribución?",
+      "options": [
+        "Elevar el voltaje de baja a media tensión",
+        "Convertir media tensión en baja tensión y agregar neutro a tierra",
+        "Almacenar energía eléctrica para respaldo",
+        "Convertir corriente alterna en continua para tracción"
+      ],
+      "answer": "Convertir media tensión en baja tensión y agregar neutro a tierra",
+      "explanation": "Los transformadores de distribución reducen MT a BT y añaden un neutro conectado a tierra."
+    },
+    {
+      "question": "¿Qué se entiende por acometida?",
+      "options": [
+        "Unión de la red de distribución con la planta generadora",
+        "Conductores que unen el equipo de medida con el punto de empalme a la red",
+        "Conjunto de materiales que conectan la instalación del cliente a la red",
+        "Estructura metálica que soporta las líneas de transmisión"
+      ],
+      "answer": "Conductores que unen el equipo de medida con el punto de empalme a la red",
+      "explanation": "La acometida es el tramo de conductores que conecta el medidor con el punto de empalme."
+    },
+    {
+      "question": "¿Qué se entiende por empalme?",
+      "options": [
+        "Conjunto de materiales y equipos que conectan la instalación del cliente a la red de distribución",
+        "Unión entre dos torres de transmisión",
+        "Transformador que cambia de media a baja tensión",
+        "Canalización subterránea de cables de alta tensión"
+      ],
+      "answer": "Conjunto de materiales y equipos que conectan la instalación del cliente a la red de distribución",
+      "explanation": "El empalme es el conjunto de equipos y materiales que vinculan la instalación del cliente con la red."
+    },
+    {
+      "question": "¿Qué tensión típica corresponde a corrientes débiles (telefonía, timbres) respecto a tierra?",
+      "options": [
+        "12 kV",
+        "220 V",
+        "380 V",
+        "110 V"
+      ],
+      "answer": "110 V",
+      "explanation": "En la tabla de BT, las corrientes débiles respecto a tierra corresponden a 110 V."
+    }
+  ]
+}

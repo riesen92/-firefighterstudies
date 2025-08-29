@@ -1,0 +1,137 @@
+{
+  "titulo": "Leccion1",
+  "preguntas": [
+    {
+      "question": "¿Qué elementos forman el circuito eléctrico básico?",
+      "options": [
+        "Generador, conductores y carga",
+        "Voltaje, corriente y resistencia",
+        "Fuente, fusible y capacitor",
+        "Transformador, línea y tierra"
+      ],
+      "answer": "Generador, conductores y carga",
+      "explanation": "El circuito se define como una interconexión cerrada entre generador, conductores y carga."
+    },
+    {
+      "question": "¿Qué magnitud se mide en voltios (V)?",
+      "options": [
+        "Corriente",
+        "Tensión o voltaje",
+        "Resistencia",
+        "Potencia"
+      ],
+      "answer": "Tensión o voltaje",
+      "explanation": "El volt se usa para expresar la diferencia de potencial eléctrico, también llamada tensión o voltaje."
+    },
+    {
+      "question": "¿Cuál es la unidad de medida de la corriente eléctrica?",
+      "options": [
+        "Voltio (V)",
+        "Watt (W)",
+        "Amperio (A)",
+        "Ohmio (Ω)"
+      ],
+      "answer": "Amperio (A)",
+      "explanation": "La intensidad de corriente eléctrica se mide en amperios (A)."
+    },
+    {
+      "question": "¿Cuál es la relación de la Ley de Ohm?",
+      "options": [
+        "I = V·R",
+        "I = V/R",
+        "V = I+R",
+        "P = V/R"
+      ],
+      "answer": "I = V/R",
+      "explanation": "La Ley de Ohm establece que la corriente es la tensión dividida por la resistencia."
+    },
+    {
+      "question": "¿Cómo se calcula la potencia eléctrica?",
+      "options": [
+        "P = V·I",
+        "P = I/R",
+        "P = V²/R",
+        "P = R·I²"
+      ],
+      "answer": "P = V·I",
+      "explanation": "La potencia activa se obtiene multiplicando el voltaje por la corriente."
+    },
+    {
+      "question": "En la analogía hidráulica, el voltaje se compara con:",
+      "options": [
+        "El caudal",
+        "El diámetro de la manguera",
+        "La presión",
+        "El rozamiento"
+      ],
+      "answer": "La presión",
+      "explanation": "En la analogía, el voltaje es la presión que impulsa el flujo de corriente."
+    },
+    {
+      "question": "¿Qué característica define a la corriente continua (CC)?",
+      "options": [
+        "Varía sinusoidalmente",
+        "Mantiene polaridad constante",
+        "Consta de tres fases desfasadas 120°",
+        "Se mide en kilovatios-hora"
+      ],
+      "answer": "Mantiene polaridad constante",
+      "explanation": "La CC es un flujo unidireccional de electrones con polaridad fija."
+    },
+    {
+      "question": "¿Qué característica define a la corriente alterna (CA)?",
+      "options": [
+        "Fluye siempre en la misma dirección",
+        "Varía de magnitud y polaridad en forma sinusoidal",
+        "Consta de un solo polo negativo",
+        "No puede transformarse con dispositivos"
+      ],
+      "answer": "Varía de magnitud y polaridad en forma sinusoidal",
+      "explanation": "La CA cambia periódicamente de valor y dirección, normalmente con forma senoidal."
+    },
+    {
+      "question": "En un sistema trifásico, las tres fases están desfasadas:",
+      "options": [
+        "90° entre sí",
+        "120° entre sí",
+        "180° entre sí",
+        "60° entre sí"
+      ],
+      "answer": "120° entre sí",
+      "explanation": "La corriente alterna trifásica consta de tres ondas senoidales desfasadas 120°."
+    },
+    {
+      "question": "¿Qué ocurre si conectamos una estufa de 2200 W en 220 V a un circuito de 6 A?",
+      "options": [
+        "Es seguro, porque la potencia es menor a 3 kW",
+        "La corriente será de 10 A y supera el límite del circuito",
+        "El voltaje se ajusta para que consuma 6 A",
+        "La estufa se autolimita por resistencia"
+      ],
+      "answer": "La corriente será de 10 A y supera el límite del circuito",
+      "explanation": "I = P/V = 2200/220 = 10 A, lo que excede la capacidad del circuito de 6 A."
+    },
+    {
+      "question": "¿Cuál de los siguientes materiales es un aislante eléctrico?",
+      "options": [
+        "Cobre",
+        "Aluminio",
+        "PVC",
+        "Silicio"
+      ],
+      "answer": "PVC",
+      "explanation": "El PVC es un material dieléctrico que impide el paso de la corriente."
+    },
+    {
+      "question": "¿Qué magnitud se mide en kilowatt-hora (kWh)?",
+      "options": [
+        "Potencia instantánea",
+        "Corriente",
+        "Energía consumida",
+        "Resistencia"
+      ],
+      "answer": "Energía consumida",
+      "explanation": "El kWh es la unidad comercial de energía usada para facturación eléctrica."
+    }
+  ]
+}

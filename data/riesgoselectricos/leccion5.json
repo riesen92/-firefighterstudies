@@ -1,0 +1,126 @@
+{
+  "titulo": "Leccion5",
+  "preguntas": [
+    {
+      "question": "¿Qué se entiende por contacto directo con electricidad?",
+      "options": [
+        "Tocar accidentalmente una reja energizada por falla a masa",
+        "Entrar en contacto con un componente normalmente energizado de la instalación",
+        "Manipular un equipo eléctrico sin guantes",
+        "Sufrir un black out en la instalación"
+      ],
+      "answer": "Entrar en contacto con un componente normalmente energizado de la instalación",
+      "explanation": "El contacto directo ocurre al tocar partes que normalmente están bajo tensión."
+    },
+    {
+      "question": "¿Qué se entiende por contacto indirecto?",
+      "options": [
+        "Contacto con un componente siempre energizado",
+        "Contacto con elementos metálicos accidentalmente energizados por falla a masa",
+        "Contacto con la fase y el neutro simultáneamente",
+        "Contacto con instalaciones subterráneas reguladas"
+      ],
+      "answer": "Contacto con elementos metálicos accidentalmente energizados por falla a masa",
+      "explanation": "El contacto indirecto ocurre al tocar superficies que no deberían estar energizadas pero lo están por una falla."
+    },
+    {
+      "question": "Según la tabla, ¿qué corriente atraviesa el cuerpo con 220 Volt y 1.500 Ω de resistencia?",
+      "options": [
+        "2,4 mA",
+        "21,7 mA",
+        "75 mA",
+        "147 mA"
+      ],
+      "answer": "147 mA",
+      "explanation": "Aplicando la Ley de Ohm: I = V/R = 220/1500 = 0,147 A = 147 mA."
+    },
+    {
+      "question": "¿Qué factor de corriente se aplica al trayecto pecho–mano izquierda?",
+      "options": [
+        "1,5",
+        "1,0",
+        "0,7",
+        "0,4"
+      ],
+      "answer": "1,5",
+      "explanation": "El trayecto pecho–mano izquierda tiene un factor de 1,5, considerado el más peligroso por proximidad al corazón."
+    },
+    {
+      "question": "¿Cuál es el recorrido de corriente más riesgoso para fibrilación ventricular?",
+      "options": [
+        "Mano derecha a pie",
+        "Pecho a mano izquierda",
+        "Espalda a mano derecha",
+        "Mano izquierda a mano derecha"
+      ],
+      "answer": "Pecho a mano izquierda",
+      "explanation": "El trayecto pecho–mano izquierda está directamente relacionado con el corazón, con factor 1,5."
+    },
+    {
+      "question": "¿Cuál es la principal diferencia entre efectos de corriente alterna y continua?",
+      "options": [
+        "La alterna no produce quemaduras",
+        "La continua no puede causar fibrilación",
+        "Ambas son letales, aunque varían los umbrales de percepción y no soltar",
+        "La continua siempre es más peligrosa"
+      ],
+      "answer": "Ambas son letales, aunque varían los umbrales de percepción y no soltar",
+      "explanation": "Tanto CA como CC pueden ser mortales, con pequeñas diferencias en los umbrales de percepción y fibrilación."
+    },
+    {
+      "question": "¿Qué tipo de quemadura corresponde a la zona 1?",
+      "options": [
+        "Carbonización de la piel",
+        "Enrojecimiento con hinchazón en bordes",
+        "Coloración parda con hinchazón prolongada",
+        "Sin alteración visible de la piel"
+      ],
+      "answer": "Enrojecimiento con hinchazón en bordes",
+      "explanation": "La zona 1 se caracteriza por enrojecimiento de la piel y leve inflamación."
+    },
+    {
+      "question": "¿Qué significa el umbral de 'no soltar'?",
+      "options": [
+        "La corriente mínima para producir fibrilación",
+        "La intensidad en la que la víctima no puede liberar el contacto",
+        "La tensión mínima perceptible por el cuerpo",
+        "El tiempo máximo seguro de exposición"
+      ],
+      "answer": "La intensidad en la que la víctima no puede liberar el contacto",
+      "explanation": "El umbral de no soltar es el valor de corriente en el que los músculos se contraen y la víctima no logra soltar el conductor."
+    },
+    {
+      "question": "¿Cuál es la conducta inicial en primeros auxilios ante descarga eléctrica?",
+      "options": [
+        "Aplicar agua sobre la víctima",
+        "Retirar la ropa pegada a la piel",
+        "Cortar el suministro eléctrico y proteger la integridad",
+        "Trasladar inmediatamente sin evaluar"
+      ],
+      "answer": "Cortar el suministro eléctrico y proteger la integridad",
+      "explanation": "La primera acción es protegerse y cortar la energía antes de asistir a la víctima."
+    },
+    {
+      "question": "¿Qué debe hacerse si la víctima tiene fuego en la ropa?",
+      "options": [
+        "Apagar con extintor de PQS",
+        "Aplicar agua a presión",
+        "Apagar con manta o técnica de rodar, nunca con PQS",
+        "Esperar asistencia médica sin actuar"
+      ],
+      "answer": "Apagar con manta o técnica de rodar, nunca con PQS",
+      "explanation": "Las recomendaciones señalan usar mantas o rodar al suelo, evitando agua o polvo químico."
+    },
+    {
+      "question": "¿Qué equipo es fundamental llevar en rescates eléctricos por riesgo de paro cardiorrespiratorio?",
+      "options": [
+        "Botiquín y férulas",
+        "Extintor de CO₂",
+        "Desfibrilador externo automático (DEA)",
+        "Detector de tensión portátil"
+      ],
+      "answer": "Desfibrilador externo automático (DEA)",
+      "explanation": "Toda víctima de descarga puede entrar en PCR, por lo que el DEA es esencial en el socorro."
+    }
+  ]
+}
